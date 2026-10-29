@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IA-UNAM Bibliométrico v10 — Paquete completo de reproducibilidad
 
 **Fecha**: 29 de octubre de 2026
@@ -181,3 +182,6 @@ Resultados IA-UNAM frente a referencia:
 ## Contacto
 
 Para dudas o revisión, consultar `05_auditoria/IA_UNAM_Audit_Trail.md`.
+=======
+# ADS_IA_UNAM
+>>>>>>> a9074e341d5e2bc2a66f0642212679444df64363
