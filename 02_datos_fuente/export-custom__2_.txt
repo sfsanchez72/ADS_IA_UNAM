@@ -1,0 +1,1001 @@
+bibcode|authors|citation_count
+"2026RMxAA..62...87S""Sanchez Sanchez, S. F., Méndez-Delgado, J. E., Mejía-Narváez, A., Román-Zuñiga, C., Erogov, O., Morisset, C., Drory, N., oBlanc, G. A., Kreckel, K., Johnston, E. J., Katkov, Ivan Yu., Roman Lopes, A., Villa-Durango, M. A., Ibarra-Medel, H., Rix, H.-W., de J. Zermeño, R., Fernández Trincado, J. G., Orozco Duarte, R., Singh, A., García, P., Stringfellow, G. S., Sabin, L., Toalá, J., and Jones, A. M.""0",
+
+"2026arXiv260322382S""Singh, Amrita, Blanc, Guillermo A., Kumari, Nimisha, Méndez-Delgado, J. E., Sánchez, Sebastián F., Morisset, Christophe, Congiu, Enrico, Kreckel, Kathryn, Roman-Lopes, Alexandre, Egorov, Oleg, Drory, Niv, Sankrit, Ravi, Mejía-Narváez, Alfredo, Egorova, Evgeniya, Jones, Amy M., Bizyaev, Dmitry, Sattler, Natascha, Johnston, Evelyn J., Minniti, Dante, Zermeño, Rodolfo de J., Fernández-Trincado, José G., and Kollmeier, Juna A.""0",
+
+"2026ApJ...999..263L""Lin, Lihwai, Wu, Po-Feng, Thorp, Mallory D., Bluck, Asa F. L., Pan, Hsi-An, Ellison, Sara L., Rowlands, Kate, Otter, Justin Atsushi, and Sánchez, Sebastián F.""0",
+
+"2026ApJ...997..339H""Hilder, Thomas, Casey, Andrew R., Dalcanton, Julianne J., Kreckel, Kathryn, Stutz, Amelia M., Singh, Amrita, Blanc, Guillermo A., Sánchez, Sebastián F., Méndez-Delgado, J. E., Saydjari, Andrew K., Vargas-Herrera, Luciano, Drory, Niv, Bizyaev, Dmitry, Fernández-Trincado, José G., Román-Zúñiga, Carlos G., Kollmeier, Juna A., Katkov, Ivan Yu., and Johnston, Evelyn J.""1",
+
+"2026A&A...706A..56C""Camps-Fariña, A., Chamorro-Cazorla, M., and Sánchez, S. F.""0",
+
+"2026PASA...43...29C""Çakır, Oğuzhan, Owers, Matt S., Cortese, Luca, Pak, Mina, Quattropani, Gabriella, Barsanti, Stefania, Bryant, Julia J., Couch, Warrick J., Croom, Scott M., Das, Pratyush K., Lawrence, Jon S., Mai, Yifan, Ristea, Andrei, Sánchez, Sebastian F., Sweet, Sarah, van de Sande, Jesse, van de Ven, Glenn, and Yi, Sukyoung K.""0",
+
+"2026A&A...706A..81S""Sattler, Natascha, Méndez-Delgado, J. Eduardo, Kreckel, Kathryn, Morisset, Christophe, Egorov, Oleg, Egorova, Evgeniya, Nemer, Ahmad, Liang, Fu-Heng, Sander, A. A. C., Roman-Lopes, Alexandre, Román-Zúñiga, Carlos G., Johnston, Evelyn J., Sánchez, Sebastián F., Fernández-Trincado, José G., Drory, Niv, Singh, Amrita, Bizyaev, Dmitry, Sarbadhicary, Sumit K., García, Pablo, Mejía-Narváez, Alfredo, and Blanc, Guillermo A.""2",
+
+"2026ApJ...998..278S""Sarbadhicary, Sumit K., Long, Knox S., Raymond, John C., Sankrit, Ravi, Egorov, Oleg V., Roman-Lopes, Alexandre, Blanc, Guillermo A., Gelfand, Joseph D., Badenes, Carles, Drory, Niv, Fernández-Trincado, José G., García, Pablo, Johnston, Evelyn J., Jones, Amy M., Katkov, Ivan Yu., Kreckel, Kathryn, Li, Jing, Mejía-Narváez, Alfredo, Méndez-Delgado, J. Eduardo, Orozco-Duarte, Rogelio, Sanchez, Sebastian, Wong, Tony, and SDSS-V LVM Collaboration""2",
+
+"2026RNAAS..10...35S""Sánchez Almeida, Jorge, Trujillo, Ignacio, Sánchez, Sebastián F., and Montes, Mireia""0",
+
+"2026AJ....171...52K""Kollmeier, Juna A., Rix, Hans-Walter, Aerts, Conny, Aird, James, Vera Alfaro, Pablo, Almeida, Andrés, Anderson, Scott F., Arseneau, Stefan M., Assef, Roberto J., Aviram, Shir, Aydar, Catarina, Badenes, Carles, Bandyopadhyay, Avrajit, Barger, Kat, Barkhouser, Robert H., Bauer, Franz E., Behmard, Aida, Bender, Chad, Besser, Felipe, Bhattarai, Binod, Bilgi, Pavaman, Bird, Jonathan, Bizyaev, Dmitry, Blanc, Guillermo A., Blanton, Michael R., Bochanski, John, Bovy, Jo, Brandon, Christopher, Brandt, William Nielsen, Brownstein, Joel R., Buchner, Johannes, Burchett, Joseph N., Carlberg, Joleen, Casey, Andrew R., Castaneda-Carlos, Lesly, Chakraborty, Priyanka, Chanamé, Julio, Chandra, Vedant, Cherinka, Brian, Chilingarian, Igor, Comparat, Johan, Cosens, Maren, Covey, Kevin, Crane, Jeffrey D., Crumpler, Nicole R., Cruz-Gonzalez, Irene, Cunha, Katia, Cunningham, Tim, Dai, Xinyu, Darling, Jeremy, Davidson, James W., Davis, Megan C., De Lee, Nathan, Deacon, Niall, Méndez Delgado, José Eduardo, Demasi, Sebastian, Demianenko, Mariia, Derwent, Mark, D'Onghia, Elena, Di Mille, Francesco, Dias, Bruno, Donor, John, Dow, Peter N., Drory, Niv, Dwelly, Tom, Egorov, Oleg, Egorova, Evgeniya, El-Badry, Kareem, Engelman, Mike, Eracleous, Mike, Fan, Xiaohui, Farr, Emily, Fries, Logan, Frinchaboy, Peter, Froning, Cynthia S., Gänsicke, Boris T., García, Pablo, Gelfand, Joseph, Gentile Fusillo, Nicola Pietro, Glover, Simon, Grabowski, Katie, Grebel, Eva K., Green, Paul J., Grier, Catherine, Gupta, Pramod, Gray, Aidan C., Häberle, Maximilian, Hall, Patrick B., Hammond, Randolph P., Hawkins, Keith, Harding, Albert C., Hegedűs, Viola, Herbst, Tom, Hermes, J. J., Rodríguez Hidalgo, Paola, Hilder, Thomas, Hogg, David W., Holtzman, Jon A., Horta, Danny, Huang, Yang, Hwang, Hsiang-Chih, Ibarra-Medel, Hector Javier, Imig, Julie, Inight, Keith, Jana, Arghajit, Ji, Alexander P., Jiménez-Arranz, Óscar, Jofre, Paula, Johns, Matt, Johnson, Jennifer, Johnson, James W., Johnston, Evelyn J., Jones, Amy M., Katkov, Ivan, Knapp, Gillian R., Koekemoer, Anton M., Kounkel, Marina, Kreckel, Kathryn, Krishnarao, Dhanesh, Krumpe, Mirko, Kumari, Nimisha, Kupfer, Thomas, Lacerna, Ivan, Laporte, Chervin, Lepine, Sebastien, Li, Jing, Liu, Xin, Loebman, Sarah, Long, Knox, Roman-Lopes, Alexandre, Lu, Yuxi, Majewski, Steven Raymond, Maoz, Dan, McKinnon, Kevin A., Medan, Ilija, Merloni, Andrea, Minniti, Dante, Morrison, Sean, Myers, Natalie, Mészáros, Szabolcs, Nandra, Kirpal, Nayak, Prasanta K., Ness, Melissa K., Nidever, David L., O'Brien, Thomas, Oeur, Micah, Oravetz, Audrey, Oravetz, Daniel, Otto, Jonah, Pallathadka, Gautham Adamane, Palunas, Povilas, Pan, Kaike, Pappalardo, Daniel, Pandey, Rakesh, Negrete Peñaloza, Castalia Alenka, Pinsonneault, Marc H., Pogge, Richard W., Taghizadeh Popp, Manuchehr, Price-Whelan, Adrian M., Pulatova, Nadiia, Qiu, Dan, Ramirez, Solange, Rankine, Amy, Ricci, Claudio, Runnoe, Jessie C., Sanchez, Sebastian, Salvato, Mara, Sarbadhicary, Sumit K., Sattler, Natascha, Saydjari, Andrew K., Sayres, Conor, Schinnerer, Eva, Schlaufman, Kevin C., Schneider, Donald P., Schreiber, Matthias R., Schwope, Axel, Serna, Javier, Shen, Yue, Sifón, Cristóbal, Singh, Amrita, Sinha, Amaya, Smee, Stephen, Song, Ying-Yi, Souto, Diogo, Stassun, Keivan G., Steinmetz, Matthias, Stone-Martinez, Alexander, Stringfellow, Guy, Stutz, Amelia, Sánchez-Gallego, José, Tan, Jonathan C., Tayar, Jamie, Thai, Riley, Thakar, Ani, Ting, Yuan-Sen, Tkachenko, Andrew, Tovmassian, Gagik, Trakhtenbrot, Benny, Fernández-Trincado, José G., and Troup, Nicholas""71",
+
+"2026A&A...705C...1P""Pessi, T., Prieto, J. L., Anderson, J. P., Galbany, L., Lyman, J. D., Kochanek, C., Dong, S., Forster, F., González-Díaz, R., Gonzalez-Gaitan, S., Gutiérrez, C. P., Holoien, T. W.-S., James, P. A., Jiménez-Palau, C., Johnston, E. J., Kuncarayakti, H., Rosales-Ortega, F., Sánchez, S. F., Schulze, S., and Shappee, B.""0",
+
+"2026MNRAS.545f2093P""Pursiainen, M., Leloudas, G., Lyman, J., Byrne, C. M., Charalampopoulos, P., Ramsden, P., Kim, S., Schulze, S., Anderson, J. P., Bauer, F. E., Dai, L., Galbany, L., Kuncarayakti, H., Nicholl, M., Pessi, T., Prieto, J. L., and Sanchez, S. F.""2",
+
+"2025A&A...704A.145S""Sánchez, S. F., Muñoz-Tuñón, C., Sánchez Almeida, J., González-Martín, O., and Pérez, E.""3",
+
+"2025A&A...703A.303Z""Zari, Eleonora, Villaseñor, Jaime, Kounkel, Marina, Rix, Hans-Walter, Frankel, Neige, Tkachenko, Andrew, Khoperskov, Sergey, D'Onghia, Elena, Roman-Lopes, Alexandre, Román-Zúñiga, Carlos, Stringfellow, Guy S., Tan, Jonathan C., Wofford, Aida, Bizyaev, Dmitry, Donor, John, Fernández-Trincado, José G., Morrison, Sean, Pan, Kaike, Sanchez, Sebastian F., and Saydjari, Andrew""1",
+
+"2025MNRAS.543.4272N""Negrete, C. A., Sandoval-Orozco, R., Ibarra-Medel, H., Tapia-Benavides, B. I., Assef, R. J., Dultzin, D., Lacerna, I., Morrison, S., Anderson, S. F., Rodríguez Hidalgo, P., Aydar, C., Bauer, F. E., Benitez, E., Bizyaev, D., Brandt, W. N., Brownstein, J. R., Buchner, J., Cruz-González, I., González-Buitrago, D., Hernández-Toledo, H., Jenaro-Ballesteros, N., Koekemoer, A., Krongold, Y., Martínez-Aldama, M. L., Pan, K., Ricci, C., Salvato, M., Sánchez, S. F., Serrano-Félix, D., Schneider, D. P., Sniegowska, M., Trakhtenbrot, B., Wu, Q., Wylezalek, D., Yang, Q., and Zermeño, R. J.""1",
+
+"2025MNRAS.543.4144G""Garay-Solis, Y., Barrera-Ballesteros, J. K., Carigi, L., Colombo, D., Sánchez, S. F., Lugo-Aranda, A. Z., Villanueva, V., Wong, T., and Bolatto, A. D.""3",
+
+"2025A&A...703L..11G""González-Torà, G., Sander, A. A. C., Egorova, E., Lefever, R. R., Ramachandran, V., Egorov, O. V., Josiek, J., Schösser, E. C., Bernini-Peron, M., Kreckel, K., Wofford, A., Telford, O. G., Senchyna, P., Leitherer, C., Liang, F.-H., Blanc, G. A., Drory, N., Fernández-Trincado, J. G., Johnston, E. J., Mejía-Narváez, A. J., and Sanchez, S. F.""6",
+
+"2025MNRAS.543.1196V""Villa-Durango, Mónica A., Barrera-Ballesteros, Jorge, Román-Zúñiga, Carlos G., Moran, Emma R., Ybarra, Jason E., Méndez-Delgado, J. Eduardo, Drory, Niv, Kreckel, Kathryn, Ibarra-Medel, Hector, Sánchez, S. F., Johnston, Evelyn J., Roman-Lopes, A., Hernandez, Jesús, Fernández-Trincado, José G., Stutz, Amelia M., Henney, William J., Ghosh, A., Sarbadhicary, Sumit K., Lugo-Aranda, A. Z., Bizyaev, Dmitry, Jones, Amy M., and Blanc, Guillermo A.""3",
+
+"2025AJ....170..236L""López-Cobá, Carlos, Lin, Lihwai, Cruz Gonzalez, Irene, Sánchez, Sebastián F., Pan, Hsi-An, Barrera-Ballesteros, J. K., and Hsieh, Bau-Ching""0",
+
+"2025RMxAA..61b..98B""Barrera-Ballesteros, J. K., Sánchez, S. F., Kreckel, K., Lugo-Aranda, A., Ibarra-Medel, H., Carigi, L., Drory, N., Bizyaev, D., Méndez Delgado, J. E., and Blanc, G.""0",
+
+"2025yCat..19500108H""Holoien, T. W.-S., Berger, V. L., Hinkle, J. T., Galbany, L., Strom, A. L., Vallely, P. J., Anderson, J. P., Boutsia, K., French, K. D., Kochanek, C. S., Kuncarayakti, H., Lyman, J. D., Morrell, N., Prieto, J. L., Sanchez, S. F., Stanek, K. Z., and Walth, G. L.""0",
+
+"2025IAUS..368..116S""Sarmiento, Regina, Knapen, Johan H., Huertas-Company, Marc, Pillepich, Annalisa, Sánchez, Sebastián F., Ibarra-Medel, Héctor, and Lacerda, Eduardo""0",
+
+"2025A&A...699A.366C""Colombo, D., Kalinova, V., Bazzi, Z., Sanchez, S. F., Bolatto, A. D., Wong, T., Villanueva, V., Mudivarthi, N., Rosolowsky, E., Weiß, A., French, K. D., Leroy, A., Barrera-Ballesteros, J., Garay-Solis, Y., Bigiel, F., Tripathi, A., and Rodriguez, B.""5",
+
+"2025A&A...699A.364R""Raut, Harshal, Patra, Narendra Nath, Biswas, Prerana, Roy, Nirupam, Kalinova, Veselina, Dzib, Sergio, Colombo, Dario, Villanueva, Vicente, and Sánchez, Sebastián F.""0",
+
+"2025arXiv250707093S""SDSS Collaboration, Adamane Pallathadka, Gautham, Aghakhanloo, Mojgan, Aird, James, Almeida, Andrés, Amrita, Singh, Anders, Friedrich, Anderson, Scott F., Arseneau, Stefan, González Avila, Consuelo, Aviram, Shir, Aydar, Catarina, Badenes, Carles, Barrera-Ballesteros, Jorge K., Bauer, Franz E., Behmard, Aida, Berg, Michelle, Besser, F., Moni Bidin, Christian, Bizyaev, Dmitry, Blanc, Guillermo, Blanton, Michael R., Bovy, Jo, Brandt, William Nielsen, Brownstein, Joel R., Buchner, Johannes, Bulbul, Esra, Burchett, Joseph N., Carigi, Leticia, Carlberg, Joleen K., Casey, Andrew R., Chakraborty, Priyanka, Chanamé, Julio, Chandra, Vedant, Chiappini, Cristina, Chilingarian, Igor, Comparat, Johan, Covey, Kevin, Crumpler, Nicole, Cunha, Katia, D'Onghia, Elena, Dai, Xinyu, Darling, Jeremy, Davis, Megan, De Lee, Nathan, Deacon, Niall, Méndez Delgado, José Eduardo, Demasi, Sebastian, Demianenko, Mariia, Demke, Delvin, Donor, John, Drory, Niv, Villa Durango, Monica Alejandra, Dwelly, Tom, Egorov, Oleg, Egorova, Evgeniya, El-Badry, Kareem, Eracleous, Mike, Fan, Xiaohui, Farr, Emily, Finkbeiner, Douglas P., Fries, Logan, Frinchaboy, Peter, Gentile Fusillo, Nicola Pietro, Serrano Félix, Luis Daniel, Gaensicke, Boris, Galligan, Emma, García, Pablo, Gelfand, Joseph, Grabowski, Katie, Grebel, Eva, Green, Paul J, Greve, Hannah, Grier, Catherine, Griffith, Emily, Guetzoyan, Paloma, Gupta, Pramod, Hackshaw, Zoe, Hall, Patrick B., Hawkins, Keith, Hegedűs, Viola, Hekker, Saskia, Herbst, T. M., Hermes, J. J., Hernández-García, Lorena, Hiremath, Pranavi, Hogg, David W, Holtzman, Jon, Horne, Keith, Horta, Danny, Huang, Yang, Hutchinson, Brian, Häberle, Maximilian, Ibarra-Medel, Hector Javier, Ji, Alexander P., Jofre, Paula, Johnson, James W., Johnson, Jennifer, Johnston, Evelyn J., Kaldor, Mary, Katkov, Ivan, Khalatyan, Arman, Khoperskov, Sergey, Klessen, Ralf, Kluge, Matthias, Koekemoer, Anton M., Kollmeier, Juna A., Kounkel, Marina, Kreckel, Kathryn, Krishnarao, Dhanesh, Krumpe, Mirko, Lacerna, Ivan, Laporte, Chervin, Lepine, Sebastien, Li, Jing, Liang, Fu-Heng, Limberg, Guilherme, Liu, Xin, Loebman, Sarah, Long, Knox, Lu, Yuxi, Lucey, Madeline, Lugo-Aranda, Alejandra Z., Martínez Martinez-Aldama, Mary Loli, McKinnon, Kevin, Medan, Ilija, Merloni, Andrea, Morrison, Sean, Myers, Natalie, Mészáros, Szabolcs, Müller-Horn, Johanna, Nepal, Samir, Ness, Melissa, Nidever, David, Nitschelm, Christian, Oravetz, Audrey, Otto, Jonah, Pan, Kaike, Pérez Paolino, Facundo, Negrete Peñaloza, Castalia Alenka, Pinsonneault, Marc, Taghizadeh Popp, Manuchehr, Price-Whelan, Adrian, Pulatova, Nadiia, Queiroz, Anna Barbara, Raddick, Jordan, Rankine, Amy, Rix, Hans-Walter, Román-Zúñiga, Carlos, Fernández Rosso, Daniela, Runnoe, Jessie, Mahmud Saad, Serat, Salvato, Mara, Sanchez, Sebastian F., Sattler, Natascha, Saydjari, Andrew, Sayres, Conor, Schlaufman, Kevin, Schneider, Donald P., Schwope, Axel, Seaton, Lucas M., Seeburger, Rhys, Serna, Javier, Sharma, Sanjib, Shen, Yue, Sinha, Amaya, Sizemore, Brian, Sniegowska, Marzena, Song, Yingyi, Souto, Diogo, Stassun, Keivan, Steinmetz, Matthias, Stone, Zachary, Stone-Martinez, Alexander, Stringfellow, Guy S., Mata Sánchez, Aurora, Sánchez-Gallego, José, Tan, Jonathan, Tayar, Jamie, Thai, Riley, Thakar, Ani, Thibodeaux, Pierre, Ting, Yuan-Sen, Tkachenko, Andrew, Trakhtenbrot, Benny, Fernandez Trincado, Jose G., Troup, Nicholas, Trump, Jonathan R., Ulloa, Natalie, Van der Marel, Roeland P., Vera, Pablo, Villanova, Sandro, Villaseñor, Jaime, Wang, Ji, Way, Zachary, Weijmans, Anne-Marie, Wheeler, Adam, Wilson, John C., Wofford, Aida, and Wong, Tony""45",
+
+"2025A&A...699A.367C""Colombo, D., Kalinova, V., Bazzi, Z., Sanchez, S. F., Bolatto, A. D., Wong, T., Villanueva, V., Rosolowsky, E., Weiß, A., French, K. D., Leroy, A., Barrera-Ballesteros, J., Garay-Solis, Y., Bigiel, F., Tripathi, A., and Rodriguez, B.""4",
+
+"2025hsa..conf..109C""Camps-Fariña, A., Sánchez-Blázquez, P., Sánchez, S. F., and Chamorro-Cazorla, M.""0",
+
+"2025hsa..conf...93P""Pérez, I., Verley, S., Sánchez-Menguiano, L., Ruiz-Lara, T., García-Benito, R., Duarte Puertas, S., Jiménez, A., Domínguez-Gómez, J., Espada, D., Peletier, R. F., Román, J., Rodríguez, M. I., Argudo-Fernández, M., Torres-Ríos, G., Bidaran, B., Alcázar-Laynez, M., van de Weygaert, R., Sánchez, S. F., Lisenfeld, U., Zurita, A., Florido, E., van der Hulst, J. M., Blázquez-Calero, G., Villalba-González, P., del Moral-Castro, I., Sánchez Alarcón, P., Lugo-Aranda, A., Canossa, M., Conrado, A., De Daniloff, S. B., González Delgado, R., Falcón-Barroso, J., Ferré-Mateu, A., Hernández-Sánchez, M., Awad, P., Kreckel, K., Courtois, H., Galbany, L., Sánchez-Blázquez, P., Pérez-Montero, E., Sánchez-Portal, M., Bongiovanni, A., Planelles, S., Quilis, V., Vasquez-Bustos, P., Weijmans, A., Raj, M. A., Aragón-Calvo, M. A., Agüí-Fernández, J. F., Blažek, M., Bergond, G., Fernández-Martín, A., Flores, J., Góngora, S., Guijarro, A., Hermelo, I., Pinter, V., and Vico Linares, J. I.""0",
+
+"2025hsa..conf...77C""Conrado, A., González Delgado, R. M., García-Benito, R., Pérez, I., Verley, S., Ruiz-Lara, T., Sánchez-Menguiano, L., Duarte Puertas, S., Jiménez, A., Domínguez-Gómez, J., Espada, D., Argudo-Fernández, M., Alcázar-Laynez, M., Blázquez-Calero, G., Bidaran, B., Zurita, A., Peletier, R., Torres-Ríos, G., Florido, E., Rodríguez Martínez, M., del Moral-Castro, I., van de Weygaert, R., Falcón-Barroso, J., Lugo-Aranda, A., Sánchez, S. F., van der Hulst, J. M., Courtois, H., Ferré-Mateu, A., Sánchez-Blázquez, P., Román, J., and Aceituno, J.""0",
+
+"2025A&A...697A.149B""Bazzi, Z., Colombo, D., Bigiel, F., Kalinova, V., Villanueva, V., Sanchez, S. F., Bolatto, A. D., and Wong, T.""5",
+
+"2025yCat..36910161G""Garcia-Benito, R., Jimenez, A., Sanchez-Menguiano, L., Ruiz-Lara, T., Duarte Puertas, S., Dominguez-Gomez, J., Bidaran, B., Torres-Rios, G., Argudo-Fernandez, M., Espada, D., Perez, I., Verley, S., Conrado, A. M., Florido, E., Rodriguez, M. I., Zurita, A., Alcazar-Laynez, M., de Daniloff, S. B., Lisenfeld, U., van de Weygaert, R., Courtois, H. M., Falcon-Barroso, J., Ferre-Mateu, A., Galbany, L., Gonzalez Delgado, R. M., Del Moral-Castro, I., Peletier, R. F., Roman, J., Sanchez, S. F., Sanchez-Alarcon, P. M., Sanchez-Blazquez, P., Villalba-Gonzalez, P., Azzaro, M., Blazek, M., Fernandez, A., Gallego, J., Gongora, S., Guijarro, A., de Guindos, E., Hermelo, I., Hernandez, R., de Juan, E., and Vico Linares, J. I.""0",
+
+"2025ApJ...982..130P""Pan, Hsi-An, Lin, Lihwai, Sánchez, Sebastián F., Barrera-Ballesteros, Jorge K., and Hsieh, Bau-Ching""4",
+
+"2025MNRAS.538.1884M""Morisset, Christophe, Charlot, Stéphane, Sánchez, Sebastián F., Espinosa-Ponce, Carlos, Barat, Eric, and Dautremer, Thomas""7",
+
+"2025yCat..36990366C""Colombo, D., Kalinova, V., Bazzi, Z., Sanchez, S. F., Bolatto, A. D., Wong, T., Villanueva, V., Mudivarthi, N., Rosolowsky, E., Weiss, A., French, K. D., Leroy, A., Barrera-Ballesteros, J., Garay-Solis, Y., Bigiel, F., Tripathi, A., and Rodriguez, B.""0",
+
+"2025ApJ...978...23B""Barrera-Ballesteros, J. K., Cruz-González, I., Colombo, D., Sánchez, S. F., Levy, R. C., Villanueva, V., Wong, T., Bolatto, A., and Alonso Hernández, D.""2",
+
+"2025AJ....169...52S""Sánchez, Sebastián F., Mejía-Narváez, Alfredo, Egorov, Oleg V., Kreckel, Kathryn, Drory, Niv, Blanc, Guillermo A., Méndez-Delgado, J. Eduardo, Barrera-Ballesteros, Jorge K., Ibarra-Medel, Hector, Bizyaev, Dmitry, García, Pablo, Wofford, Aida, and Lugo-Aranda, Alejandra Z.""7",
+
+"2025MNRAS.536..752I""Ibarra-Medel, H., Negrete, C. A., Lacerna, I., Hernández-Toledo, H. M., Cortes-Suárez, E., and Sánchez, S. F.""3",
+
+"2025MNRAS.536..430L""Li, Song-Lin, Li, Zefeng, Wisnioski, Emily, Krumholz, Mark R., and Sánchez, Sebastián F.""6",
+
+"2024A&A...691A..56C""Camps-Fariña, A., Mérida, R. M., Sánchez-Blázquez, P., and Sánchez, S. F.""4",
+
+"2024AJ....168..198D""Drory, Niv, Blanc, Guillermo A., Kreckel, Kathryn, Sánchez, Sebastián F., Mejía-Narváez, Alfredo, Johnston, Evelyn J., Jones, Amy M., Pellegrini, Eric W., Konidaris, Nicholas P., Herbst, Tom, Sánchez-Gallego, José, Kollmeier, Juna A., de Almeida, Florence, Barrera-Ballesteros, Jorge K., Bizyaev, Dmitry, Brownstein, Joel R., i Saguer, Mar Canal, Cherinka, Brian, Cioni, Maria-Rosa L., Congiu, Enrico, Cosens, Maren, Dias, Bruno, Donor, John, Egorov, Oleg, Egorova, Evgeniia, Froning, Cynthia S., García, Pablo, Glover, Simon C. O., Greve, Hannah, Häberle, Maximilian, Hoy, Kevin, Ibarra, Hector, Li, Jing, Klessen, Ralf S., Krishnarao, Dhanesh, Kumari, Nimisha, Long, Knox S., Méndez-Delgado, José Eduardo, Popa, Silvia Anastasia, Ramirez, Solange, Rix, Hans-Walter, Sánchez, Aurora Mata, Sankrit, Ravi, Sattler, Natascha, Sayres, Conor, Singh, Amrita, Stringfellow, Guy, Wachter, Stefanie, Watkins, Elizabeth Jayne, Wong, Tony, and Wofford, Aida""49",
+
+"2024A&A...691A.161G""García-Benito, Rubén, Jiménez, Andoni, Sánchez-Menguiano, Laura, Ruiz-Lara, Tomás, Duarte Puertas, Salvador, Domínguez-Gómez, Jesús, Bidaran, Bahar, Torres-Ríos, Gloria, Argudo-Fernández, María, Espada, Daniel, Pérez, Isabel, Verley, Simon, Conrado, Ana M., Florido, Estrella, Rodríguez, Mónica I., Zurita, Almudena, Alcázar-Laynez, Manuel, De Daniloff, Simon B., Lisenfeld, Ute, van de Weygaert, Rien, Courtois, Hélène M., Falcón-Barroso, Jesús, Ferré-Mateu, Anna, Galbany, Lluís, González Delgado, Rosa M., del Moral-Castro, Ignacio, Peletier, Reynier F., Román, Javier, Sánchez, Sebastián F., Sánchez-Alarcón, Pablo M., Sánchez-Blázquez, Patricia, Villalba-González, Pedro, Azzaro, Marco, Blazek, Martín, Fernández, Alba, Gallego, Julia, Góngora, Samuel, Guijarro, Ana, de Guindos, Enrique, Hermelo, Israel, Hernández, Ricardo, de Juan, Enrique, and Vico Linares, José Ignacio""9",
+
+"2024RMxAA..60..323S""Sánchez, S. F., García-Benito, R., González Delgado, R., Conrado, A., Perez, I., Lugo-Aranda, A. Z., Sánchez-Menguiano, L., Ruiz-Lara, T., Jiménez, A., Duarte Puertas, S., Domínguez-Gómez, J., Torres-Ríos, G., Argudo-Fernández, M., Blázquez-Calero, G., Alcázar-Laynez, M., Verley, S., Espada, D., Lisenfeld, U., Zurita, A., Florido, E., Bidaran, B., Villalba-González, P., Ferré-Mateu, A., Sánchez Alarcón, P. M., Román, J., del Moral-Castro, I., and Agüi, F.""2",
+
+"2024A&A...690A.248M""Méndez-Delgado, J. E., Kreckel, K., Esteban, C., García-Rojas, J., Carigi, L., Sander, A. A. C., Palla, M., Chruślińska, M., De Looze, I., Relaño, M., van der Giessen, S. A., Reyes-Rodríguez, E., and Sánchez, S. F.""16",
+
+"2024A&A...689A.352K""Kreckel, K., Egorov, O. V., Egorova, E., Blanc, G. A., Drory, N., Kounkel, M., Méndez-Delgado, J. E., Román-Zúñiga, C. G., Sánchez, S. F., Stringfellow, G. S., Stutz, A. M., Zari, E., Barrera-Ballesteros, J. K., Bizyaev, D., Brownstein, J. R., Congiu, E., Fernández-Trincado, J. G., García, P., Hillenbrand, L. A., Ibarra-Medel, H. J., Jin, Y., Johnston, E. J., Jones, A. M., Kim, J. Serena, Kollmeier, J. A., Kong, S., Krishnarao, D., Kumari, N., Li, J., Long, K. S., Mata-Sánchez, A., Mejía-Narváez, A., Popa, S. A., Rix, H.-W., Sattler, N., Serna, J., Singh, A., Sánchez-Gallego, J. R., Wofford, A., and Wong, T.""24",
+
+"2024MNRAS.533..880G""Garay-Solis, Y., Barrera-Ballesteros, J. K., Carigi, L., Colombo, D., Sánchez, S. F., Lugo-Aranda, A. Z., Villanueva, V., Wong, T., and Bolatto, A. D.""6",
+
+"2024A&A...689A.213P""Pérez, I., Verley, S., Sánchez-Menguiano, L., Ruiz-Lara, T., García-Benito, R., Duarte Puertas, S., Jiménez, A., Domínguez-Gómez, J., Espada, D., Peletier, R. F., Román, J., Rodríguez, M. I., Argudo-Fernández, M., Torres-Ríos, G., Bidaran, B., Alcázar-Laynez, M., van de Weygaert, R., Sánchez, S. F., Lisenfeld, U., Zurita, A., Florido, E., van der Hulst, J. M., Blázquez-Calero, G., Villalba-González, P., del Moral-Castro, I., Sánchez Alarcón, P., Lugo-Aranda, A., Walo-Martín, D., Conrado, A., González Delgado, R., Falcón-Barroso, J., Ferré-Mateu, A., Hernández-Sánchez, M., Awad, P., Kreckel, K., Courtois, H., Espada-Miura, R., Relaño, M., Galbany, L., Sánchez-Blázquez, P., Pérez-Montero, E., Sánchez-Portal, M., Bongiovanni, A., Planelles, S., Quilis, V., Weijmans, A., Raj, M. A., Aragón-Calvo, M. A., Azzaro, M., Bergond, G., Blazek, M., Cikota, S., Fernández-Martín, A., Gardini, A., Guijarro, A., Hermelo, I., Martín, P., and Vico Linares, J. I.""20",
+
+"2024A&A...688A.160M""Martínez-Solaeche, G., García-Benito, R., González Delgado, R. M., Díaz-García, L., Sánchez, S. F., Conrado, A. M., and Rodríguez-Martín, J. E.""3",
+
+"2024SPIE13096E..92F""Fuentes-Fernández, Jorge, Sánchez, Sebastián. F., Farah, Alejandro, Ruiz-Díaz-Soto, Jaime, and Garcés-Medina, Leonardo""0",
+
+"2024eas..conf..401C""Camps Fariña, Artemi, Sánchez Blázquez, Patricia, Roca Fábrega, Santi, and Sánchez, Sebastián F.""0",
+
+"2024A&A...687A..20G""González-Díaz, R., Rosales-Ortega, F. F., Galbany, L., Anderson, J. P., Jiménez-Palau, C., Kopsacheili, M., Kuncarayakti, H., Lyman, J. D., and Sánchez, S. F.""6",
+
+"2024A&A...687A..98C""Conrado, Ana M., González Delgado, Rosa M., García-Benito, Rubén, Pérez, Isabel, Verley, Simon, Ruiz-Lara, Tomás, Sánchez-Menguiano, Laura, Duarte Puertas, Salvador, Jiménez, Andoni, Domínguez-Gómez, Jesús, Espada, Daniel, Argudo-Fernández, María, Alcázar-Laynez, Manuel, Blázquez-Calero, Guillermo, Bidaran, Bahar, Zurita, Almudena, Peletier, Reynier, Torres-Ríos, Gloria, Florido, Estrella, Rodríguez Martínez, Mónica, del Moral-Castro, Ignacio, van de Weygaert, Rien, Falcón-Barroso, Jesús, Lugo-Aranda, Alejandra Z., Sánchez, Sebastián F., van der Hulst, Thijs, Courtois, Hélène M., Ferré-Mateu, Anna, Sánchez-Blázquez, Patricia, Román, Javier, and Aceituno, Jesús""20",
+
+"2024RMxAA..60...19L""López-Cobá, C., Lin, Lihwai, and Sánchez, S. F.""9",
+
+"2024RMxAA..60...41S""Sánchez, S. F., Barrera-Ballesteros, J. K., Galbany, L., García-Benito, R., Lacerda, E., and Camps-Fariña, A.""5",
+
+"2024ApJ...964..120P""Pan, Hsi-An, Lin, Lihwai, Ellison, Sara L., Thorp, Mallory D., Sánchez, Sebastián F., Bluck, Asa F. L., Belfiore, Francesco, Piotrowska, Joanna M., Scudder, Jillian M., and Baker, William M.""12",
+
+"2024MNRAS.528.6099L""Lugo-Aranda, A. Z., Sánchez, S. F., Barrera-Ballesteros, J. K., López-Cobá, C., Espinosa-Ponce, C., Galbany, L., and Anderson, Joseph P.""11",
+
+"2024ApJ...963..115L""Lin, Lihwai, Pan, Hsi-An, Ellison, Sara L., Harada, Nanase, Jiménez-Donaire, María J., French, K. Decker, Baker, William M., Hsieh, Bau-Ching, Koyama, Yusei, López-Cobá, Carlos, Michiyama, Tomonari, Rowlands, Kate, Sánchez, Sebastián F., and Thorp, Mallory D.""7",
+
+"2024ApJ...963..125M""Martínez-Rodríguez, Héctor, Galbany, Lluís, Badenes, Carles, Anderson, Joseph P., Domínguez, Inmaculada, Kuncarayakti, Hanindyo, Lyman, Joseph D., Sánchez, Sebastián F., Vílchez, José M., Smith, Nathan, and Milisavljevic, Dan""1",
+
+"2024ApJS..271...35W""Wong, Tony, Cao, Yixian, Luo, Yufeng, Bolatto, Alberto D., Sánchez, Sebastián F., Barrera-Ballesteros, Jorge K., Blitz, Leo, Colombo, Dario, Dannerbauer, Helmut, Green, Alex, Kalinova, Veselina, Khan, Ferzem, Kim, Andrew, Lacerda, Eduardo A. D., Leroy, Adam K., Levy, Rebecca C., Lin, Xincheng, Luo, Yuanze, Rosolowsky, Erik W., Rubio, Mónica, Teuben, Peter, Utomo, Dyas, Villanueva, Vicente, Vogel, Stuart N., and Wang, Xinyu""10",
+
+"2024A&A...682L..11S""Sánchez-Menguiano, Laura, Sánchez, Sebastián F., Sánchez Almeida, Jorge, and Muñoz-Tuñón, Casiana""8",
+
+"2024MNRAS.52710201E""Ellison, Sara L., Pan, Hsi-An, Bluck, Asa F. L., Krumholz, Mark R., Lin, Lihwai, Hunt, Leslie, Corbelli, Edvige, Thorp, Mallory D., Barrera-Ballesteros, Jorge, Sánchez, Sebastian F., Scudder, Jillian M., and Quai, Salvatore""23",
+
+"2024ApJ...962...65L""López-Cobá, Carlos, Lin, Lihwai, and Sánchez, Sebastián F.""3",
+
+"2024ApJ...962...88V""Villanueva, Vicente, Bolatto, Alberto D., Vogel, Stuart N., Wong, Tony, Leroy, Adam K., Sánchez, Sebastian F., Levy, Rebecca C., Rosolowsky, Erik, Colombo, Dario, Kalinova, Veselina, Cronin, Serena, Teuben, Peter, Rubio, Mónica, and Bazzi, Zein""19",
+
+"2024A&A...682A..71S""Sánchez, S. F., Lugo-Aranda, A. Z., Sánchez Almeida, J., Barrera-Ballesteros, J. K., Gonzalez-Martín, O., Salim, S., and Agostino, C. J.""16",
+
+"2024A&A...681A.121S""Sánchez-Menguiano, Laura, Sánchez Almeida, Jorge, Sánchez, Sebastián F., and Muñoz-Tuñón, Casiana""17",
+
+"2023MNRAS.526.5555S""Sánchez, S. F., Galbany, L., Walcher, C. J., García-Benito, R., and Barrera-Ballesteros, J. K.""22",
+
+"2023atyp.confE..18P""Pan, Hsi-An, Lin, Lihwai, Ellison, Sara, Thorp, Mallory, Sanchez, Sebastian, Bluck, Asa, Belfiore, Francesco, Piotrowska, Joanna, Scudder, Jillian, and Baker, William""0",
+
+"2023yCat..18630107D""Durazo, R., Hernandez, X., Cervantes Sodi, B., and Sanchez, S. F.""0",
+
+"2023A&A...678A..65C""Camps-Fariña, A., Sánchez-Blázquez, P., Roca-Fàbrega, S., and Sánchez, S. F.""9",
+
+"2023RMxAA..59..213B""Barrera-Ballesteros, J. K., Sánchez, S. F., Espinosa-Ponce, C., López-Cobá, C., Carigi, L., Lugo-Aranda, A. Z., Lacerda, E., Bruzual, G., Hernandez-Toledo, H., Boardman, N., Drory, N., Lane, Richard R., and Brownstein, J. R.""21",
+
+"2023ApJ...955L..29P""Pessi, Thallis, Anderson, Joseph P., Lyman, Joseph D., Prieto, Jose L., Galbany, Lluís, Kochanek, Christopher S., Sánchez, Sebastian F., and Kuncarayakti, Hanindyo""22",
+
+"2023MNRAS.524.3692C""Corcho-Caballero, Pablo, Ascasibar, Yago, Cortese, Luca, Sánchez, Sebastián F., López-Sánchez, Ángel R., Fraser-McKelvie, Amelia, and Zafar, Tayyaba""7",
+
+"2023yCat..74994370M""Morales-Vargas, A., Torres-Papaqui, J. P., Rosales-Ortega, F. F., Sanchez, S. F., Chow-Martinez, M., Ortega-Minakata, R. A., Trejo-Alonso, J. J., Robleto-Orus, A. C., Romero-Cruz, F. J., and Neri-Larios, D. M.""0",
+
+"2023A&A...677A..20M""Moriya, Takashi J., Galbany, Lluís, Jiménez-Palau, Cristina, Anderson, Joseph P., Kuncarayakti, Hanindyo, Sánchez, Sebastián F., Lyman, Joseph D., Pessi, Thallis, Prieto, Jose L., Kochanek, Christopher S., Dong, Subo, and Chen, Ping""16",
+
+"2023A&A...677A..28P""Pessi, T., Prieto, J. L., Anderson, J. P., Galbany, L., Lyman, J. D., Kochanek, C., Dong, S., Forster, F., González-Díaz, R., Gonzalez-Gaitan, S., Gutiérrez, C. P., Holoien, T. W.-S., James, P. A., Jiménez-Palau, C., Johnston, E. J., Kuncarayakti, H., Rosales-Ortega, F., Sánchez, S. F., Schulze, S., and Shappee, B.""20",
+
+"2023ApJS..268....3C""Cao, Yixian, Wong, Tony, Bolatto, Alberto D., Leroy, Adam K., Rosolowsky, Erik, Utomo, Dyas, Sánchez, Sebastián F., Barrera-Ballesteros, Jorge K., Levy, Rebecca C., Colombo, Dario, Blitz, Leo, Vogel, Stuart N., Puschnig, Johannes, Villanueva, Vicente, and Rubio, Monica""8",
+
+"2023MNRAS.523.4251A""Avila-Reese, V., Ibarra-Medel, H., Lacerna, I., Rodríguez-Puebla, A., Vázquez-Mata, J. A., Sánchez, S. F., Hernández-Toledo, H. M., and Cannarozzo, C.""12",
+
+"2023ApJ...953...26L""Lammers, Caleb, Iyer, Kartheik G., Ibarra-Medel, Hector, Pacifici, Camilla, Sánchez, Sebastián F., Tacchella, Sandro, and Woo, Joanna""37",
+
+"2023ApJS..267...44A""Almeida, Andrés, Anderson, Scott F., Argudo-Fernández, Maria, Badenes, Carles, Barger, Kat, Barrera-Ballesteros, Jorge K., Bender, Chad F., Benitez, Erika, Besser, Felipe, Bird, Jonathan C., Bizyaev, Dmitry, Blanton, Michael R., Bochanski, John, Bovy, Jo, Brandt, William Nielsen, Brownstein, Joel R., Buchner, Johannes, Bulbul, Esra, Burchett, Joseph N., Cano Díaz, Mariana, Carlberg, Joleen K., Casey, Andrew R., Chandra, Vedant, Cherinka, Brian, Chiappini, Cristina, Coker, Abigail A., Comparat, Johan, Conroy, Charlie, Contardo, Gabriella, Cortes, Arlin, Covey, Kevin, Crane, Jeffrey D., Cunha, Katia, Dabbieri, Collin, Davidson, James W., Davis, Megan C., de Andrade Queiroz, Anna Barbara, De Lee, Nathan, Méndez Delgado, José Eduardo, Demasi, Sebastian, Di Mille, Francesco, Donor, John, Dow, Peter, Dwelly, Tom, Eracleous, Mike, Eriksen, Jamey, Fan, Xiaohui, Farr, Emily, Frederick, Sara, Fries, Logan, Frinchaboy, Peter, Gänsicke, Boris T., Ge, Junqiang, González Ávila, Consuelo, Grabowski, Katie, Grier, Catherine, Guiglion, Guillaume, Gupta, Pramod, Hall, Patrick, Hawkins, Keith, Hayes, Christian R., Hermes, J. J., Hernández-García, Lorena, Hogg, David W., Holtzman, Jon A., Ibarra-Medel, Hector Javier, Ji, Alexander, Jofre, Paula, Johnson, Jennifer A., Jones, Amy M., Kinemuchi, Karen, Kluge, Matthias, Koekemoer, Anton, Kollmeier, Juna A., Kounkel, Marina, Krishnarao, Dhanesh, Krumpe, Mirko, Lacerna, Ivan, Lago, Paulo Jakson Assuncao, Laporte, Chervin, Liu, Chao, Liu, Ang, Liu, Xin, Lopes, Alexandre Roman, Macktoobian, Matin, Majewski, Steven R., Malanushenko, Viktor, Maoz, Dan, Masseron, Thomas, Masters, Karen L., Matijevic, Gal, McBride, Aidan, Medan, Ilija, Merloni, Andrea, Morrison, Sean, Myers, Natalie, Mészáros, Szabolcs, Negrete, C. Alenka, Nidever, David L., Nitschelm, Christian, Oravetz, Daniel, Oravetz, Audrey, Pan, Kaike, Peng, Yingjie, Pinsonneault, Marc H., Pogge, Rick, Qiu, Dan, Ramirez, Solange V., Rix, Hans-Walter, Fernández Rosso, Daniela, Runnoe, Jessie, Salvato, Mara, Sanchez, Sebastian F., Santana, Felipe A., Saydjari, Andrew, Sayres, Conor, Schlaufman, Kevin C., Schneider, Donald P., Schwope, Axel, Serna, Javier, Shen, Yue, Sobeck, Jennifer, Song, Ying-Yi, Souto, Diogo, Spoo, Taylor, Stassun, Keivan G., Steinmetz, Matthias, Straumit, Ilya, Stringfellow, Guy, Sánchez-Gallego, José, Taghizadeh-Popp, Manuchehr, Tayar, Jamie, Thakar, Ani, Tissera, Patricia B., Tkachenko, Andrew, Hernandez Toledo, Hector, Trakhtenbrot, Benny, Fernández-Trincado, José G., Troup, Nicholas, Trump, Jonathan R., Tuttle, Sarah, Ulloa, Natalie, Vazquez-Mata, Jose Antonio, Vera Alfaro, Pablo, Villanova, Sandro, Wachter, Stefanie, Weijmans, Anne-Marie, Wheeler, Adam, Wilson, John, Wojno, Leigh, Wolf, Julien, Xue, Xiang-Xiang, Ybarra, Jason E., Zari, Eleonora, and Zasowski, Gail""285",
+
+"2023ApJ...952..122G""Garay-Solis, Yeny, Barrera-Ballesteros, Jorge K., Colombo, Dario, Sánchez, Sebastián F., Lugo-Aranda, Alejandra Z., Villanueva, Vicente, Wong, Tony, and Bolatto, Alberto D.""21",
+
+"2023MNRAS.522.5788O""Osorio-Clavijo, N., Gonzalez-Martín, O., Sánchez, S. F., Guainazzi, M., and Cruz-González, I.""10",
+
+"2023MNRAS.523..270R""Roche, Nathan, Vílchez, José M., Iglesias-Páramo, Jorge, Papaderos, Polychronis, Sánchez, Sebastian F., Kehrig, Carolina, and Duarte Puertas, Salvador""2",
+
+"2023ApJ...950..108H""Holoien, Thomas W.-S., Berger, Vera L., Hinkle, Jason T., Galbany, L., Strom, Allison L., Vallely, Patrick J., Anderson, Joseph P., Boutsia, Konstantina, French, K. D., Kochanek, Christopher S., Kuncarayakti, Hanindyo, Lyman, Joseph D., Morrell, Nidia, Prieto, Jose L., Sánchez, Sebastián F., Stanek, K. Z., and Walth, Gregory L.""4",
+
+"2023yCat..36770028P""Pessi, T., Prieto, J. L., Anderson, J. P., Galbany, L., Lyman, J. D., Kochanek, C., Dong, S., Forster, F., Gonzalez-Diaz, R., Gonzalez-Gaitan, S., Gutierrez, C. P., Holoien, T. W.-S., James, P. A., Jimenez-Palau, C., Johnston, E. J., Kuncarayakti, H., Rosales-Ortega, F., Sanchez, S. F., Schulze, S., and Shappee, B.""0",
+
+"2023hsa..conf...99M""Méndez-Abreu, J., de Lorenzo-Cáceres, A., and Sanchez, S. F.""0",
+
+"2023A&A...673A..23S""Sarmiento, Regina, Huertas-Company, Marc, Knapen, Johan H., Ibarra-Medel, Héctor, Pillepich, Annalisa, Sánchez, Sebastián F., and Boecker, Alina""27",
+
+"2023MNRAS.520.4301B""Boardman, N., Wild, V., Heckman, T., Sanchez, S. F., Riffel, R., Riffel, R. A., and Zasowski, G.""20",
+
+"2023MNRAS.520..193C""Corcho-Caballero, Pablo, Ascasibar, Yago, Sánchez, Sebastián F., and López-Sánchez, Ángel R.""13",
+
+"2023ApJ...945..169A""Alvarez-Hurtado, P., Barrera-Ballesteros, J. K., Sánchez, S. F., Colombo, D., López-Sánchez, A. R., and Aquino-Ortíz, E.""0",
+
+"2023IAUS..373..328W""Wong, Tony, Cao, Yixian, Luo, Yufeng, Bolatto, Alberto D., Sánchez, Sebastián F., and Edge-Califa Collaboration""0",
+
+"2023IAUS..373..246C""Camps-Fariña, Artemi, Sánchez-Blázquez, Patricia, Roca-Fàbrega, Santi, and Sánchez, Sebastián F.""0",
+
+"2023MNRAS.518..286L""Li, Zefeng, Wisnioski, Emily, Mendel, J. Trevor, Krumholz, Mark R., Kewley, Lisa J., López-Cobá, Carlos, Sánchez, Sebastián F., Anderson, Joseph P., and Galbany, Lluís""22",
+
+"2023IAUS..373....3S""Sánchez, Sebastián F., Gómez Medina, Daysi C., Barrera-Ballesteros, J. K., Galbany, L., Bolatto, A., and Wong, T.""5",
+
+"2022yCat..22620036S""Sanchez, S. F., Barrera-Ballesteros, J. K., Lacerda, E., Mejia-Narvaez, A., Camps-Farina, A., Bruzual, G., Espinosa-Ponce, C., Rodriguez-Puebla, A., Calette, A. R., Ibarra-Medel, H., Avila-Reese, V., Hernandez-Toledo, H., Bershady, M. A., Cano-Diaz, M., and Munguia-Cordova, A. M.""0",
+
+"2022NewA...9701895L""Lacerda, Eduardo A. D., Sánchez, S. F., Mejía-Narváez, A., Camps-Fariña, A., Espinosa-Ponce, C., Barrera-Ballesteros, J. K., Ibarra-Medel, H., and Lugo-Aranda, A. Z.""62",
+
+"2022ApJ...939...40L""López-Cobá, Carlos, Sánchez, Sebastián F., Lin, Lihwai, Anderson, Joseph P., Lin, Kai-Yang, Cruz-González, Irene, Galbany, L., and Barrera-Ballesteros, Jorge K.""21",
+
+"2022A&A...666A.175Y""Yu, Si-Yue, Kalinova, Veselina, Colombo, Dario, Bolatto, Alberto D., Wong, Tony, Levy, Rebecca C., Villanueva, Vicente, Sánchez, Sebastián F., Ho, Luis C., Vogel, Stuart N., Teuben, Peter, and Rubio, Mónica""41",
+
+"2022ApJS..262...36S""Sánchez, S. F., Barrera-Ballesteros, J. K., Lacerda, E., Mejía-Narvaez, A., Camps-Fariña, A., Bruzual, Gustavo, Espinosa-Ponce, C., Rodríguez-Puebla, A., Calette, A. R., Ibarra-Medel, H., Avila-Reese, V., Hernandez-Toledo, H., Bershady, M. A., Cano-Diaz, M., and Munguia-Cordova, A. M.""141",
+
+"2022A&A...665A..90K""Kalinova, V., Colombo, D., Sánchez, S. F., Rosolowsky, E., Kodaira, K., García-Benito, R., Meidt, S. E., Davis, T. A., Romeo, A. B., Yu, S.-Y., González Delgado, R., and Lacerda, E. A. D.""9",
+
+"2022RNAAS...6..183B""Barrera-Ballesteros, J. K. and Sánchez, S. F.""1",
+
+"2022yCat..74843042S""Sanchez, S. F., Barrera-Ballesteros, J. K., Lopez-Coba, C., Brough, S., Bryant, J. J., Bland-Hawthorn, J., Croom, S. M., van de Sande, J., Cortese, L., Goodwin, M., Lawrence, J. S., Lopez-Sanchez, A. R., Sweet, S. M., Owers, M. S., Richards, S. N., Walcher, C. J., and Sami Team""0",
+
+"2022ApJ...934..173S""Su, Yung-Chau, Lin, Lihwai, Pan, Hsi-An, López Cobá, Carlos, Hsieh, Bau-Ching, Sánchez, Sebastián F., Thorp, Mallory D., Bureau, Martin, and Ellison, Sara L.""12",
+
+"2022MNRAS.514.2298B""Boardman, N., Zasowski, G., Newman, J. A., Sanchez, S. F., Andrews, B., Barrera-Ballesteros, J. K., Lian, J., Riffel, R., Riffel, R. A., Schaefer, A., and Bundy, K.""16",
+
+"2022ApJS..261...20M""Mejía-Narváez, Alfredo, Bruzual, Gustavo, Sánchez, Sebastian. F., Carigi, Leticia, Barrera-Ballesteros, Jorge, Valerdi, Mabel, Yan, Renbin, and Drory, Niv""7",
+
+"2022yCat..74830370B""Bitsakis, T., Sanchez, S. F., Ciesla, L., Bonfini, P., Charmandaris, V., Cervantes Sodi, B., Maragkoudakis, A., Diaz-Santos, T., and Zezas, A.""0",
+
+"2022cosp...44.2311O""Osorio Clavijo, Natalia, Gonzalez-Martin, Omaira, Sánchez, Sebastián, Esparza, Donají, Masegosa, Josefa, Victoria, César, Hernandez Garcia, Lorena, and Díaz, Yaherlyn""0",
+
+"2022ApJ...933...88O""Oyarzún, Grecco A., Bundy, Kevin, Westfall, Kyle B., Tinker, Jeremy L., Belfiore, Francesco, Argudo-Fernández, Maria, Zheng, Zheng, Conroy, Charlie, Masters, Karen L., Wake, David, Law, David R., McDermid, Richard M., Aragón-Salamanca, Alfonso, Parikh, Taniya, Yan, Renbin, Bershady, Matthew, Sánchez, Sebastián F., Andrews, Brett H., Fernández-Trincado, José G., Lane, Richard R., Bizyaev, D., Boardman, Nicholas Fraser, Lacerna, Ivan, Brownstein, J. R., Drory, Niv, and Zhang, Kai""16",
+
+"2022ApJ...933...44C""Camps-Fariña, Artemi, Sánchez, Sebastián F., Mejía-Narváez, Alfredo, Lacerda, Eduardo, Carigi, Leticia, Bruzual, Gustavo, Alvarez-Hurtado, Paola, Drory, Niv, Lane, Richard R., Boardman, Nicholas Fraser, and Blanc, Guillermo A.""23",
+
+"2022ascl.soft06010E""Espinosa-Ponce, C., Sánchez, S. F., Morisset, C., Barrera-Ballesteros, J. K., Galbany, L., García-Benito, R., Lacerda, E. A. D., and Mast, D.""1",
+
+"2022ascl.soft06023L""Lacerda, Eduardo A. D., Sánchez, S. F., Mejía-Narváez, A., Camps-Fariña, A., Espinosa-Ponce, C., Barrera-Ballesteros, J. K., Ibarra-Medel, H., and Lugo-Aranda, A. Z.""0",
+
+"2022hst..prop17179G""Galbany, Lluis, Anderson, Joe P., Ascasibar, Yago, Badenes, Carles, Kuncarayakti, Hanindyo, Levan, Andrew James, Lyman, Joseph, Sanchez, Sebastian F., Stanway, Elizabeth R., and Steeghs, Danny""0",
+
+"2022yCat..74821427G""Gilhuly, C., Courteau, S., and Sanchez, S. F.""0",
+
+"2022ApJ...930..160S""Schaefer, Adam L., Tremonti, Christy, Kauffmann, Guinevere, Andrews, Brett H., Bershady, Matthew A., Boardman, Nicholas F., Bundy, Kevin, Drory, Niv, Fernández-Trincado, José G., Preece, Holly P., Riffel, Rogério, Riffel, Rogemar A., and Sánchez, Sebastián F.""10",
+
+"2022A&A...661L...5M""Mejía-Narváez, A., Sánchez, S. F., Carigi, L., Barrera-Ballesteros, J. K., Drory, N., and Espinosa-Ponce, C.""2",
+
+"2022MNRAS.512.3436E""Espinosa-Ponce, C., Sánchez, S. F., Morisset, C., Barrera-Ballesteros, J. K., Galbany, L., García-Benito, R., Lacerda, E. A. D., and Mast, D.""21",
+
+"2022ApJ...929...47A""Alvarez-Hurtado, P., Barrera-Ballesteros, J. K., Sánchez, S. F., Colombo, D., López-Sánchez, A. R., and Aquino-Ortíz, E.""14",
+
+"2022yCat..19020139K""Kuncarayakti, H., Folatelli, G., Maeda, K., Dessart, L., Jerkstrand, A., Anderson, J. P., Aoki, K., Bersten, M. C., Ferrari, L., Galbany, L., Garcia, F., Gutierrez, C. P., Hattori, T., Kawabata, K. S., Kravtsov, T., Lyman, J. D., Mattila, S., F. O., E., Sanchez, S. F., and van Dyk, S. D.""0",
+
+"2022ApJS..259...35A""Abdurro'uf, Accetta, Katherine, Aerts, Conny, Silva Aguirre, Víctor, Ahumada, Romina, Ajgaonkar, Nikhil, Filiz Ak, N., Alam, Shadab, Allende Prieto, Carlos, Almeida, Andrés, Anders, Friedrich, Anderson, Scott F., Andrews, Brett H., Anguiano, Borja, Aquino-Ortíz, Erik, Aragón-Salamanca, Alfonso, Argudo-Fernández, Maria, Ata, Metin, Aubert, Marie, Avila-Reese, Vladimir, Badenes, Carles, Barbá, Rodolfo H., Barger, Kat, Barrera-Ballesteros, Jorge K., Beaton, Rachael L., Beers, Timothy C., Belfiore, Francesco, Bender, Chad F., Bernardi, Mariangela, Bershady, Matthew A., Beutler, Florian, Bidin, Christian Moni, Bird, Jonathan C., Bizyaev, Dmitry, Blanc, Guillermo A., Blanton, Michael R., Boardman, Nicholas Fraser, Bolton, Adam S., Boquien, Médéric, Borissova, Jura, Bovy, Jo, Brandt, W. N., Brown, Jordan, Brownstein, Joel R., Brusa, Marcella, Buchner, Johannes, Bundy, Kevin, Burchett, Joseph N., Bureau, Martin, Burgasser, Adam, Cabang, Tuesday K., Campbell, Stephanie, Cappellari, Michele, Carlberg, Joleen K., Wanderley, Fábio Carneiro, Carrera, Ricardo, Cash, Jennifer, Chen, Yan-Ping, Chen, Wei-Huai, Cherinka, Brian, Chiappini, Cristina, Choi, Peter Doohyun, Chojnowski, S. Drew, Chung, Haeun, Clerc, Nicolas, Cohen, Roger E., Comerford, Julia M., Comparat, Johan, da Costa, Luiz, Covey, Kevin, Crane, Jeffrey D., Cruz-Gonzalez, Irene, Culhane, Connor, Cunha, Katia, Dai, Y. Sophia, Damke, Guillermo, Darling, Jeremy, Davidson, James W., Davies, Roger, Dawson, Kyle, De Lee, Nathan, Diamond-Stanic, Aleksandar M., Cano-Díaz, Mariana, Sánchez, Helena Domínguez, Donor, John, Duckworth, Chris, Dwelly, Tom, Eisenstein, Daniel J., Elsworth, Yvonne P., Emsellem, Eric, Eracleous, Mike, Escoffier, Stephanie, Fan, Xiaohui, Farr, Emily, Feng, Shuai, Fernández-Trincado, José G., Feuillet, Diane, Filipp, Andreas, Fillingham, Sean P., Frinchaboy, Peter M., Fromenteau, Sebastien, Galbany, Lluís, García, Rafael A., García-Hernández, D. A., Ge, Junqiang, Geisler, Doug, Gelfand, Joseph, Géron, Tobias, Gibson, Benjamin J., Goddy, Julian, Godoy-Rivera, Diego, Grabowski, Kathleen, Green, Paul J., Greener, Michael, Grier, Catherine J., Griffith, Emily, Guo, Hong, Guy, Julien, Hadjara, Massinissa, Harding, Paul, Hasselquist, Sten, Hayes, Christian R., Hearty, Fred, Hernández, Jesús, Hill, Lewis, Hogg, David W., Holtzman, Jon A., Horta, Danny, Hsieh, Bau-Ching, Hsu, Chin-Hao, Hsu, Yun-Hsin, Huber, Daniel, Huertas-Company, Marc, Hutchinson, Brian, Hwang, Ho Seong, Ibarra-Medel, Héctor J., Chitham, Jacob Ider, Ilha, Gabriele S., Imig, Julie, Jaekle, Will, Jayasinghe, Tharindu, Ji, Xihan, Johnson, Jennifer A., Jones, Amy, Jönsson, Henrik, Katkov, Ivan, Khalatyan, Arman, Kinemuchi, Karen, Kisku, Shobhit, Knapen, Johan H., Kneib, Jean-Paul, Kollmeier, Juna A., Kong, Miranda, Kounkel, Marina, Kreckel, Kathryn, Krishnarao, Dhanesh, Lacerna, Ivan, Lane, Richard R., Langgin, Rachel, Lavender, Ramon, Law, David R., Lazarz, Daniel, Leung, Henry W., Leung, Ho-Hin, Lewis, Hannah M., Li, Cheng, Li, Ran, Lian, Jianhui, Liang, Fu-Heng, Lin, Lihwai, Lin, Yen-Ting, Lin, Sicheng, Lintott, Chris, Long, Dan, Longa-Peña, Penélope, López-Cobá, Carlos, Lu, Shengdong, Lundgren, Britt F., Luo, Yuanze, Mackereth, J. Ted, de la Macorra, Axel, Mahadevan, Suvrath, Majewski, Steven R., Manchado, Arturo, Mandeville, Travis, Maraston, Claudia, Margalef-Bentabol, Berta, Masseron, Thomas, Masters, Karen L., Mathur, Savita, McDermid, Richard M., Mckay, Myles, Merloni, Andrea, Merrifield, Michael, Meszaros, Szabolcs, Miglio, Andrea, Di Mille, Francesco, Minniti, Dante, Minsley, Rebecca, and Monachesi, Antonela""1310",
+
+"2022RASTI...1....3L""Lugo-Aranda, A. Z., Sánchez, S. F., Espinosa-Ponce, C., López-Cobá, C., Galbany, L., Barrera-Ballesteros, J. K., Sánchez-Menguiano, L., and Anderson, J. P.""9",
+
+"2022ascl.soft03016L""Law, David R., Cherinka, Brian, Yan, Renbin, Andrews, Brett H., Bershady, Matthew A., Bizyaev, Dmitry, Blanc, Guillermo A., Blanton, Michael R., Bolton, Adam S., Brownstein, Joel R., Bundy, Kevin, Chen, Yanmei, Drory, Niv, D'Souza, Richard, Fu, Hai, Jones, Amy, Kauffmann, Guinevere, MacDonald, Nicholas, Masters, Karen L., Newman, Jeffrey A., Parejko, John K., Sánchez-Gallego, José R., Sánchez, Sebastian F., Schlegel, David J., Thomas, Daniel, Wake, David A., Weijmans, Anne-Marie, Westfall, Kyle B., and Zhang, Kai""0",
+
+"2022ascl.soft03017W""Westfall, Kyle B., Cappellari, Michele, Bershady, Matthew A., Bundy, Kevin, Belfiore, Francesco, Ji, Xihan, Law, David R., Schaefer, Adam, Shetty, Shravan, Tremonti, Christy A., Yan, Renbin, Andrews, Brett H., Brownstein, Joel R., Cherinka, Brian, Coccato, Lodovico, Drory, Niv, Maraston, Claudia, Parikh, Taniya, Sánchez-Gallego, José R., Thomas, Daniel, Weijmans, Anne-Marie, Barrera-Ballesteros, Jorge, Du, Cheng, Goddard, Daniel, Li, Niu, Masters, Karen, Ibarra Medel, Héctor Javier, Sánchez, Sebastián F., Yang, Meng, Zheng, Zheng, and Zhou, Shuang""0",
+
+"2022MNRAS.510.5102O""Osorio-Clavijo, N., González-Martín, O., Sánchez, S. F., Esparza-Arredondo, D., Masegosa, J., Victoria-Ceballos, C., Hernández-García, L., and Díaz, Y.""15",
+
+"2022MNRAS.510.5676I""Ibarra-Medel, H., Avila-Reese, V., Lacerna, I., Rodríguez-Puebla, A., Vázquez-Mata, J. A., Hernández-Toledo, H. M., and Sánchez, S. F.""11",
+
+"2022yCat..19030145L""Lin, L., Ellison, S. L., Pan, H.-A., Thorp, M. D., Su, Y.-C., Sanchez, S. F., Belfiore, F., Bothwell, M. S., Bundy, K., Chen, Y.-M., Concas, A., Hsieh, B.-C., Hsieh, P.-Y., Li, C., Maiolino, R., Masters, K., Newman, J. A., Rowlands, K., Shi, Y., Smethurst, R., Stark, D. V., Xiao, T., and Yu, P.-C.""0",
+
+"2022MNRAS.510.2746Z""Zibetti, Stefano, Gallazzi, Anna R., Ascasibar, Y., Charlot, S., Galbany, L., García-Benito, R., Kehrig, C., de Lorenzo-Cáceres, A., Lyubenova, M., Marino, R. A., Márquez, I., Sánchez, S. F., van de Ven, G., Walcher, C. J., and Wisotzki, L.""0",
+
+"2022ApJ...926..175L""Lin, Lihwai, Ellison, Sara L., Pan, Hsi-An, Thorp, Mallory D., Yu, Po-Chieh, Belfiore, Francesco, Hsieh, Bau-Ching, Maiolino, Roberto, Ramya, S., Sánchez, Sebastián F., and Su, Yung-Chau""29",
+
+"2022yCat..19030052S""Sanchez-Menguiano, L., Almeida, J. S., Munoz-Tunon, C., and Sanchez, S. F.""0",
+
+"2021AGUFMSH25B2082M""Mason, Glenn, Cohen, Christina, Ho, George, Mitchell, Donald, Allen, Robert, Hill, Matthew, Andrews, G., Berger, Lars, Boden, Sebastian, Boettcher, Stephan, Cernuda, Ignacio, Christian, Eric, Cummings, Alan, Davis, Andrew, Desai, Mihir, de Nolfo, Georgia, Eldrum, Sandra, Kollhoff, Alexander, Giacalone, Joe, Gomez-Herrero, Raul, Hayes, John, Janitzek, Nils, Joyce, Colin, Kuhl, Patrick, Kulkarni, Shrinivasrao, Labrador, Allan, Espinosa Lara, Francisco, Lees, W., Leske, Richard, Mall, Urs, Martin-Garcia, Cesar, Martinez-Hellin, A., Matthaeus, William, McComas, David, McNutt, Ralph, Mewaldt, Richard, Mitchell, John, Pacheco, Daniel, Espada, Pablo, Prieto, Manuel, Rankin, Jamie, Ravanbakhsh, Ali, Rodriguez-Pacheco, Javier, Polo, O., Roelof, Edmond, Sanchez, Sebastian, Schlemm, Charles, Schwadron, Nathan, Seifert, Helmut, Stone, Edward, Szalay, Jamey, Terasa, Christoph, Tyagi, K., Freiherr von Forstner, Johan, Wiedenbeck, Mark, Wimmer-Schweingruber, Robert, Xu, Zigong, and Yedla, M.""0",
+
+"2021ApJ...923...60V""Villanueva, V., Bolatto, A., Vogel, S., Levy, R. C., Sánchez, S. F., Barrera-Ballesteros, J., Wong, T., Rosolowsky, E., Colombo, D., Rubio, M., Cao, Y., Kalinova, V., Leroy, A., Utomo, D., Herrera-Camus, R., Blitz, L., and Luo, Y.""17",
+
+"2021ApJ...921..177S""Sarmiento, Regina, Huertas-Company, Marc, Knapen, Johan H., Sánchez, Sebastián F., Domínguez Sánchez, Helena, Drory, Niv, and Falcón-Barroso, Jesus""28",
+
+"2021ApJ...922L..20C""Camps-Fariña, A., Sánchez, S. F., Carigi, L., Lacerda, E. A. D., García-Benito, R., Mast, D., Galbany, L., and Barrera-Ballesteros, J. K.""3",
+
+"2021AcAau.187...12P""Prieto, Manuel, Ravanbakhsh, Ali, Gutiérrez, Óscar, Montalvo, Aarón, Wimmer-Schweingruber, Robert F., Mason, Glenn, Cernuda, Ignacio, Espinosa Lara, Francisco, Carrasco, Alberto, Martín, César, Seimetz, Lars, Kulkarni, Shrinivasrao R., Panitzsch, Lauri, Terasa, Jan-Christoph, Schuster, Björn, Yedla, Mahesh, Knierim, Violetta, Böttcher, Stephan I., Boden, Sebastian, Elftmann, Robert, Janitzek, Nils, Andrews, Bruce, Ho, George, R-Polo, Óscar, Martínez, Agustín, Gómez-Herrero, Raúl, Sánchez, Sebastián, and Rodríguez-Pacheco, Javier""4",
+
+"2021A&A...652L..10S""Sánchez, S. F., Espinosa-Ponce, C., Carigi, L., Morisset, C., Barrera-Ballesteros, J. K., Walcher, C. J., García-Benito, R., Camps-Fariña, A., and Galbany, L.""6",
+
+"2021MNRAS.505.5460V""Valerdi, M., Barrera-Ballesteros, J. K., Sánchez, S. F., Espinosa-Ponce, C., Carigi, L., and Mejía-Narváez, A.""7",
+
+"2021MNRAS.504.5496L""Li, Zefeng, Krumholz, Mark R., Wisnioski, Emily, Mendel, J. Trevor, Kewley, Lisa J., Sánchez, Sebastian F., and Galbany, Lluís""25",
+
+"2021MNRAS.505L..46E""Ellison, Sara L., Wong, Tony, Sánchez, Sebastian F., Colombo, Dario, Bolatto, Alberto, Barrera-Ballesteros, Jorge, García-Benito, Rubén, Kalinova, Veselina, Luo, Yufeng, Rubio, Monica, and Vogel, Stuart N.""61",
+
+"2021MNRAS.504.3478C""Camps-Fariña, A., Sanchez, S. F., Lacerda, E. A. D., Carigi, L., García-Benito, R., Mast, D., and Galbany, L.""23",
+
+"2021yCat..36480064K""Kalinova, V., Colombo, D., Sanchez, S. F., Kodaira, K., Garcia-Benito, R., Gonzalez Delgado, R., Rosolowsky, E., and Lacerda, E. A. D.""0",
+
+"2021MNRAS.504.3058M""Méndez-Abreu, J., de Lorenzo-Cáceres, A., and Sánchez, S. F.""26",
+
+"2021hst..prop16741G""Galbany, Lluis, Anderson, Joe P., Ascasibar, Yago, Badenes, Carles, Castrillo, Asier, Kuncarayakti, Hanindyo, Levan, Andrew James, Lyman, Joseph, Sanchez, Sebastian F., Stanway, Elizabeth R., and Steeghs, Danny""0",
+
+"2021MNRAS.503.3643B""Barrera-Ballesteros, J. K., Sánchez, S. F., Heckman, T., Wong, T., Bolatto, A., Ostriker, E., Rosolowsky, E., Carigi, L., Vogel, S., Levy, R. C., Colombo, D., Luo, Yufeng, and Cao, Yixian""45",
+
+"2021MNRAS.503.1615S""Sánchez, S. F., Barrera-Ballesteros, J. K., Colombo, D., Wong, T., Bolatto, A., Rosolowsky, E., Vogel, S., Levy, R., Kalinova, V., Alvarez-Hurtado, P., Luo, Y., and Cao, Y.""56",
+
+"2021A&A...648A..64K""Kalinova, V., Colombo, D., Sánchez, S. F., Kodaira, K., García-Benito, R., González Delgado, R., Rosolowsky, E., and Lacerda, E. A. D.""32",
+
+"2021essp.confE...1B""Barrera-Ballesteros, Jorge K., Sanchez, Sebastian, Heckman, Tim, Bolatto, Alberto, and Wong, Tony""1",
+
+"2021MNRAS.502.3357P""Poetrodjojo, Henry, Groves, Brent, Kewley, Lisa J., Sweet, Sarah M., Sanchez, Sebastian F., Medling, Anne M., López-Sánchez, Ángel R., Brough, Sarah, Cortese, Luca, van de Sande, Jesse, Vaughan, Sam, Richards, Samuel N., Bryant, Julia J., Croom, Scott M., Bland-Hawthorn, Joss, Goodwin, Michael, Lawrence, Jon S., Owers, Matt S., and Scott, Nicholas""35",
+
+"2021RMxAA..57....3S""Sánchez, S. F., Walcher, C. J., Lopez-Cobá, C., Barrera-Ballesteros, J. K., Mejía-Narváez, A., Espinosa-Ponce, C., and Camps-Fariña, A.""70",
+
+"2021MNRAS.502.1386C""Cid Fernandes, R., Carvalho, M. S., Sánchez, S. F., de Amorim, A., and Ruschel-Dutra, D.""18",
+
+"2021MNRAS.501.3122C""Castrillo, Asier, Ascasibar, Yago, Galbany, Lluís, Sánchez, Sebastián F., Badenes, Carles, Anderson, Joseph P., Kuncarayakti, Hanindyo, Lyman, Joseph D., and Díaz, Angeles I.""19",
+
+"2021MNRAS.502L...6E""Ellison, Sara L., Lin, Lihwai, Thorp, Mallory D., Pan, Hsi-An, Sánchez, Sebastian F., Bluck, Asa F. L., and Belfiore, Francesco""27",
+
+"2021ApJ...909..131B""Barrera-Ballesteros, J. K., Heckman, T., Sánchez, S. F., Drory, N., Cruz-Gonzalez, I., Carigi, L., Riffel, R. A., Boquien, M., Tissera, P., Bizyaev, D., Rong, Y., Boardman, N. F., Alvarez Hurtado, P., and MaNGA Team""33",
+
+"2021MNRAS.501.4777E""Ellison, Sara L., Lin, Lihwai, Thorp, Mallory D., Pan, Hsi-An, Scudder, Jillian M., Sánchez, Sebastian F., Bluck, Asa F. L., and Maiolino, Roberto""73",
+
+"2021yCat..18820009S""Sanchez-Menguiano, L., Sanchez Almeida, J., Munoz-Tunon, C., Sanchez, S. F., Filho, M., Hwang, H.-C., and Drory, N.""0",
+
+"2021yCat..74741307M""Mendez-Abreu, J., Aguerri, J. A. L., Falcon-Barroso, J., Ruiz-Lara, T., Sanchez-Menguiano, L., de Lorenzo-Caceres, A., Costantin, L., Catalan-Torrecilla, C., Zhu, L., Sanchez-Blazquez, P., Florido, E., Corsini, E. M., Wild, V., Lyubenova, M., van de Ven, G., Sanchez, S. F., Bland-Hawthorn, J., Galbany, L., Garcia-Benito, R., Garcia-Lorenzo, B., Gonzalez Delgado, R. M., Lopez-Sanchez, A. R., Marino, R. A., Marquez, I., and Ziegler, B.""0",
+
+"2021MNRAS.501..948B""Boardman, N. F., Zasowski, G., Newman, J. A., Sanchez, S. F., Schaefer, A., Lian, J., Bizyaev, D., and Drory, N.""19",
+
+"2021ApJ...906L...6R""Robleto-Orús, A. C., Torres-Papaqui, J. P., Longinotti, A. L., Ortega-Minakata, R. A., Sánchez, S. F., Ascasibar, Y., Bellocchi, E., Galbany, L., Chow-Martínez, M., Trejo-Alonso, J. J., Morales-Vargas, A., and Romero-Cruz, F. J.""20",
+
+"2021IAUS..359..291R""Robleto-Orús, A. C., Torres-Papaqui, J. P., Longinotti, A. L., Ortega-Minakata, R. A., Sánchez, S. F., Ascasibar, Y., Bellocchi, E., Galbany, L., Chow-Martínez, M., Trejo-Alonso, J. J., Morales-Vargas, A., Romero-Cruz, F. J., Cutiva-Alvarez, K. A., and Coziol, R.""0",
+
+"2021IAUS..359..391S""Sánchez, Sebastian F. and Lopez Cobá, Carlos""0",
+
+"2021ApJ...906...56D""Dong, Yize, Valenti, S., Bostroem, K. A., Sand, D. J., Andrews, Jennifer E., Galbany, L., Jha, Saurabh W., Eweis, Youssef, Kwok, Lindsey, Hsiao, E. Y., Davis, Scott, Brown, Peter J., Kuncarayakti, H., Maeda, Keiichi, Rho, Jeonghee, Amaro, R. C., Anderson, J. P., Arcavi, Iair, Burke, Jamison, Dastidar, Raya, Folatelli, Gastón, Haislip, Joshua, Hiramatsu, Daichi, Hosseinzadeh, Griffin, Howell, D. Andrew, Jencson, J., Kouprianov, Vladimir, Lundquist, M., Lyman, J. D., McCully, Curtis, Misra, Kuntal, Reichart, Daniel E., Sánchez, S. F., Smith, Nathan, Wang, Xiaofeng, Wang, Lingzhi, and Wyatt, S.""24",
+
+"2020MNRAS.499.4370M""Morales-Vargas, A., Torres-Papaqui, J. P., Rosales-Ortega, F. F., Sánchez, S. F., Chow-Martínez, M., Ortega-Minakata, R. A., Trejo-Alonso, J. J., Robleto-Orús, A. C., Romero-Cruz, F. J., Neri-Larios, D. M., and Califa Survey Collaboration""7",
+
+"2020A&A...644A.117L""Lacerna, I., Ibarra-Medel, H., Avila-Reese, V., Hernández-Toledo, H. M., Vázquez-Mata, J. A., and Sánchez, S. F.""43",
+
+"2020A&A...644A..97C""Colombo, D., Sanchez, S. F., Bolatto, A. D., Kalinova, V., Weiß, A., Wong, T., Rosolowsky, E., Vogel, S. N., Barrera-Ballesteros, J., Dannerbauer, H., Cao, Y., Levy, R. C., Utomo, D., and Blitz, L.""53",
+
+"2020MNRAS.499.4838M""Mejía-Narváez, A., Sánchez, S. F., Lacerda, E. A. D., Carigi, L., Galbany, L., Husemann, B., and García-Benito, R.""14",
+
+"2020ApJ...903...52S""Sánchez-Menguiano, Laura, Sánchez Almeida, Jorge, Muñoz-Tuñón, Casiana, and Sánchez, Sebastián F.""14",
+
+"2020ApJ...903..145L""Lin, Lihwai, Ellison, Sara L., Pan, Hsi-An, Thorp, Mallory D., Su, Yung-Chau, Sánchez, Sebastián F., Belfiore, Francesco, Bothwell, M. S., Bundy, Kevin, Chen, Yan-Mei, Concas, Alice, Hsieh, Bau-Ching, Hsieh, Pei-Ying, Li, Cheng, Maiolino, Roberto, Masters, Karen, Newman, Jeffrey A., Rowlands, Kate, Shi, Yong, Smethurst, Rebecca, Stark, David V., Xiao, Ting, and Yu, Po-Chieh""58",
+
+"2020MNRAS.499..230B""Bluck, Asa F. L., Maiolino, Roberto, Piotrowska, Joanna M., Trussler, James, Ellison, Sara L., Sánchez, Sebastian F., Thorp, Mallory D., Teimoorinia, Hossen, Moreno, Jorge, and Conselice, Christopher J.""145",
+
+"2020ApJ...903...16P""Pan, Hsi-An, Lin, Lihwai, Hsieh, Bau-Ching, Michałowski, Michał J., Bothwell, Matthew S., Huang, Song, Moiseev, Alexei V., Oparin, Dmitry, O'Sullivan, Ewan, Worrall, Diana M., Sánchez, Sebastián F., Gwyn, Stephen, Law, David R., Stark, David V., Bizyaev, Dmitry, Li, Cheng, Lee, Chien-Hsiu, Fu, Hai, Belfiore, Francesco, Bundy, Kevin, Fernández-Trincado, José G., Gelfand, Joseph, and Peirani, Sébastien""6",
+
+"2020ApJ...902..139K""Kuncarayakti, Hanindyo, Folatelli, Gastón, Maeda, Keiichi, Dessart, Luc, Jerkstrand, Anders, Anderson, Joseph P., Aoki, Kentaro, Bersten, Melina C., Ferrari, Lucía, Galbany, Lluís, García, Federico, Gutiérrez, Claudia P., Hattori, Takashi, Kawabata, Koji S., Kravtsov, Timo, Lyman, Joseph D., Mattila, Seppo, Olivares E., Felipe, Sánchez, Sebastián F., and Van Dyk, Schuyler D.""12",
+
+"2020ApJ...900..109A""Aquino-Ortíz, E., Sánchez, S. F., Valenzuela, O., Hernández-Toledo, H., Jin, Yunpeng, Zhu, Ling, van de Ven, Glenn, Barrera-Ballesteros, J. K., Avila-Reese, V., Rodríguez-Puebla, A., and Tissera, Patricia B.""24",
+
+"2020BAAA...61C..66R""Robleto-Orús, A. C., Torres-Papaqui, J. P., Longinotti, A. L., Ortega-Minakata, R. A., Sánchez, S. F., Ascasibar, Y., Bellocchi, E., Galbany, L., Chow-Martínez, M., Trejo-Alonso, J. J., Morales-Vargas, A., and Romero-Cruz, F. A.""0",
+
+"2020ARA&A..58...99S""Sánchez, Sebastián F.""221",
+
+"2020A&A...639L...9D""del Moral-Castro, I., García-Lorenzo, B., Ramos Almeida, C., Ruiz-Lara, T., Falcón-Barroso, J., Sánchez, S. F., Sánchez-Blázquez, P., Márquez, I., and Masegosa, J.""12",
+
+"2020sea..confE...2A""Álvarez-Hurtado, P., Barrera-Ballesteros, J., and Sánchez, S. F.""0",
+
+"2020sea..confE..28D""del Moral-Castro, I., García-Lorenzo, B., Ramos Almeida, C., Ruiz-Lara, T., Falcón-Barroso, J., Sánchez, S. F., Sánchez-Blazquez, P., Márquez, I., and Masegosa, J.""0",
+
+"2020sea..confE..35E""Espinosa-Ponce, C., Sánchez, S. F., Morisset, C., Barrera-Ballesteros, J. K., Galbany, L., García-Benito, R., Lacerda, E. A. D., and Mast, D.""0",
+
+"2020sea..confE..38G""Galbany, L., Anderson, J. P., Sánchez, S. F., Kunkarayakti, H., Lyman, J., Kruehler, T., Aquino, E., Afonso, A. S., Ascasibar, Y., Ashall, C., Badenes, C., Burns, C., Dessart, L., Dominguez, I., Dong, S., Falcón-Barroso, J., Förster, F., González-Gaitán, S., Gutiérrez, C., Hamuy, M., Hoeflich, P., Holoien, T., Hsiao, E., James, P., Kangas, T., Kankare, E., Kochanek, C., Mattila, S., Mourão, A., Ortega-Minakata, R., Pérez, E., Pérez, I., Phillips, M., Paulina-Afonso, A., Prieto, J.-L., Razza, A., Rosales-Ortega, F., Ruiz-Lara, T., Sánchez-Blázquez, P., Sánchez-Menguiano, L., Schady, P., Shapee, B., Smith, M., Stanek, K., Stritzinger, M., Sullivan, M., and Wang, L.""1",
+
+"2020MNRAS.495..992L""Lyman, J. D., Galbany, L., Sánchez, S. F., Anderson, J. P., Kuncarayakti, H., and Prieto, J. L.""37",
+
+"2020yCat..51590167L""Lopez-Coba, C., Sanchez, S. F., Anderson, J. P., Cruz-Gonzalez, I., Galbany, L., Ruiz-Lara, T., Barrera-Ballesteros, J. K., Prieto, J. L., and Kuncarayakti, H.""0",
+
+"2020EGUGA..2222044W""Wimmer-Schweingruber, Robert F., Rodriguez-Pacheco, Javier, Böttcher, Stephan, Cernuda, Ignacio, Dresing, Nina, Dröge, Wolfgang, Eldrum, Sandra, Espinose Lara, Francisco, Gomez-Herrero, Raul, Heber, Bernd, Ho, George, Klassen, Andreas, Kollhoff, Alexander, Kulkarni, Shrinivasrao, Mann, Gottfried, Martin, César, Mason, Glenn, Pacheco, Daniel, Prieto, Manuel, and Sanchez, Sebastian""0",
+
+"2020hst..prop16287L""Lyman, Joseph, Anderson, Joe P., Ascasibar, Yago, Badenes, Carles, Castrillo, Asier, Galbany, Lluis, Kuncarayakti, Hanindyo, Levan, Andrew James, Sanchez, Sebastian F., Stanway, Elizabeth R., and Steeghs, Danny""0",
+
+"2020MNRAS.494.1622E""Espinosa-Ponce, C., Sánchez, S. F., Morisset, C., Barrera-Ballesteros, J. K., Galbany, L., García-Benito, R., Lacerda, E. A. D., and Mast, D.""53",
+
+"2020yCat..74692539K""Kalinova, V., Colombo, D., Rosolowsky, E., Kannan, R., Galbany, L., Garcia-Benito, R., Gonzalez Delgado, R., Sanchez, S. F., Ruiz-Lara, T., Mendez-Abreu, J., Catalan-Torrecilla, C., Sanchez-Menguiano, L., de Lorenzo-Caceres, A., Costantin, L., Florido, E., Kodaira, K., Marino, R. A., Lasker, R., and Bland-Hawthorn, J.""0",
+
+"2020yCat..74692121S""Sanchez, S. F., Barrera-Ballesteros, J. K., Sanchez-Menguiano, L., Walcher, C. J., Marino, R. A., Galbany, L., Bland-Hawthorn, J., Cano-Diaz, M., Garcia-Benito, R., Lopez-Coba, C., Zibetti, S., Vilchez, J. M., Iglesias-Paramo, J., Kehrig, C., Lopez Sanchez, A. R., Duarte Puertas, S., and Ziegler, B.""0",
+
+"2020AJ....159..167L""López-Cobá, Carlos, Sánchez, Sebastián F., Anderson, Joseph P., Cruz-González, Irene, Galbany, Lluís, Ruiz-Lara, Tomás, Barrera-Ballesteros, Jorge K., Prieto, José L., and Kuncarayakti, Hanindyo""95",
+
+"2020MNRAS.492.3073L""Lacerda, Eduardo A. D., Sánchez, Sebastián F., Cid Fernandes, R., López-Cobá, Carlos, Espinosa-Ponce, Carlos, and Galbany, L.""92",
+
+"2020MNRAS.492.4149S""Sánchez-Menguiano, Laura, Sánchez, Sebastián F., Pérez, Isabel, Ruiz-Lara, Tomás, Galbany, Lluís, Anderson, Joseph P., and Kuncarayakti, Hanindyo""32",
+
+"2020IAUGA..30..265M""Mollá, M., Cavichia, O., Gibson, B., Tissera, P., Sánchez-Blázquez, P., Díaz, A. I., Ascasibar, Y., Few, C. G., Sánchez, S. F., and Maciel, W. J.""2",
+
+"2020MNRAS.493.1434C""Camps-Fariña, A., Beckman, J. E., Font, J., del Moral-Castro, I., Sanchez, S. F., and Borlaff, A.""1",
+
+"2020IAUGA..30..260S""Sánchez-Menguiano, Laura, Sánchez, Sebastián F., and Pérez, Isabel""0",
+
+"2020IAUGA..30..263B""Barrera-Ballesteros, Jorge K., Lin, Li-Hwai, Hsieh, Bu-Ching, Pan, Hsi-An, Sánchez, Sebastian, and Heckman, Timothy""0",
+
+"2020MNRAS.492.6027E""Ellison, Sara L., Thorp, Mallory D., Pan, Hsi-An, Lin, Lihwai, Scudder, Jillian M., Bluck, Asa F. L., Sánchez, Sebastian F., and Sargent, Mark""44",
+
+"2020MNRAS.493L..39E""Ellison, Sara L., Thorp, Mallory D., Lin, Lihwai, Pan, Hsi-An, Bluck, Asa F. L., Scudder, Jillian M., Teimoorinia, Hossen, Sánchez, Sebastian F., and Sargent, Mark""78",
+
+"2020yCat..36320059F""Falcon-Barroso, J., van de Ven, G., Lyubenova, M., Mendez-Abreu, J., Aguerri, J. A. L., Garcia-Lorenzo, B., Bekeraite, S., Sanchez, S. F., Husemann, B., Garcia-Benito, R., Gonzalez Delgado, R. M., Mast, D., Walcher, C. J., Zibetti, S., Zhu, L., Barrera-Ballesteros, J. K., Galbany, L., Sanchez-Blazquez, P., Singh, R., van den Bosch, R. C. E., Wild, V., Bland-Hawthorn, J., Cid Fernandes, R., de Lorenzo-Caceres, A., Gallazzi, A., Marino, R. A., Marquez, I., Peletier, R. F., Perez, E., Perez, I., Roth, M. M., Rosales-Ortega, F. F., Ruiz-Lara, T., Wisotzki, L., and Ziegler, B.""0",
+
+"2020SoPh..295...11P""Prieto, Manuel, Gordo, Javier Bussons, Rodríguez-Pacheco, Javier, Martínez, Agustín, Sánchez, Sebastián, Russu, Andrés, Monstein, Christian, and Fernández, Rafael""2",
+
+"2020MNRAS.492.2651B""Barrera-Ballesteros, Jorge K., Utomo, Dyas, Bolatto, Alberto D., Sánchez, Sebastián F., Vogel, Stuart N., Wong, Tony, Levy, Rebecca C., Colombo, Dario, Kalinova, Veselina, Teuben, Peter, García-Benito, Rubén, Husemann, Bernd, Mast, Damián, and Blitz, Leo""59",
+
+"2020MNRAS.492...96B""Bluck, Asa F. L., Maiolino, Roberto, Sánchez, Sebastian F., Ellison, Sara L., Thorp, Mallory D., Piotrowska, Joanna M., Teimoorinia, Hossen, and Bundy, Kevin A.""145",
+
+"2020MNRAS.491.3655G""Garma-Oehmichen, L., Cano-Díaz, M., Hernández-Toledo, H., Aquino-Ortíz, E., Valenzuela, O., Aguerri, J. A. L., Sánchez, S. F., and Merrifield, M.""42",
+
+"2019A&A...632A..59F""Falcón-Barroso, J., van de Ven, G., Lyubenova, M., Mendez-Abreu, J., Aguerri, J. A. L., García-Lorenzo, B., Bekeraité, S., Sánchez, S. F., Husemann, B., García-Benito, R., González Delgado, R. M., Mast, D., Walcher, C. J., Zibetti, S., Zhu, L., Barrera-Ballesteros, J. K., Galbany, L., Sánchez-Blázquez, P., Singh, R., van den Bosch, R. C. E., Wild, V., Bland-Hawthorn, J., Cid Fernandes, R., de Lorenzo-Cáceres, A., Gallazzi, A., Marino, R. A., Márquez, I., Peletier, R. F., Pérez, E., Pérez, I., Roth, M. M., Rosales-Ortega, F. F., Ruiz-Lara, T., Wisotzki, L., and Ziegler, B.""55",
+
+"2019AJ....158..231W""Westfall, Kyle B., Cappellari, Michele, Bershady, Matthew A., Bundy, Kevin, Belfiore, Francesco, Ji, Xihan, Law, David R., Schaefer, Adam, Shetty, Shravan, Tremonti, Christy A., Yan, Renbin, Andrews, Brett H., Brownstein, Joel R., Cherinka, Brian, Coccato, Lodovico, Drory, Niv, Maraston, Claudia, Parikh, Taniya, Sánchez-Gallego, José R., Thomas, Daniel, Weijmans, Anne-Marie, Barrera-Ballesteros, Jorge, Du, Cheng, Goddard, Daniel, Li, Niu, Masters, Karen, Ibarra Medel, Héctor Javier, Sánchez, Sebastián F., Yang, Meng, Zheng, Zheng, and Zhou, Shuang""384",
+
+"2019yCat..74923073L""Lacerda, E. A. D., Sanchez, S. F., Cid Fernandes, R., Lopez-Coba, C., Espinosa-Ponce, C., and Galbany, L.""0",
+
+"2019MNRAS.490..665M""Mollá, M., Wekesa, S., Cavichia, O., Díaz, Á. I., Gibson, B. K., Rosales-Ortega, F. F., Ascasibar, Y., Wamalwa, D. S., and Sánchez, S. F.""20",
+
+"2019ApJ...886L...2L""López-Cruz, Omar, Ibarra-Medel, Héctor Javier, Sánchez, Sebastián F., Birkinshaw, Mark, Añorve, Christopher, Barrera-Ballesteros, Jorge K., Falcon-Barroso, Jesús, Barkhouse, Wayne A., and Torres-Papaqui, Juan P.""3",
+
+"2019AJ....158..160B""Belfiore, Francesco, Westfall, Kyle B., Schaefer, Adam, Cappellari, Michele, Ji, Xihan, Bershady, Matthew A., Tremonti, Christy, Law, David R., Yan, Renbin, Bundy, Kevin, Shetty, Shravan, Drory, Niv, Thomas, Daniel, Emsellem, Eric, and Sánchez, Sebastián F.""224",
+
+"2019ApJ...884L..33L""Lin, Lihwai, Pan, Hsi-An, Ellison, Sara L., Belfiore, Francesco, Shi, Yong, Sánchez, Sebastián F., Hsieh, Bau-Ching, Rowlands, Kate, Ramya, S., Thorp, Mallory D., Li, Cheng, and Maiolino, Roberto""126",
+
+"2019MNRAS.488L..80M""Méndez-Abreu, J., Sánchez, S. F., and de Lorenzo-Cáceres, A.""32",
+
+"2019MNRAS.488.1926D""Dey, Biprateep, Rosolowsky, Erik, Cao, Yixian, Bolatto, Alberto, Sanchez, Sebastian F., Utomo, Dyas, Colombo, Dario, Kalinova, Veselina, Wong, Tony, Blitz, Leo, Vogel, Stuart, Loeppky, Jason, and García-Benito, Rubén""37",
+
+"2019ApJ...882....9S""Sánchez-Menguiano, Laura, Sánchez Almeida, Jorge, Muñoz-Tuñón, Casiana, Sánchez, Sebastián F., Filho, Mercedes, Hwang, Hsiang-Chih, and Drory, Niv""53",
+
+"2019MNRAS.488.3929C""Cano-Díaz, M., Ávila-Reese, V., Sánchez, S. F., Hernández-Toledo, H. M., Rodríguez-Puebla, A., Boquien, M., and Ibarra-Medel, H.""99",
+
+"2019ApJ...882...84L""Levy, Rebecca C., Bolatto, Alberto D., Sánchez, Sebastián F., Blitz, Leo, Colombo, Dario, Kalinova, Veselina, López-Cobá, Carlos, Ostriker, Eve C., Teuben, Peter, Utomo, Dyas, Vogel, Stuart N., and Wong, Tony""63",
+
+"2019A&A...629A..57M""Meza, Nicolás, Prieto, J. L., Clocchiatti, A., Galbany, L., Anderson, J. P., Falco, E., Kochanek, C. S., Kuncarayakti, H., Sánchez, S. F., Brimacombe, J., Holoien, T. W.-S., Shappee, B. J., Stanek, K. Z., and Thompson, T. A.""14",
+
+"2019yCat..36290057M""Meza, N., Prieto, J. L., Clocchiatti, A., Galbany, L., Anderson, J. P., Falco, E., Kochanek, C. S., Kuncarayakti, H., Sanchez, S. F., Brimacombe, J., Holoien, T. W.-S., Shappee, B. J., Stanek, K. Z., and Thompson, T. A.""0",
+
+"2019ApJ...881..119P""Pan, Hsi-An, Lin, Lihwai, Hsieh, Bau-Ching, Barrera-Ballesteros, Jorge K., Sánchez, Sebastián F., Hsu, Chin-Hao, Keenan, Ryan, Tissera, Patricia B., Boquien, Médéric, Dai, Y. Sophia, Knapen, Johan H., Riffel, Rogério, Argudo-Fernández, Maria, Xiao, Ting, and Yuan, Fang-Ting""65",
+
+"2019MNRAS.485.3794D""del Moral-Castro, I., García-Lorenzo, B., Ramos Almeida, C., Ruiz-Lara, T., Falcón-Barroso, J., Sánchez, S. F., Sánchez-Blázquez, P., Márquez, I., and Masegosa, J.""7",
+
+"2019A&A...625A..83B""Bellocchi, E., Ascasibar, Y., Galbany, L., Sánchez, S. F., Ibarra-Medel, H., Gavilán, M., and Díaz, Á.""6",
+
+"2019MNRAS.484.4298M""Méndez-Abreu, J., Sánchez, S. F., and de Lorenzo-Cáceres, A.""28",
+
+"2019MNRAS.484.3042S""Sánchez, S. F., Barrera-Ballesteros, J. K., López-Cobá, C., Brough, S., Bryant, J. J., Bland-Hawthorn, J., Croom, S. M., van de Sande, J., Cortese, L., Goodwin, M., Lawrence, J. S., López-Sánchez, A. R., Sweet, S. M., Owers, M. S., Richards, S. N., and Walcher, C. J.""98",
+
+"2019hsax.conf...44S""Sánchez-Menguiano, L., Sánchez, S. F., and Pérez, I.""0",
+
+"2019MNRAS.483.4525I""Ibarra-Medel, Héctor J., Avila-Reese, Vladimir, Sánchez, Sebastián F., González-Samaniego, Alejandro, and Rodríguez-Puebla, Aldo""61",
+
+"2019MNRAS.484..869V""van de Sande, Jesse, Lagos, Claudia D. P., Welker, Charlotte, Bland-Hawthorn, Joss, Schulze, Felix, Remus, Rhea-Silvia, Bahé, Yannick, Brough, Sarah, Bryant, Julia J., Cortese, Luca, Croom, Scott M., Devriendt, Julien, Dubois, Yohan, Goodwin, Michael, Konstantopoulos, Iraklis S., Lawrence, Jon S., Medling, Anne M., Pichon, Christophe, Richards, Samuel N., Sanchez, Sebastian F., Scott, Nicholas, and Sweet, Sarah M.""90",
+
+"2019hsax.conf..128G""García-Benito, R., González Delgado, R. M., Pérez, E., Cid Fernandes, R., Sánchez, S. F., and de Amorim, A. L.""0",
+
+"2019hsax.conf..229R""Rodríguez-Baras, M., Díaz, A. I., Rosales-Ortega, F. F., and Sánchez, S. F.""0",
+
+"2019hsax.conf..222M""Mollá, M., Wekesa, S., Wamalwa, D. S., Cavichia, O., Gibson, B. K., Díaz, Á. I., Ascasibar, Y., Rosales-Ortega, F. F., and Sánchez, S. F.""0",
+
+"2019ApJS..240...23A""Aguado, D. S., Ahumada, Romina, Almeida, Andrés, Anderson, Scott F., Andrews, Brett H., Anguiano, Borja, Aquino Ortíz, Erik, Aragón-Salamanca, Alfonso, Argudo-Fernández, Maria, Aubert, Marie, Avila-Reese, Vladimir, Badenes, Carles, Barboza Rembold, Sandro, Barger, Kat, Barrera-Ballesteros, Jorge, Bates, Dominic, Bautista, Julian, Beaton, Rachael L., Beers, Timothy C., Belfiore, Francesco, Bernardi, Mariangela, Bershady, Matthew, Beutler, Florian, Bird, Jonathan, Bizyaev, Dmitry, Blanc, Guillermo A., Blanton, Michael R., Blomqvist, Michael, Bolton, Adam S., Boquien, Médéric, Borissova, Jura, Bovy, Jo, Brandt, William Nielsen, Brinkmann, Jonathan, Brownstein, Joel R., Bundy, Kevin, Burgasser, Adam, Byler, Nell, Cano Diaz, Mariana, Cappellari, Michele, Carrera, Ricardo, Cervantes Sodi, Bernardo, Chen, Yanping, Cherinka, Brian, Choi, Peter Doohyun, Chung, Haeun, Coffey, Damien, Comerford, Julia M., Comparat, Johan, Covey, Kevin, da Silva Ilha, Gabriele, da Costa, Luiz, Dai, Yu Sophia, Damke, Guillermo, Darling, Jeremy, Davies, Roger, Dawson, Kyle, de Sainte Agathe, Victoria, Deconto Machado, Alice, Del Moro, Agnese, De Lee, Nathan, Diamond-Stanic, Aleksandar M., Domínguez Sánchez, Helena, Donor, John, Drory, Niv, du Mas des Bourboux, Hélion, Duckworth, Chris, Dwelly, Tom, Ebelke, Garrett, Emsellem, Eric, Escoffier, Stephanie, Fernández-Trincado, José G., Feuillet, Diane, Fischer, Johanna-Laina, Fleming, Scott W., Fraser-McKelvie, Amelia, Freischlad, Gordon, Frinchaboy, Peter M., Fu, Hai, Galbany, Lluís, Garcia-Dias, Rafael, García-Hernández, D. A., Garma Oehmichen, Luis Alberto, Geimba Maia, Marcio Antonio, Gil-Marín, Héctor, Grabowski, Kathleen, Gu, Meng, Guo, Hong, Ha, Jaewon, Harrington, Emily, Hasselquist, Sten, Hayes, Christian R., Hearty, Fred, Hernandez Toledo, Hector, Hicks, Harry, Hogg, David W., Holley-Bockelmann, Kelly, Holtzman, Jon A., Hsieh, Bau-Ching, Hunt, Jason A. S., Hwang, Ho Seong, Ibarra-Medel, Héctor J., Jimenez Angel, Camilo Eduardo, Johnson, Jennifer, Jones, Amy, Jönsson, Henrik, Kinemuchi, Karen, Kollmeier, Juna, Krawczyk, Coleman, Kreckel, Kathryn, Kruk, Sandor, Lacerna, Ivan, Lan, Ting-Wen, Lane, Richard R., Law, David R., Lee, Young-Bae, Li, Cheng, Lian, Jianhui, Lin, Lihwai, Lin, Yen-Ting, Lintott, Chris, Long, Dan, Longa-Peña, Penélope, Mackereth, J. Ted, de la Macorra, Axel, Majewski, Steven R., Malanushenko, Olena, Manchado, Arturo, Maraston, Claudia, Mariappan, Vivek, Marinelli, Mariarosa, Marques-Chaves, Rui, Masseron, Thomas, Masters, Karen L., McDermid, Richard M., Medina Peña, Nicolás, Meneses-Goytia, Sofia, Merloni, Andrea, Merrifield, Michael, Meszaros, Szabolcs, Minniti, Dante, Minsley, Rebecca, Muna, Demitri, Myers, Adam D., Nair, Preethi, Correa do Nascimento, Janaina, Newman, Jeffrey A., Nitschelm, Christian, Olmstead, Matthew D., Oravetz, Audrey, Oravetz, Daniel, Ortega Minakata, René A., Pace, Zach, Padilla, Nelson, Palicio, Pedro A., Pan, Kaike, Pan, Hsi-An, Parikh, Taniya, Parker, James, Peirani, Sebastien, Penny, Samantha, Percival, Will J., Perez-Fournon, Ismael, Peterken, Thomas, Pinsonneault, Marc H., Prakash, Abhishek, Raddick, M. Jordan, Raichoor, Anand, Riffel, Rogemar A., Riffel, Rogério, Rix, Hans-Walter, Robin, Annie C., Roman-Lopes, Alexandre, Rose, Benjamin, Ross, Ashley J., Rossi, Graziano, Rowlands, Kate, Rubin, Kate H. R., Sánchez, Sebastián F., Sánchez-Gallego, José R., Sayres, Conor, Schaefer, Adam, Schiavon, Ricardo P., Schimoia, Jaderson S., Schlafly, Edward, Schlegel, David, Schneider, Donald P., Schultheis, Mathias, Seo, Hee-Jong, Shamsi, Shoaib J., Shao, Zhengyi, Shen, Shiyin, Shetty, Shravan, Simonian, Gregory, Smethurst, Rebecca J., Sobeck, Jennifer, Souter, Barbara J., Spindler, Ashley, Stark, David V., and Stassun, Keivan G.""375",
+
+"2019ApJ...872..144H""Hwang, Hsiang-Chih, Barrera-Ballesteros, Jorge K., Heckman, Timothy M., Rowlands, Kate, Lin, Lihwai, Rodriguez-Gomez, Vicente, Pan, Hsi-An, Hsieh, Bau-Ching, Sánchez, Sebastian, Bizyaev, Dmitry, Sánchez Almeida, Jorge, Thilker, David A., Lotz, Jennifer M., Jones, Amy, Nair, Preethi, Andrews, Brett H., and Drory, Niv""54",
+
+"2019MNRAS.483..370B""Bitsakis, T., Sánchez, S. F., Ciesla, L., Bonfini, P., Charmandaris, V., Cervantes Sodi, B., Maragkoudakis, A., Diaz-Santos, T., and Zezas, A.""25",
+
+"2019ApJ...872...50L""Lin, Lihwai, Hsieh, Bau-Ching, Pan, Hsi-An, Rembold, Sandro B., Sánchez, Sebastián F., Argudo-Fernández, Maria, Rowlands, Kate, Belfiore, Francesco, Bizyaev, Dmitry, Lacerna, Ivan, Riffel, Rogréio, Rong, Yu, Yuan, Fangting, Drory, Niv, Maiolino, Roberto, and Wilcots, Eric""79",
+
+"2019MNRAS.482L..55T""Thorp, Mallory D., Ellison, Sara L., Simard, Luc, Sánchez, Sebastian F., and Antonio, Braulio""94",
+
+"2019MNRAS.482.4032L""López-Cobá, Carlos, Sánchez, Sebastián F., Bland-Hawthorn, Joss, Moiseev, Alexei V., Cruz-González, Irene, García-Benito, Rubén, Barrera-Ballesteros, Jorge K., and Galbany, Lluís""54",
+
+"2019MNRAS.482.1427G""Gilhuly, Colleen, Courteau, Stéphane, and Sánchez, Sebastian F.""8",
+
+"2019MNRAS.482..194B""Bing, Longji, Shi, Yong, Chen, Yanmei, Sánchez, Sebastián F., Maiolino, Roberto, Riffel, Rogério, Riffel, Rogemar A., Wylezalek, Dominika, Bizyaev, Dmitry, Pan, Kaike, and Drory, Niv""17",
+
+"2019A&A...621A.120G""García-Benito, R., González Delgado, R. M., Pérez, E., Cid Fernandes, R., Sánchez, S. F., and de Amorim, A. L.""45",
+
+"2019MNRAS.482.1557S""Sánchez, S. F., Avila-Reese, V., Rodríguez-Puebla, A., Ibarra-Medel, H., Calette, R., Bershady, M., Hernández-Toledo, H., Pan, K., and Bizyaev, D.""87",
+
+"2018MNRAS.481.2299S""Scott, Nicholas, van de Sande, Jesse, Croom, Scott M., Groves, Brent, Owers, Matt S., Poetrodjojo, Henry, D'Eugenio, Francesco, Medling, Anne M., Barat, Dilyar, Barone, Tania M., Bland-Hawthorn, Joss, Brough, Sarah, Bryant, Julia, Cortese, Luca, Foster, Caroline, Green, Andrew W., Oh, Sree, Colless, Matthew, Drinkwater, Michael J., Driver, Simon P., Goodwin, Michael, Gunawardhana, Madusha L. P., Federrath, Christoph, Harischandra, Lloyd, Jin, Yifei, Lawrence, J. S., Lorente, Nuria P., Mannering, Elizabeth, O'Toole, Simon, Richards, Samuel N., Sanchez, Sebastian F., Schaefer, Adam L., Sealey, Katrina, Sharp, Rob, Sweet, Sarah M., Taranu, Dan S., and Varidel, Mathew""98",
+
+"2018A&A...620A.164B""Boselli, A., Fossati, M., Consolandi, G., Amram, P., Ge, C., Sun, M., Anderson, J. P., Boissier, S., Boquien, M., Buat, V., Burgarella, D., Cortese, L., Côté, P., Cuillandre, J. C., Durrell, P., Epinat, B., Ferrarese, L., Fumagalli, M., Galbany, L., Gavazzi, G., Gómez-López, J. A., Gwyn, S., Hensler, G., Kuncarayakti, H., Marcelin, M., Mendes de Oliveira, C., Quint, B. C., Roediger, J., Roehlly, Y., Sanchez, S. F., Sanchez-Janssen, R., Toloba, E., Trinchieri, G., and Vollmer, B.""35",
+
+"2018MNRAS.479.5235P""Poetrodjojo, Henry, Groves, Brent, Kewley, Lisa J., Medling, Anne M., Sweet, Sarah M., van de Sande, Jesse, Sanchez, Sebastian F., Bland-Hawthorn, Joss, Brough, Sarah, Bryant, Julia J., Cortese, Luca, Croom, Scott M., López-Sánchez, Ángel R., Richards, Samuel N., Zafar, Tayyaba, Lawrence, Jon S., Lorente, Nuria P. F., Owers, Matt S., and Scott, Nicholas""95",
+
+"2018MNRAS.479..917G""Guidi, G., Casado, J., Ascasibar, Y., García-Benito, R., Galbany, L., Sánchez-Blázquez, P., Sánchez, S. F., Rosales-Ortega, F. F., and Scannapieco, C.""19",
+
+"2018yCat..18520050F""Fernandez-Alvar, E., Carigi, L., Schuster, W. J., Hayes, C. R., Avila-Vergara, N., Majewski, S. R., Allende Prieto, C., Beers, T. C., Sanchez, S. F., Zamora, O., Garcia-Hernandez, D. A., Tang, B., Fernandez-Trincado, J. G., Tissera, P., Geisler, D., and Villanova, S.""0",
+
+"2018MNRAS.479.2133A""Aquino-Ortíz, E., Valenzuela, O., Sánchez, S. F., Hernández-Toledo, H., Ávila-Reese, V., van de Ven, G., Rodríguez-Puebla, A., Zhu, L., Mancillas, B., Cano-Díaz, M., and García-Benito, R.""43",
+
+"2018MNRAS.479..262G""Galbany, Lluís, Collett, Thomas E., Méndez-Abreu, Jairo, Sánchez, Sebastián F., Anderson, Joseph P., and Kuncarayakti, Hanindyo""12",
+
+"2018yCat..35940036S""Sanchez, S. F., Garcia-Benito, R., Zibetti, S., Walcher, C. J., Husemann, B., Mendoza, M. A., Galbany, L., Falcon-Barroso, J., Mast, D., Aceituno, J., Aguerri, J. A. L., Alves, J., Amorim, A. L., Ascasibar, Y., Barrado-Navascues, D., Barrera-Ballesteros, J., Bekeraite, S., Bland-Hawthorn, J., Cano Diaz, M., Cid Fernandes, R., Cavichia, O., Cortijo, C., Dannerbauer, H., Demleitner, M., Diaz, A., Dettmar, R. J., de Lorenzo-Caceres, A., Del Olmo, A., Galazzi, A., Garcia-Lorenzo, B., Gil de, Paz A., Gonzalez Delgado, R., Holmes, L., Iglesias-Paramo, J., Kehrig, C., Kelz, A., Kennicutt, R. C., Kleemann, B., Lacerda, E. A. D., Lopez Fernandez, R., Lopez Sanchez, A. R., Lyubenova, M., Marino, R., Marquez, I., Mendez-Abreu, J., Molla, M., Monreal-Ibero, A., Ortega Minakata, R., Torres-Papaqui, J. P., Perez, E., Rosales-Ortega, F. F., Roth, M. M., Sanchez-Blazquez, P., Schilling, U., Spekkens, K., Vale Asari, N., van den Bosch, R. C. E., van de Ven, G., Vilchez, J. M., Wild, V., Wisotzki, L., Yildirim, A., and Ziegler, B.""0",
+
+"2018MNRAS.478.5491M""Mallmann, Nícolas Dullius, Riffel, Rogério, Storchi-Bergmann, Thaisa, Rembold, Sandro Barboza, Riffel, Rogemar A., Schimoia, Jaderson, da Costa, Luiz Nicolaci, Ávila-Reese, Vladimir, Sanchez, Sebastian F., Machado, Alice D., Cirolini, Rafael, Ilha, Gabriele S., and Nascimento, Janaína C. do""45",
+
+"2018MNRAS.478.3776D""de Jaeger, Thomas, Galbany, Lluís, Gutiérrez, Claudia P., Filippenko, Alexei V., Zheng, WeiKang, Brink, Thomas G., Foley, Ryan J., Sánchez, Sebastian F., Channa, Sanyum, de Kouchkovsky, Maxime, Halevi, Goni, Kilpatrick, Charles D., Kumar, Sahana, Molloy, Jeffrey, Pan, Yen-Chen, Ross, Timothy W., Shivvers, Isaac, Siebert, Matthew R., Stahl, Benjamin, Stegman, Samantha, and Yunus, Sameen""17",
+
+"2018ApJ...863..107D""Durazo, R., Hernandez, X., Cervantes Sodi, B., and Sanchez, S. F.""18",
+
+"2018SPIE10702E..17G""Gil de Paz, A., Carrasco, E., Gallego, J., Iglesias-Páramo, J., Cedazo, R., García-Vargas, M. L., Arrillaga, X., Avilés, J. L., Bouquin, A., Carbajo, J., Cardiel, N., Carrera, M. A., Castillo-Morales, A., Castillo-Domínguez, E., Esteban San Román, S., Ferrusca, D., Gómez-Álvarez, P., Izazaga-Pérez, R., Lefort, B., López-Orozco, J. A., Maldonado, M., Martínez-Delgado, I., Morales-Durán, I., Mujica, E., Páez, G., Pascual, S., Pérez-Calpena, A., Picazo, P., Sánchez-Penim, A., Sánchez-Blanco, E., Tulloch, S., Velázquez, M., Vílchez, J. M., Zamorano, J., Aguerri, A. L., Barrado y Navascues, D., Berlanas, S. R., Bertone, E., Cava, A., Catalán-Torrecilla, C., Cenarro, J., Chávez, M., Dullo, B. T., García, M., García-Rojas, J., Guichard, J., González-Delgado, R., Guzmán, R., Herrero, A., Huélamo, N., Hughes, D. H., Jiménez-Vicente, J., Kehrig, C., Marino, R. A., Márquez, I., Masegosa, J., Mayya, D., Méndez-Abreu, J., Mollá, M., Muñoz-Tuñón, C., Peimbert, M., Pérez-González, P. G., Pérez-Montero, E., Rodríguez, M., Rodríguez-Espinosa, J. M., Rodríguez Merino, L., Rodríguez-Muñoz, L., Rosa-González, D., Sánchez-Almeida, J., Sánchez-Contreras, C., Sánchez-Blázquez, P., Sánchez, S. F., Sarajedini, A., Silich, S., Simón-Díaz, S., Tenorio-Tagle, G., Terlevich, E., Terlevich, R., Torres-Peimbert, S., Trujillo, I., Tsamis, Y., and Vega, O.""9",
+
+"2018shin.confE.220R""Rodriguez-Pacheco, Javier, Wimmer-Schweingruber, Robert F., Ho, George, Mason, Glenn, Sánchez, Sebastián, Prieto, Manuel, Martin, César, Gómez-Herrero, Raúl, Cernuda, Ignacio, Espinosa, Francisco, Böttcher, Stephan, Kulkarni, Shrinivasrao, Panitzsch, Lauri, Terasa, Christoph, Boden, Sebastian, Elftmann, Robert, and Eldrum, Sandra""0",
+
+"2018SPIE10702E..16C""Carrasco, E., Gil de Paz, A., Gallego, J., Iglesias-Páramo, J., Cedazo, R., García Vargas, M. L., Arrillaga, X., Avilés, J. L., Bouquin, A., Carbajo, J., Cardiel, N., Carrera, M. A., Castillo Morales, A., Castillo-Domínguez, E., Esteban San Román, S., Ferrusca, D., Gómez-Álvarez, P., Izazaga-Pérez, R., Lefort, B., López Orozco, J. A., Maldonado, M., Martínez Delgado, I., Morales Durán, I., Mújica, E., Ortiz, R., Páez, G., Pascual, S., Pérez-Calpena, A., Picazo, P., Sánchez-Penim, A., Sánchez-Blanco, E., Tulloch, S., Velázquez, M., Vílchez, J. M., Zamorano, J., Aguerri, A. L., Barrado, D., Bertone, E., Cava, A., Catalán-Torrecilla, C., Cenarro, J., Chávez, M., Dullo, B. T., Eliche, C., García, Mi., García-Rojas, J., Guichard, J., González-Delgado, R., Guzmán, R., Herrero, A., Huélamo, N., Hughes, D. H., Jiménez-Vicente, J., Kehrig, C., Marino, R. A., Márquez, I., Masegosa, J., Mayya, D., Méndez-Abreu, J., Mollá, M., Muñoz-Tuñón, C., Peimbert, M., Pérez-González, P. G., Pérez-Montero, E., Roca-Fàbrega, S., Rodríguez, M., Rodríguez-Espinosa, J. M., Rodríguez-Merino, L., Rodríguez-Muñoz, L., Rosa-González, D., Sánchez-Almeida, J., Sánchez Contreras, C., Sánchez-Blázquez, P., Sánchez, S. F., Sarajedini, A., Silich, S., Simón-Díaz, S., Tenorio-Tagle, G., Terlevich, E., Terlevich, R., Torres-Peimbert, S., Trujillo, I., Tsamis, Y., and Vega, O.""9",
+
+"2018A&A...615A..27L""López Fernández, R., González Delgado, R. M., Pérez, E., García-Benito, R., Cid Fernandes, R., Schoenell, W., Sánchez, S. F., Gallazzi, A., Sánchez-Blázquez, P., Vale Asari, N., and Walcher, C. J.""75",
+
+"2018yCat..18480087C""Catalan-Torrecilla, C., Gil de, Paz A., Castillo-Morales, A., Mendez-Abreu, J., Falcon-Barroso, J., Bekeraite, S., Costantin, L., de Lorenzo-Caceres, A., Florido, E., Garcia-Benito, R., Husemann, B., Iglesias-Paramo, J., Kennicutt, R. C., Mast, D., Pascual, S., Ruiz-Lara, T., Sanchez-Menguiano, L., Sanchez, S. F., Walcher, C. J., Bland-Hawthorn, J., Duarte Puertas, S., Marino, R. A., Masegosa, J., and Sanchez-Blazquez, P.""0",
+
+"2018MNRAS.477..254L""Leung, Gigi Y. C., Leaman, Ryan, van de Ven, Glenn, Lyubenova, Mariya, Zhu, Ling, Bolatto, Alberto D., Falcón-Barroso, Jesus, Blitz, Leo, Dannerbauer, Helmut, Fisher, David B., Levy, Rebecca C., Sanchez, Sebastian F., Utomo, Dyas, Vogel, Stuart, Wong, Tony, and Ziegler, Bodo""52",
+
+"2018ApJ...860...92L""Levy, Rebecca C., Bolatto, Alberto D., Teuben, Peter, Sánchez, Sebastián F., Barrera-Ballesteros, Jorge K., Blitz, Leo, Colombo, Dario, García-Benito, Rubén, Herrera-Camus, Rodrigo, Husemann, Bernd, Kalinova, Veselina, Lan, Tian, Leung, Gigi Y. C., Mast, Damián, Utomo, Dyas, van de Ven, Glenn, Vogel, Stuart N., and Wong, Tony""85",
+
+"2018yCat..18460159B""Bolatto, A. D., Wong, T., Utomo, D., Blitz, L., Vogel, S. N., Sanchez, S. F., Barrera-Ballesteros, J., Cao, Y., Colombo, D., Dannerbauer, H., Garcia-Benito, R., Herrera-Camus, R., Husemann, B., Kalinova, V., Leroy, A. K., Leung, G., Levy, R. C., Mast, D., Ostriker, E., Rosolowsky, E., Sandstrom, K. M., Teuben, P., van de Ven, G., and Walter, F.""0",
+
+"2018ApJ...856..137W""Wang, Enci, Li, Cheng, Xiao, Ting, Lin, Lin, Bershady, Matthew, Law, David R., Merrifield, Michael, Sanchez, Sebastian F., Riffel, Rogemar A., Riffel, Rogerio, and Yan, Renbin""50",
+
+"2018ApJS..235...42A""Abolfathi, Bela, Aguado, D. S., Aguilar, Gabriela, Allende Prieto, Carlos, Almeida, Andres, Ananna, Tonima Tasnim, Anders, Friedrich, Anderson, Scott F., Andrews, Brett H., Anguiano, Borja, Aragón-Salamanca, Alfonso, Argudo-Fernández, Maria, Armengaud, Eric, Ata, Metin, Aubourg, Eric, Avila-Reese, Vladimir, Badenes, Carles, Bailey, Stephen, Balland, Christophe, Barger, Kathleen A., Barrera-Ballesteros, Jorge, Bartosz, Curtis, Bastien, Fabienne, Bates, Dominic, Baumgarten, Falk, Bautista, Julian, Beaton, Rachael, Beers, Timothy C., Belfiore, Francesco, Bender, Chad F., Bernardi, Mariangela, Bershady, Matthew A., Beutler, Florian, Bird, Jonathan C., Bizyaev, Dmitry, Blanc, Guillermo A., Blanton, Michael R., Blomqvist, Michael, Bolton, Adam S., Boquien, Médéric, Borissova, Jura, Bovy, Jo, Bradna Diaz, Christian Andres, Brandt, William Nielsen, Brinkmann, Jonathan, Brownstein, Joel R., Bundy, Kevin, Burgasser, Adam J., Burtin, Etienne, Busca, Nicolás G., Cañas, Caleb I., Cano-Díaz, Mariana, Cappellari, Michele, Carrera, Ricardo, Casey, Andrew R., Cervantes Sodi, Bernardo, Chen, Yanping, Cherinka, Brian, Chiappini, Cristina, Choi, Peter Doohyun, Chojnowski, Drew, Chuang, Chia-Hsun, Chung, Haeun, Clerc, Nicolas, Cohen, Roger E., Comerford, Julia M., Comparat, Johan, Correa do Nascimento, Janaina, da Costa, Luiz, Cousinou, Marie-Claude, Covey, Kevin, Crane, Jeffrey D., Cruz-Gonzalez, Irene, Cunha, Katia, da Silva Ilha, Gabriele, Damke, Guillermo J., Darling, Jeremy, Davidson, James W., Dawson, Kyle, de Icaza Lizaola, Miguel Angel C., de la Macorra, Axel, de la Torre, Sylvain, De Lee, Nathan, de Sainte Agathe, Victoria, Deconto Machado, Alice, Dell'Agli, Flavia, Delubac, Timothée, Diamond-Stanic, Aleksandar M., Donor, John, Downes, Juan José, Drory, Niv, du Mas des Bourboux, Hélion, Duckworth, Christopher J., Dwelly, Tom, Dyer, Jamie, Ebelke, Garrett, Davis Eigenbrot, Arthur, Eisenstein, Daniel J., Elsworth, Yvonne P., Emsellem, Eric, Eracleous, Michael, Erfanianfar, Ghazaleh, Escoffier, Stephanie, Fan, Xiaohui, Fernández Alvar, Emma, Fernandez-Trincado, J. G., Fernando Cirolini, Rafael, Feuillet, Diane, Finoguenov, Alexis, Fleming, Scott W., Font-Ribera, Andreu, Freischlad, Gordon, Frinchaboy, Peter, Fu, Hai, Gómez Maqueo Chew, Yilen, Galbany, Lluís, García Pérez, Ana E., Garcia-Dias, R., García-Hernández, D. A., Garma Oehmichen, Luis Alberto, Gaulme, Patrick, Gelfand, Joseph, Gil-Marín, Héctor, Gillespie, Bruce A., Goddard, Daniel, González Hernández, Jonay I., Gonzalez-Perez, Violeta, Grabowski, Kathleen, Green, Paul J., Grier, Catherine J., Gueguen, Alain, Guo, Hong, Guy, Julien, Hagen, Alex, Hall, Patrick, Harding, Paul, Hasselquist, Sten, Hawley, Suzanne, Hayes, Christian R., Hearty, Fred, Hekker, Saskia, Hernandez, Jesus, Hernandez Toledo, Hector, Hogg, David W., Holley-Bockelmann, Kelly, Holtzman, Jon A., Hou, Jiamin, Hsieh, Bau-Ching, Hunt, Jason A. S., Hutchinson, Timothy A., Hwang, Ho Seong, Jimenez Angel, Camilo Eduardo, Johnson, Jennifer A., Jones, Amy, Jönsson, Henrik, Jullo, Eric, Khan, Fahim Sakil, Kinemuchi, Karen, Kirkby, David, Kirkpatrick, Charles C., Kitaura, Francisco-Shu, Knapp, Gillian R., Kneib, Jean-Paul, Kollmeier, Juna A., Lacerna, Ivan, Lane, Richard R., Lang, Dustin, Law, David R., Le Goff, Jean-Marc, Lee, Young-Bae, Li, Hongyu, Li, Cheng, Lian, Jianhui, Liang, Yu, Lima, Marcos, Lin, Lihwai, Long, Dan, Lucatello, Sara, Lundgren, Britt, Mackereth, J. Ted, MacLeod, Chelsea L., Mahadevan, Suvrath, Maia, Marcio Antonio Geimba, Majewski, Steven, Manchado, Arturo, Maraston, Claudia, Mariappan, Vivek, Marques-Chaves, Rui, Masseron, Thomas, Masters, Karen L., McDermid, Richard M., McGreer, Ian D., Melendez, Matthew, Meneses-Goytia, Sofia, Merloni, Andrea, Merrifield, Michael R., Meszaros, Szabolcs, Meza, Andres, Minchev, Ivan, and Minniti, Dante""1011",
+
+"2018RMxAA..54..217S""Sánchez, S. F., Avila-Reese, V., Hernandez-Toledo, H., Cortes-Suárez, E., Rodríguez-Puebla, A., Ibarra-Medel, H., Cano-Díaz, M., Barrera-Ballesteros, J. K., Negrete, C. A., Calette, A. R., de Lorenzo-Cáceres, A., Ortega-Minakata, R. A., Aquino, E., Valenzuela, O., Clemente, J. C., Storchi-Bergmann, T., Riffel, R., Schimoia, J., Riffel, R. A., Rembold, S. B., Brownstein, J. R., Pan, K., Yates, R., Mallmann, N., and Bitsakis, T.""232",
+
+"2018MNRAS.475.1791C""Colombo, D., Kalinova, V., Utomo, D., Rosolowsky, E., Bolatto, A. D., Levy, R. C., Wong, T., Sanchez, S. F., Leroy, A. K., Ostriker, E., Blitz, L., Vogel, S., Mast, D., García-Benito, R., Husemann, B., Dannerbauer, H., Ellmeier, L., and Cao, Y.""57",
+
+"2018A&A...611C...1P""Pérez-Montero, E., García-Benito, R., Vílchez, J. M., Sánchez, S. F., Kehrig, C., Husemann, B., Duarte Puertas, S., Iglesias-Páramo, J., Galbany, L., Mollá, M., Walcher, C. J., Ascasíbar, Y., González Delgado, R. M., Marino, R. A., Masegosa, J., Pérez, E., Rosales-Ortega, F. F., Sánchez-Blázquez, P., Bland-Hawthorn, J., Bomans, D., López-Sánchez, Á. R., and Ziegler, B.""0",
+
+"2018MNRAS.474.3727L""Lacerda, E. A. D., Cid Fernandes, R., Couto, G. S., Stasińska, G., García-Benito, R., Vale Asari, N., Pérez, E., González Delgado, R. M., Sánchez, S. F., and de Amorim, A. L.""138",
+
+"2018ApJ...855..107G""Galbany, L., Anderson, J. P., Sánchez, S. F., Kuncarayakti, H., Pedraz, S., González-Gaitán, S., Stanishev, V., Domínguez, I., Moreno-Raya, M. E., Wood-Vasey, W. M., Mourão, A. M., Ponder, K. A., Badenes, C., Mollá, M., López-Sánchez, A. R., Rosales-Ortega, F. F., Vílchez, J. M., García-Benito, R., and Marino, R. A.""120",
+
+"2018A&A...609A.119S""Sánchez-Menguiano, L., Sánchez, S. F., Pérez, I., Ruiz-Lara, T., Galbany, L., Anderson, J. P., Krühler, T., Kuncarayakti, H., and Lyman, J. D.""151",
+
+"2018MNRAS.474.1307M""Méndez-Abreu, J., Aguerri, J. A. L., Falcón-Barroso, J., Ruiz-Lara, T., Sánchez-Menguiano, L., de Lorenzo-Cáceres, A., Costantin, L., Catalán-Torrecilla, C., Zhu, L., Sánchez-Blazquez, P., Florido, E., Corsini, E. M., Wild, V., Lyubenova, M., van de Ven, G., Sánchez, S. F., Bland-Hawthorn, J., Galbany, L., García-Benito, R., García-Lorenzo, B., González Delgado, R. M., López-Sánchez, A. R., Marino, R. A., Márquez, I., Ziegler, B., and CALIFA Collaboration""38",
+
+"2018yCat..74622715Z""Zinchenko, I. A., Pilyugin, L. S., Grebel, E. K., Sanchez, S. F., and Vilchez, J. M.""0",
+
+"2018ApJ...854..159P""Pan, Hsi-An, Lin, Lihwai, Hsieh, Bau-Ching, Sánchez, Sebastián F., Ibarra-Medel, Héctor, Boquien, Médéric, Lacerna, Ivan, Argudo-Fernández, Maria, Bizyaev, Dmitry, Cano-Díaz, Mariana, Drory, Niv, Gao, Yang, Masters, Karen, Pan, Kaike, Tabor, Martha, Tissera, Patricia, and Xiao, Ting""32",
+
+"2018MNRAS.474.2039E""Ellison, Sara L., Sánchez, Sebastian F., Ibarra-Medel, Hector, Antonio, Braulio, Mendel, J. Trevor, and Barrera-Ballesteros, Jorge""175",
+
+"2018AAS...23113001L""Levy, Rebecca C., Bolatto, Alberto D., Teuben, Peter, Sánchez, Sebastián F., Blitz, Leo, García-Benito, Rubén, Husemann, Bernd, Mast, Damián, Utomo, Dyas, Vogel, Stuart N., Wong, Tony, and EDGE-CALIFA Collaboration""0",
+
+"2018MNRAS.473.3000Z""Zhu, Ling, van den Bosch, Remco, van de Ven, Glenn, Lyubenova, Mariya, Falcón-Barroso, Jesús, Meidt, Sharon E., Martig, Marie, Shen, Juntai, Li, Zhao-Yu, Yildirim, Akin, Walcher, C. Jakob, and Sanchez, Sebastian F.""94",
+
+"2018A&A...609A.102R""Rodríguez-Baras, M., Díaz, A. I., Rosales-Ortega, F. F., and Sánchez, S. F.""9",
+
+"2018AAS...23142604C""Cao, Yixian, Wong, Tony, Bolatto, Alberto D., Blitz, Leo, Sánchez, Sebastián F., Utomo, Dyas, Leroy, Adam, Rosolowsky, Erik, Levy, Rebecca C., and Vogel, Stuart N.""0",
+
+"2018NatAs...2..233Z""Zhu, Ling, van de Ven, Glenn, van den Bosch, Remco, Rix, Hans-Walter, Lyubenova, Mariya, Falcón-Barroso, Jesús, Martig, Marie, Mao, Shude, Xu, Dandan, Jin, Yunpeng, Obreja, Aura, Grand, Robert J. J., Dutton, Aaron A., Macciò, Andrea V., Gómez, Facundo A., Walcher, Jakob C., García-Benito, Rubén, Zibetti, Stefano, and Sánchez, Sebastian F.""85",
+
+"2018ApJ...852...74B""Barrera-Ballesteros, J. K., Heckman, T., Sánchez, S. F., Zakamska, N. L., Cleary, J., Zhu, G., Brinkmann, J., Drory, N., and THE MaNGA TEAM""86",
+
+"2018ApJ...852...50F""Fernández-Alvar, Emma, Carigi, Leticia, Schuster, William J., Hayes, Christian R., Ávila-Vergara, Nancy, Majewski, Steve R., Allende Prieto, Carlos, Beers, Timothy C., Sánchez, Sebastián F., Zamora, Olga, García-Hernández, Domingo Aníbal, Tang, Baitian, Fernández-Trincado, José G., Tissera, Patricia, Geisler, Douglas, and Villanova, Sandro""64",
+
+"2017ApJ...851L..24H""Hsieh, B. C., Lin, Lihwai, Lin, J. H., Pan, H. A., Hsu, C. H., Sánchez, S. F., Cano-Díaz, M., Zhang, K., Yan, R., Barrera-Ballesteros, J. K., Boquien, M., Riffel, R., Brownstein, J., Cruz-González, I., Hagen, A., Ibarra, H., Pan, K., Bizyaev, D., Oravetz, D., and Simmons, A.""103",
+
+"2017ApJ...851...18L""Lin, Lihwai, Belfiore, Francesco, Pan, Hsi-An, Bothwell, M. S., Hsieh, Pei-Ying, Huang, Shan, Xiao, Ting, Sánchez, Sebastián F., Hsieh, Bau-Ching, Masters, Karen, Ramya, S., Lin, Jing-Hua, Hsu, Chin-Hao, Li, Cheng, Maiolino, Roberto, Bundy, Kevin, Bizyaev, Dmitry, Drory, Niv, Ibarra-Medel, Héctor, Lacerna, Ivan, Haines, Tim, Smethurst, Rebecca, Stark, David V., and Thomas, Daniel""62",
+
+"2017ASPC..512..229C""Cardiel, N., Marino, R. A., Pascual, S., Ceballos, M. T., Gil de Paz, A., and Sánchez, S. F.""2",
+
+"2017ApJS..233...25A""Albareti, Franco D., Allende Prieto, Carlos, Almeida, Andres, Anders, Friedrich, Anderson, Scott, Andrews, Brett H., Aragón-Salamanca, Alfonso, Argudo-Fernández, Maria, Armengaud, Eric, Aubourg, Eric, Avila-Reese, Vladimir, Badenes, Carles, Bailey, Stephen, Barbuy, Beatriz, Barger, Kat, Barrera-Ballesteros, Jorge, Bartosz, Curtis, Basu, Sarbani, Bates, Dominic, Battaglia, Giuseppina, Baumgarten, Falk, Baur, Julien, Bautista, Julian, Beers, Timothy C., Belfiore, Francesco, Bershady, Matthew, Bertran de Lis, Sara, Bird, Jonathan C., Bizyaev, Dmitry, Blanc, Guillermo A., Blanton, Michael, Blomqvist, Michael, Bolton, Adam S., Borissova, J., Bovy, Jo, Brandt, William Nielsen, Brinkmann, Jonathan, Brownstein, Joel R., Bundy, Kevin, Burtin, Etienne, Busca, Nicolás G., Camacho Chavez, Hugo Orlando, Cano Díaz, M., Cappellari, Michele, Carrera, Ricardo, Chen, Yanping, Cherinka, Brian, Cheung, Edmond, Chiappini, Cristina, Chojnowski, Drew, Chuang, Chia-Hsun, Chung, Haeun, Cirolini, Rafael Fernando, Clerc, Nicolas, Cohen, Roger E., Comerford, Julia M., Comparat, Johan, Correa do Nascimento, Janaina, Cousinou, Marie-Claude, Covey, Kevin, Crane, Jeffrey D., Croft, Rupert, Cunha, Katia, Darling, Jeremy, Davidson, James W., Dawson, Kyle, Da Costa, Luiz, Da Silva Ilha, Gabriele, Deconto Machado, Alice, Delubac, Timothée, De Lee, Nathan, De la Macorra, Axel, De la Torre, Sylvain, Diamond-Stanic, Aleksandar M., Donor, John, Downes, Juan Jose, Drory, Niv, Du, Cheng, Du Mas des Bourboux, Hélion, Dwelly, Tom, Ebelke, Garrett, Eigenbrot, Arthur, Eisenstein, Daniel J., Elsworth, Yvonne P., Emsellem, Eric, Eracleous, Michael, Escoffier, Stephanie, Evans, Michael L., Falcón-Barroso, Jesús, Fan, Xiaohui, Favole, Ginevra, Fernandez-Alvar, Emma, Fernandez-Trincado, J. G., Feuillet, Diane, Fleming, Scott W., Font-Ribera, Andreu, Freischlad, Gordon, Frinchaboy, Peter, Fu, Hai, Gao, Yang, Garcia, Rafael A., Garcia-Dias, R., Garcia-Hernández, D. A., Garcia Pérez, Ana E., Gaulme, Patrick, Ge, Junqiang, Geisler, Douglas, Gillespie, Bruce, Gil Marin, Hector, Girardi, Léo, Goddard, Daniel, Gomez Maqueo Chew, Yilen, Gonzalez-Perez, Violeta, Grabowski, Kathleen, Green, Paul, Grier, Catherine J., Grier, Thomas, Guo, Hong, Guy, Julien, Hagen, Alex, Hall, Matt, Harding, Paul, Harley, R. E., Hasselquist, Sten, Hawley, Suzanne, Hayes, Christian R., Hearty, Fred, Hekker, Saskia, Hernandez Toledo, Hector, Ho, Shirley, Hogg, David W., Holley-Bockelmann, Kelly, Holtzman, Jon A., Holzer, Parker H., Hu, Jian, Huber, Daniel, Hutchinson, Timothy Alan, Hwang, Ho Seong, Ibarra-Medel, Héctor J., Ivans, Inese I., Ivory, KeShawn, Jaehnig, Kurt, Jensen, Trey W., Johnson, Jennifer A., Jones, Amy, Jullo, Eric, Kallinger, T., Kinemuchi, Karen, Kirkby, David, Klaene, Mark, Kneib, Jean-Paul, Kollmeier, Juna A., Lacerna, Ivan, Lane, Richard R., Lang, Dustin, Laurent, Pierre, Law, David R., Leauthaud, Alexie, Le Goff, Jean-Marc, Li, Chen, Li, Cheng, Li, Niu, Li, Ran, Liang, Fu-Heng, Liang, Yu, Lima, Marcos, Lin, Lihwai, Lin, Lin, Lin, Yen-Ting, Liu, Chao, Long, Dan, Lucatello, Sara, MacDonald, Nicholas, MacLeod, Chelsea L., Mackereth, J. Ted, Mahadevan, Suvrath, Maia, Marcio Antonio Geimba, Maiolino, Roberto, Majewski, Steven R., Malanushenko, Olena, Malanushenko, Viktor, Mallmann, Nícolas Dullius, Manchado, Arturo, Maraston, Claudia, Marques-Chaves, Rui, Martinez Valpuesta, Inma, Masters, Karen L., Mathur, Savita, McGreer, Ian D., Merloni, Andrea, Merrifield, Michael R., Mészáros, Szabolcs, Meza, Andres, Miglio, Andrea, Minchev, Ivan, Molaverdikhani, Karan, Montero-Dorta, Antonio D., Mosser, Benoit, Muna, Demitri, and Myers, Adam""659",
+
+"2017A&A...608A..27G""García-Benito, R., González Delgado, R. M., Pérez, E., Cid Fernandes, R., Cortijo-Ferrero, C., López Fernández, R., de Amorim, A. L., Lacerda, E. A. D., Vale Asari, N., and Sánchez, S. F.""86",
+
+"2017A&A...607A..70C""Cortijo-Ferrero, C., González Delgado, R. M., Pérez, E., Cid Fernandes, R., García-Benito, R., Di Matteo, P., Sánchez, S. F., de Amorim, A. L., Lacerda, E. A. D., López Fernández, R., and Tadhunter, C.""34",
+
+"2017ApJ...850L..17L""López-Cobá, C., Sánchez, S. F., Cruz-González, I., Binette, L., Galbany, L., Krühler, T., Rodríguez, L. F., Barrera-Ballesteros, J. K., Sánchez-Menguiano, L., Walcher, C. J., Aquino-Ortíz, E., and Anderson, J. P.""15",
+
+"2017cfe..confE...4B""Binette, L., Lopez-Cobá, C., Sánchez, S. F., and Crúz-Gonzalez, I.""0",
+
+"2017cfe..confE..26O""Ortega-Minakata, R. A., Chow-Martínez, M., Trejo-Alonso, J. J., Robleto-Orús, A., Torres-Papaqui, J. P., Menéndez-Delmestre, K., Gonçalves, T. S., Grossi, M., Mayya, Y. D., and Sánchez, S. F.""0",
+
+"2017cfe..confE...3A""Ávila-Aroche, A. and Sánchez, S. F.""0",
+
+"2017yCat..36090102R""Rodriguez-Baras, M., Diaz, A. I., Rosales-Ortega, F. F., and Sanchez, S. F.""0",
+
+"2017A&A...607A.128G""González Delgado, R. M., Pérez, E., Cid Fernandes, R., García-Benito, R., López Fernández, R., Vale Asari, N., Cortijo-Ferrero, C., de Amorim, A. L., Lacerda, E. A. D., Sánchez, S. F., Lehnert, M. D., and Walcher, C. J.""77",
+
+"2017cfe..confE..20L""Lacerda, E. A. D., Cid Fernandes, R., Couto, G. S., Stasińska, G., García-Benito, R., Vale Asari, N., Pérez, E., Gonzalez Delgado, R. M., Sánchez, S. F., and de Amorim, A. L.""0",
+
+"2017cfe..confE..24N""Nieto-Suárez, M. A., Rosales-Ortega, F. F., Castillo, E., García, P., Escobedo, G., Sánchez, S. F., González, J., Iglesias-Páramo, J., Mollá, M., Chávez, M., Bertone, E., and et al.""0",
+
+"2017cfe..confE..35S""Sánchez, S. F., Sánchez-Menguiano, L., and Pérez, I.""1",
+
+"2017ApJ...849...26U""Utomo, Dyas, Bolatto, Alberto D., Wong, Tony, Ostriker, Eve C., Blitz, Leo, Sanchez, Sebastian F., Colombo, Dario, Leroy, Adam K., Cao, Yixian, Dannerbauer, Helmut, Garcia-Benito, Ruben, Husemann, Bernd, Kalinova, Veselina, Levy, Rebecca C., Mast, Damian, Rosolowsky, Erik, and Vogel, Stuart N.""80",
+
+"2017ApJ...848...87C""Catalán-Torrecilla, C., Gil de Paz, A., Castillo-Morales, A., Méndez-Abreu, J., Falcón-Barroso, J., Bekeraite, S., Costantin, L., de Lorenzo-Cáceres, A., Florido, E., García-Benito, R., Husemann, B., Iglesias-Páramo, J., Kennicutt, R. C., Mast, D., Pascual, S., Ruiz-Lara, T., Sánchez-Menguiano, L., Sánchez, S. F., Walcher, C. J., Bland-Hawthorn, J., Duarte Puertas, S., Marino, R. A., Masegosa, J., Sánchez-Blázquez, P., and CALIFA Collaboration""62",
+
+"2017MNRAS.470.4573Z""Zhou, Luwenjia, Federrath, Christoph, Yuan, Tiantian, Bian, Fuyan, Medling, Anne M., Shi, Yong, Bland-Hawthorn, Joss, Bryant, Julia J., Brough, Sarah, Catinella, Barbara, Croom, Scott M., Goodwin, Michael, Goldstein, Gregory, Green, Andrew W., Konstantopoulos, Iraklis S., Lawrence, Jon S., Owers, Matt S., Richards, Samuel N., and Sanchez, Sebastian F.""49",
+
+"2017A&A...606A..95C""Cortijo-Ferrero, C., González Delgado, R. M., Pérez, E., Sánchez, S. F., Cid Fernandes, R., de Amorim, A. L., Di Matteo, P., García-Benito, R., Lacerda, E. A. D., López Fernández, R., Tadhunter, C., Villar-Martín, M., and Roth, M. M.""14",
+
+"2017ApJ...846..159B""Bolatto, Alberto D., Wong, Tony, Utomo, Dyas, Blitz, Leo, Vogel, Stuart N., Sánchez, Sebastián F., Barrera-Ballesteros, Jorge, Cao, Yixian, Colombo, Dario, Dannerbauer, Helmut, García-Benito, Rubén, Herrera-Camus, Rodrigo, Husemann, Bernd, Kalinova, Veselina, Leroy, Adam K., Leung, Gigi, Levy, Rebecca C., Mast, Damián, Ostriker, Eve, Rosolowsky, Erik, Sandstrom, Karin M., Teuben, Peter, van de Ven, Glenn, and Walter, Fabian""183",
+
+"2017geat.confE..99G""Morales Vargas, Abdías, Torres-Papaqui, Juan Pablo, Rosales-Ortega, Fernando Fabián, Sánchez, Sebastián F., Chow-Martínez, Marcel, Ortega-Minakata, René Alberto, Romero-Cruz, Fernando J., Trejo-Alonso, Josué de Jesús, Neri-Larios, Daniel Marcos, and Robleto-Orús Aitor, Carlos""0",
+
+"2017MNRAS.469.2539K""Kalinova, V., Colombo, D., Rosolowsky, E., Kannan, R., Galbany, L., García-Benito, R., González Delgado, R., Sánchez, S. F., Ruiz-Lara, T., Méndez-Abreu, J., Catalán-Torrecilla, C., Sánchez-Menguiano, L., de Lorenzo-Cáceres, A., Costantin, L., Florido, E., Kodaira, K., Marino, R. A., Läsker, R., and Bland-Hawthorn, J.""41",
+
+"2017MNRAS.469.2121S""Sánchez, S. F., Barrera-Ballesteros, J. K., Sánchez-Menguiano, L., Walcher, C. J., Marino, R. A., Galbany, L., Bland-Hawthorn, J., Cano-Díaz, M., García-Benito, R., López-Cobá, C., Zibetti, S., Vilchez, J. M., Iglésias-Páramo, J., Kehrig, C., López Sánchez, A. R., Duarte Puertas, S., and Ziegler, B.""136",
+
+"2017A&A...604A...4R""Ruiz-Lara, T., Pérez, I., Florido, E., Sánchez-Blázquez, P., Méndez-Abreu, J., Sánchez-Menguiano, L., Sánchez, S. F., Lyubenova, M., Falcón-Barroso, J., van de Ven, G., Marino, R. A., de Lorenzo-Cáceres, A., Catalán-Torrecilla, C., Costantin, L., Bland-Hawthorn, J., Galbany, L., García-Benito, R., Husemann, B., Kehrig, C., Márquez, I., Mast, D., Walcher, C. J., Zibetti, S., Ziegler, B., and CALIFA Team""28",
+
+"2017A&A...603A.113S""Sánchez-Menguiano, L., Sánchez, S. F., Pérez, I., Debattista, V. P., Ruiz-Lara, T., Florido, E., Cavichia, O., Galbany, L., Marino, R. A., Mast, D., Sánchez-Blázquez, P., Méndez-Abreu, J., de Lorenzo-Cáceres, A., Catalán-Torrecilla, C., Cano-Díaz, M., Márquez, I., McIntosh, D. H., Ascasibar, Y., García-Benito, R., Gónzalez Delgado, R. M., Kehrig, C., López-Sánchez, Á. R., Mollá, M., Bland-Hawthorn, J., Walcher, C. J., and Costantin, L.""34",
+
+"2017RMxAC..49..122H""Henao-O, -J., Granados, Andrés, Barrera-Ballesteros, J. K., Sánchez, S. F., and Higuera-G., Mario A.""0",
+
+"2017RMxAC..49Q.173A""Abril-Melgarejo, V., Sánchez, S. F., and Ávila-Reese, V.""0",
+
+"2017RMxAC..49Q.180M""Morales, A., Rosales-Ortega, F. F., Torres-Papaqui, J. P., Sánchez, S. F., Chow-Martínez, M., Ortega-Minakata, R. A., Romero-Cruz, F. J., Trejo-Alonso, J. J., Neri-Larios, D. M., Robleto-Orús, A., and CALIFA Collaboration""0",
+
+"2017RMxAC..49...28S""Sánchez, S. F. and Sánchez-Menguiano, L.""1",
+
+"2017ApJ...844...80B""Barrera-Ballesteros, J. K., Sánchez, S. F., Heckman, T., Blanc, G. A., and MaNGA Team""81",
+
+"2017MNRAS.468.4494Z""Zhu, Guangtun Ben, Barrera-Ballesteros, Jorge K., Heckman, Timothy M., Zakamska, Nadia L., Sánchez, Sebastian F., Yan, Renbin, and Brinkmann, Jonathan""18",
+
+"2017A&A...604A..30N""Neumann, J., Wisotzki, L., Choudhury, O. S., Gadotti, D. A., Walcher, C. J., Bland-Hawthorn, J., García-Benito, R., González Delgado, R. M., Husemann, B., Marino, R. A., Márquez, I., Sánchez, S. F., Ziegler, B., and CALIFA Collaboration""29",
+
+"2017MNRAS.469..151B""Belfiore, Francesco, Maiolino, Roberto, Tremonti, Christy, Sánchez, Sebastian F., Bundy, Kevin, Bershady, Matthew, Westfall, Kyle, Lin, Lihwai, Drory, Niv, Boquien, Médéric, Thomas, Daniel, and Brinkmann, Jonathan""301",
+
+"2017yCat..35970048F""Falcon-Barroso, J., Lyubenova, M., van de Ven, G., Mendez-Abreu, J., Aguerri, J. A. L., Garcia-Lorenzo, B., Bekeraite, S., Sanchez, S. F., Husemann, B., Garcia-Benito, R., Mast, D., Walcher, C. J., Zibetti, S., Barrera-Ballesteros, J. K., Galbany, L., Sanchez-Blazquez, P., Singh, R., van den Bosch, R. C. E., Wild, V., Zhu, L., Bland-Hawthorn, J., Cid Fernandes, R., de Lorenzo-Caceres, A., Gallazzi, A., Gonzalez Delgado, R. M., Marino, R. A., Marquez, I., Perez, E., Perez, I., Roth, M. M., Rosales-Ortega, F. F., Ruiz-Lara, T., Wisotzki, L., and Ziegler, B.""1",
+
+"2017MNRAS.468.1902Z""Zibetti, Stefano, Gallazzi, Anna R., Ascasibar, Y., Charlot, S., Galbany, L., García Benito, R., Kehrig, C., de Lorenzo-Cáceres, A., Lyubenova, M., Marino, R. A., Márquez, I., Sánchez, S. F., van de Ven, G., Walcher, C. J., and Wisotzki, L.""57",
+
+"2017MNRAS.467.4951L""López-Cobá, C., Sánchez, S. F., Moiseev, A. V., Oparin, D. V., Bitsakis, T., Cruz-González, I., Morisset, C., Galbany, L., Bland-Hawthorn, J., Roth, M. M., Dettmar, R.-J., Bomans, D. J., González Delgado, Rosa M., Cano-Díaz, M., Marino, R. A., Kehrig, C., Monreal Ibero, A., and Abril-Melgarejo, V.""34",
+
+"2017MNRAS.467.3898C""Cortijo-Ferrero, C., González Delgado, R. M., Pérez, E., Cid Fernandes, R., Sánchez, S. F., de Amorim, A. L., Di Matteo, P., García-Benito, R., Lacerda, E. A. D., López Fernández, R., and Tadhunter, C.""34",
+
+"2017MNRAS.468..628G""Galbany, L., Mora, L., González-Gaitán, S., Bolatto, A., Dannerbauer, H., López-Sánchez, Á. R., Maeda, K., Pérez, S., Pérez-Torres, M. A., Sánchez, S. F., Wong, T., Badenes, C., Blitz, L., Marino, R. A., Utomo, D., and Van de Ven, G.""34",
+
+"2017MNRAS.470L.122P""Pérez, I., Martínez-Valpuesta, I., Ruiz-Lara, T., de Lorenzo-Caceres, A., Falcón-Barroso, J., Florido, E., González Delgado, R. M., Lyubenova, M., Marino, R. A., Sánchez, S. F., Sánchez-Blázquez, P., van de Ven, G., and Zurita, A.""24",
+
+"2017yCat..36040004R""Ruiz-Lara, T., Perez, I., Florido, E., Sanchez-Blazquez, P., Mendez-Abreu, J., Sanchez-Menguiano, L., Sanchez, S. F., Lyubenova, M., Falcon-Barroso, J., van de Ven, G., Marino, R. A., de Lorenzo-Caceres, A., Catalan-Torrecilla, C., Costantin, L., Bland-Hawthorn, J., Galbany, L., Garcia-Benito, R., Husemann, B., Kehrig, C., Marquez, I., Mast, D., Walcher, C. J., Zibetti, S., Ziegle, B., and Califa Team""0",
+
+"2017MNRAS.466.3217Z""Zhang, Kai, Yan, Renbin, Bundy, Kevin, Bershady, Matthew, Haffner, L. Matthew, Walterbos, René, Maiolino, Roberto, Tremonti, Christy, Thomas, Daniel, Drory, Niv, Jones, Amy, Belfiore, Francesco, Sánchez, Sebastian F., Diamond-Stanic, Aleksandar M., Bizyaev, Dmitry, Nitschelm, Christian, Andrews, Brett, Brinkmann, Jon, Brownstein, Joel R., Cheung, Edmond, Li, Cheng, Law, David R., Roman Lopes, Alexandre, Oravetz, Daniel, Pan, Kaike, Storchi Bergmann, Thaisa, and Simmons, Audrey""229",
+
+"2017MNRAS.466.3989C""Casado, J., Ascasibar, Y., García-Benito, R., Guidi, G., Choudhury, O. S., Bellocchi, E., Sánchez, S. F., and Díaz, A. I.""9",
+
+"2017IAUS..321..278R""Ruiz-Lara, Tomás, Pérez, Isabel, Florido, Estrella, Sánchez-Blázquez, Patricia, Méndez-Abreu, Jairo, Lyubenova, Mariya, Falcón-Barroso, Jesús, Sánchez-Menguiano, Laura, Sánchez, Sebastián F., and CALIFA Team""0",
+
+"2017hsa9.conf..175M""Marino, R. A., Gil de Paz, A., Sánchez, S. F., Sánchez-Blázquez, P., Castillo-Morales, A., Cardiel, N., Pascual, S., Vílchez, J., and Califa, T.""0",
+
+"2017IAUS..321..303C""Cardiel, Nicolás, Marino, Raffaella A., Pascual, Sergio, Ceballos, M. Teresa, Gil de Paz, Armando, and Sánchez, Sebastián F.""0",
+
+"2017A&A...599A.141J""Jones, A., Kauffmann, G., D'Souza, R., Bizyaev, D., Law, D., Haffner, L., Bahé, Y., Andrews, B., Bershady, M., Brownstein, J., Bundy, K., Cherinka, B., Diamond-Stanic, A., Drory, N., Riffel, R. A., Sánchez, S. F., Thomas, D., Wake, D., Yan, R., and Zhang, K.""39",
+
+"2017ApJ...837..179D""Durazo, R., Hernandez, X., Cervantes Sodi, B., and Sánchez, S. F.""23",
+
+"2017ApJ...837...32L""Lin, Lihwai, Lin, Jing-Hua, Hsu, Chin-Hao, Fu, Hai, Huang, Song, Sánchez, Sebastián F., Gwyn, Stephen, Gelfand, Joseph D., Cheung, Edmond, Masters, Karen, Peirani, Sébastien, Rujopakarn, Wiphu, Stark, David V., Belfiore, Francesco, Bothwell, M. S., Bundy, Kevin, Hagen, Alex, Hao, Lei, Huang, Shan, Law, David, Li, Cheng, Lintott, Chris, Maiolino, Roberto, Roman-Lopes, Alexandre, Wang, Wei-Hao, Xiao, Ting, Yuan, Fangting, Bizyaev, Dmitry, Malanushenko, Elena, Drory, Niv, Fernández-Trincado, J. G., Pace, Zach, Pan, Kaike, and Thomas, Daniel""13",
+
+"2017A&A...598A..32M""Méndez-Abreu, J., Ruiz-Lara, T., Sánchez-Menguiano, L., de Lorenzo-Cáceres, A., Costantin, L., Catalán-Torrecilla, C., Florido, E., Aguerri, J. A. L., Bland-Hawthorn, J., Corsini, E. M., Dettmar, R. J., Galbany, L., García-Benito, R., Marino, R. A., Márquez, I., Ortega-Minakata, R. A., Papaderos, P., Sánchez, S. F., Sánchez-Blazquez, P., Spekkens, K., van de Ven, G., Wild, V., and Ziegler, B.""123",
+
+"2017A&A...597A..48F""Falcón-Barroso, J., Lyubenova, M., van de Ven, G., Mendez-Abreu, J., Aguerri, J. A. L., García-Lorenzo, B., Bekeraité, S., Sánchez, S. F., Husemann, B., García-Benito, R., Mast, D., Walcher, C. J., Zibetti, S., Barrera-Ballesteros, J. K., Galbany, L., Sánchez-Blázquez, P., Singh, R., van den Bosch, R. C. E., Wild, V., Zhu, L., Bland-Hawthorn, J., Cid Fernandes, R., de Lorenzo-Cáceres, A., Gallazzi, A., González Delgado, R. M., Marino, R. A., Márquez, I., Pérez, E., Pérez, I., Roth, M. M., Rosales-Ortega, F. F., Ruiz-Lara, T., Wisotzki, L., Ziegler, B., and CALIFA Collaboration""138",
+
+"2016ascl.soft12021C""Casado, J., Ascasibar, Y., García-Benito, R., Guidi, G., Choudhury, O. S., Bellocchi, E., Sánchez, S. F., and Díaz, A. I.""0",
+
+"2016MNRAS.463.2799I""Ibarra-Medel, Héctor J., Sánchez, Sebastián F., Avila-Reese, Vladimir, Hernández-Toledo, Héctor M., González, J. Jesús, Drory, Niv, Bundy, Kevin, Bizyaev, Dmitry, Cano-Díaz, Mariana, Malanushenko, Elena, Pan, Kaike, Roman-Lopes, Alexandre, and Thomas, Daniel""124",
+
+"2016MNRAS.463.3220L""Lyubenova, M., Martín-Navarro, I., van de Ven, G., Falcón-Barroso, J., Galbany, L., Gallazzi, A., García-Benito, R., González Delgado, R., Husemann, B., La Barbera, F., Marino, R. A., Mast, D., Mendez-Abreu, J., Peletier, R. F. P., Sánchez-Blázquez, P., Sánchez, S. F., Trager, S. C., van den Bosch, R. C. E., Vazdekis, A., Walcher, C. J., Zhu, L., Zibetti, S., Ziegler, B., Bland-Hawthorn, J., and CALIFA Collaboration""80",
+
+"2016MNRAS.463.2513B""Barrera-Ballesteros, Jorge K., Heckman, Timothy M., Zhu, Guangtun B., Zakamska, Nadia L., Sánchez, Sebastian F., Law, David, Wake, David, Green, Jenny E., Bizyaev, Dmitry, Oravetz, Daniel, Simmons, Audrey, Malanushenko, Elena, Pan, Kaike, Roman Lopes, Alexandre, and Lane, Richard R.""114",
+
+"2016AJ....152..197Y""Yan, Renbin, Bundy, Kevin, Law, David R., Bershady, Matthew A., Andrews, Brett, Cherinka, Brian, Diamond-Stanic, Aleksandar M., Drory, Niv, MacDonald, Nicholas, Sánchez-Gallego, José R., Thomas, Daniel, Wake, David A., Weijmans, Anne-Marie, Westfall, Kyle B., Zhang, Kai, Aragón-Salamanca, Alfonso, Belfiore, Francesco, Bizyaev, Dmitry, Blanc, Guillermo A., Blanton, Michael R., Brownstein, Joel, Cappellari, Michele, D'Souza, Richard, Emsellem, Eric, Fu, Hai, Gaulme, Patrick, Graham, Mark T., Goddard, Daniel, Gunn, James E., Harding, Paul, Jones, Amy, Kinemuchi, Karen, Li, Cheng, Li, Hongyu, Maiolino, Roberto, Mao, Shude, Maraston, Claudia, Masters, Karen, Merrifield, Michael R., Oravetz, Daniel, Pan, Kaike, Parejko, John K., Sanchez, Sebastian F., Schlegel, David, Simmons, Audrey, Thanjavur, Karun, Tinker, Jeremy, Tremonti, Christy, van den Bosch, Remco, and Zheng, Zheng""349",
+
+"2016yCat..35980032M""Mendez-Abreu, J., Ruiz-Lara, T., Sanchez-Menguiano, L., de Lorenzo-Caceres, A., Costantin, L., Catalan-Torrecilla, C., Florido, E., Aguerri, J. A. L., Bland-Hawthorn, J., Corsini, E. M., Dettmar, R. J., Galbany, L., Garcia-Benito, R., Marino, R. A., Marquez, I., Ortega-Minakata, R. A., Papaderos, P., Sanchez, S. F., Sanchez-Blazquez, P., Spekkens, K., van de Ven, G., Wild, V., and Ziegler, B.""0",
+
+"2016MNRAS.462.2715Z""Zinchenko, I. A., Pilyugin, L. S., Grebel, E. K., Sánchez, S. F., and Vílchez, J. M.""58",
+
+"2016ASPC..507..103G""Gil de Paz, A., Gallego, J., Carrasco, E., Iglesias, J., Sánchez, F., Vílchez, J., García Vargas, M., Andrés, P., Arrillaga, X., Avilés, J., Bonache, J., Carrera, M., Castillo, A., Castillo, E., Cedazo, R., Dormido, J., Eliche Moral, C., Esteban, S., Ferrusca, D., González, E., Lefort, B., López, J., Maldonado, M., Marino, R., Martínez, I., Morales, I., Mujica, E., Páez, G., Pascual, S., Pérez, A., Sánchez, A., Sánchez, E., Tolloch, S., Velázquez, M., Zamorano, J., Aguerri, A., Barrado, D., Bertone, E., Cardiel, N., Cava, A., Cenarro, A., Chávez, M., García, M., González Delgado, R., Guichard, J., Guzmán, R., Herrero, A., Huélamo, N., Hughes, D., Jiménez, J., Kehrig, C., Márquez, I., Masegosa, J., Mayya, D., Méndez Abreu, J., Mollá, M., Muñoz Tuñón, C., Peimbert, M., Pérez González, P., Pérez Montero, E., Rodríguez, M., Rodríguez Espinosa, J. M., Rodríguez, L., Rosa, D., Sánchez Almeida, J., Sánchez Contreras, C., Sánchez Blázquez, P., Sánchez, S. F., Sarajedini, A., Silich, S., Simón Díaz, S., Tenorio Tagle, G., Terlevich, E., Terlevich, R., Torres-Peimbert, S., Trujillo, I., Tsamis, Y., Vega, O., and Villar, V.""4",
+
+"2016A&A...594A..37M""Morisset, C., Delgado-Inglada, G., Sánchez, S. F., Galbany, L., García-Benito, R., Husemann, B., Marino, R. A., Mast, D., and Roth, M. M.""72",
+
+"2016A&A...593A.114B""Bekeraité, S., Walcher, C. J., Falcón-Barroso, J., Garcia Lorenzo, B., Lyubenova, M., Sánchez, S. F., Spekkens, K., van de Ven, G., Wisotzki, L., Ziegler, B., Aguerri, J. A. L., Barrera-Ballesteros, J., Bland-Hawthorn, J., Catalán-Torrecilla, C., and García-Benito, R.""10",
+
+"2016A&A...595A..62P""Pérez-Montero, E., García-Benito, R., Vílchez, J. M., Sánchez, S. F., Kehrig, C., Husemann, B., Duarte Puertas, S., Iglesias-Páramo, J., Galbany, L., Mollá, M., Walcher, C. J., Ascasíbar, Y., González Delgado, R. M., Marino, R. A., Masegosa, J., Pérez, E., Rosales-Ortega, F. F., Sánchez-Blázquez, P., Bland-Hawthorn, J., Bomans, D., López-Sánchez, Á. R., Ziegler, B., and CALIFA Collaboration""57",
+
+"2016ApJ...830L..40S""Sánchez-Menguiano, L., Sánchez, S. F., Kawata, D., Chemin, L., Pérez, I., Ruiz-Lara, T., Sánchez-Blázquez, P., Galbany, L., Anderson, J. P., Grand, R. J. J., Minchev, I., and Gómez, F. A.""73",
+
+"2016ASPC..507..435R""Rosales-Ortega, F. F., Castillo, E., Sánchez, S. F., Iglesias-Páramo, J., Mollá, J. I. M., and Chávez, M.""0",
+
+"2016ApJ...830L..32P""Prieto, J. L., Krühler, T., Anderson, J. P., Galbany, L., Kochanek, C. S., Aquino, E., Brown, J. S., Dong, Subo, Förster, F., Holoien, T. W.-S., Kuncarayakti, H., Maureira, J. C., Rosales-Ortega, F. F., Sánchez, S. F., Shappee, B. J., and Stanek, K. Z.""53",
+
+"2016AJ....152...83L""Law, David R., Cherinka, Brian, Yan, Renbin, Andrews, Brett H., Bershady, Matthew A., Bizyaev, Dmitry, Blanc, Guillermo A., Blanton, Michael R., Bolton, Adam S., Brownstein, Joel R., Bundy, Kevin, Chen, Yanmei, Drory, Niv, D'Souza, Richard, Fu, Hai, Jones, Amy, Kauffmann, Guinevere, MacDonald, Nicholas, Masters, Karen L., Newman, Jeffrey A., Parejko, John K., Sánchez-Gallego, José R., Sánchez, Sebastian F., Schlegel, David J., Thomas, Daniel, Wake, David A., Weijmans, Anne-Marie, Westfall, Kyle B., and Zhang, Kai""446",
+
+"2016arXiv161003159M""Muna, Demitri, Alexander, Michael, Allen, Alice, Ashley, Richard, Asmus, Daniel, Azzollini, Ruyman, Bannister, Michele, Beaton, Rachael, Benson, Andrew, Berriman, G. Bruce, Bilicki, Maciej, Boyce, Peter, Bridge, Joanna, Cami, Jan, Cangi, Eryn, Chen, Xian, Christiny, Nicholas, Clark, Christopher, Collins, Michelle, Comparat, Johan, Cook, Neil, Croton, Darren, Delberth Davids, Isak, Depagne, Éric, Donor, John, dos Santos, Leonardo A., Douglas, Stephanie, Du, Alan, Durbin, Meredith, Erb, Dawn, Faes, Daniel, Fernández-Trincado, J. G., Foley, Anthony, Fotopoulou, Sotiria, Frimann, Søren, Frinchaboy, Peter, Garcia-Dias, Rafael, Gawryszczak, Artur, George, Elizabeth, Gonzalez, Sebastian, Gordon, Karl, Gorgone, Nicholas, Gosmeyer, Catherine, Grasha, Katie, Greenfield, Perry, Grellmann, Rebekka, Guillochon, James, Gurwell, Mark, Haas, Marcel, Hagen, Alex, Haggard, Daryl, Haines, Tim, Hall, Patrick, Hellwing, Wojciech, Herenz, Edmund Christian, Hinton, Samuel, Hlozek, Renee, Hoffman, John, Holman, Derek, Holwerda, Benne Willem, Horton, Anthony, Hummels, Cameron, Jacobs, Daniel, Juel Jensen, Jens, Jones, David, Karick, Arna, Kelley, Luke, Kenworthy, Matthew, Kitchener, Ben, Klaes, Dominik, Kohn, Saul, Konorski, Piotr, Krawczyk, Coleman, Kuehn, Kyler, Kuutma, Teet, Lam, Michael T., Lane, Richard, Liske, Jochen, Lopez-Camara, Diego, Mack, Katherine, Mangham, Sam, Mao, Qingqing, Marsh, David J. E., Mateu, Cecilia, Maurin, Loïc, McCormac, James, Momcheva, Ivelina, Monteiro, Hektor, Mueller, Michael, Munoz, Roberto, Naidu, Rohan, Nelson, Nicholas, Nitschelm, Christian, North, Chris, Nunez-Iglesias, Juan, Ogaz, Sara, Owen, Russell, Parejko, John, Patrício, Vera, Pepper, Joshua, Perrin, Marshall, Pickering, Timothy, Piscionere, Jennifer, Pogge, Richard, Poleski, Radek, Pourtsidou, Alkistis, Price-Whelan, Adrian M., Rawls, Meredith L., Read, Shaun, Rees, Glen, Rein, Hanno, Rice, Thomas, Riemer-Sørensen, Signe, Rusomarov, Naum, Sanchez, Sebastian F., Santander-García, Miguel, Sarid, Gal, Schoenell, William, Scholz, Aleks, Schuhmann, Robert L., Schuster, William, Scicluna, Peter, Seidel, Marja, Shao, Lijing, Sharma, Pranav, Shulevski, Aleksandar, Shupe, David, Sifón, Cristóbal, Simmons, Brooke, Sinha, Manodeep, Skillen, Ian, Soergel, Bjoern, Spriggs, Thomas, Srinivasan, Sundar, Stevens, Abigail, Streicher, Ole, Suchyta, Eric, Tan, Joshua, Telford, O. Grace, Thomas, Romain, Tonini, Chiara, Tremblay, Grant, Tuttle, Sarah, Urrutia, Tanya, Vaughan, Sam, Verdugo, Miguel, Wagner, Alexander, Walawender, Josh, Wetzel, Andrew, Willett, Kyle, Williams, Peter K. G., Yang, Guang, Zhu, Guangtun, and Zonca, Andrea""17",
+
+"2016A&A...594A..36S""Sánchez, S. F., García-Benito, R., Zibetti, S., Walcher, C. J., Husemann, B., Mendoza, M. A., Galbany, L., Falcón-Barroso, J., Mast, D., Aceituno, J., Aguerri, J. A. L., Alves, J., Amorim, A. L., Ascasibar, Y., Barrado-Navascues, D., Barrera-Ballesteros, J., Bekeraitè, S., Bland-Hawthorn, J., Cano Díaz, M., Cid Fernandes, R., Cavichia, O., Cortijo, C., Dannerbauer, H., Demleitner, M., Díaz, A., Dettmar, R. J., de Lorenzo-Cáceres, A., del Olmo, A., Galazzi, A., García-Lorenzo, B., Gil de Paz, A., González Delgado, R., Holmes, L., Iglésias-Páramo, J., Kehrig, C., Kelz, A., Kennicutt, R. C., Kleemann, B., Lacerda, E. A. D., López Fernández, R., López Sánchez, A. R., Lyubenova, M., Marino, R., Márquez, I., Mendez-Abreu, J., Mollá, M., Monreal-Ibero, A., Ortega Minakata, R., Torres-Papaqui, J. P., Pérez, E., Rosales-Ortega, F. F., Roth, M. M., Sánchez-Blázquez, P., Schilling, U., Spekkens, K., Vale Asari, N., van den Bosch, R. C. E., van de Ven, G., Vilchez, J. M., Wild, V., Wisotzki, L., Yıldırım, A., and Ziegler, B.""259",
+
+"2016ascl.soft09015S""Sánchez, S. F., Pérez, E., Sánchez-Blázquez, P., González, J. J., Rosales-Ortega, F. F., Cano-Díaz, M., López-Cobá, C., Marino, R. A., Gil de Paz, A., Mollá, M., López-Sánchez, A. R., Ascasibar, Y., and Barrera-Ballesteros, J.""0",
+
+"2016yCat..18260071I""Iglesias-Paramo, J., Vilchez, J. M., Rosales-Ortega, F. F., Sanchez, S. F., Duarte Puertas, S., Petropoulou, V., Gil de Paz, A., Galbany, L., Molla, M., Catalan-Torrecilla, C., Castillo Morales, A., Mast, D., Husemann, B., Garcia-Benito, R., Mendoza, M. A., Kehrig, C., Perez-Montero, E., Papaderos, P., Gomes, J. M., Walcher, C. J., Gonzalez Delgado, R. M., Marino, R. A., Lopez-Sanchez, A. R., Ziegler, B., Flores, H., and Alves, J.""0",
+
+"2016ApJ...827L..36B""Bekeraitė, S., Walcher, C. J., Wisotzki, L., Croton, D. J., Falcón-Barroso, J., Lyubenova, M., Obreschkow, D., Sánchez, S. F., Spekkens, K., Torrey, P., van de Ven, G., Zwaan, M. A., Ascasibar, Y., Bland-Hawthorn, J., González Delgado, R., Husemann, B., Marino, R. A., Vogelsberger, M., and Ziegler, B.""13",
+
+"2016SPIE.9908E..1KG""Gil de Paz, A., Carrasco, E., Gallego, J., Iglesias-Páramo, J., Cedazo, R., García Vargas, M. L., Arrillaga, X., Avilés, J. L., Cardiel, N., Carrera, M. A., Castillo-Morales, A., Castillo-Domínguez, E., de la Cruz García, J. M., Esteban San Román, S., Ferrusca, D., Gómez-Álvarez, P., Izazaga-Pérez, R., Lefort, B., López-Orozco, J. A., Maldonado, M., Martínez-Delgado, I., Morales Durán, I., Mujica, E., Páez, G., Pascual, S., Pérez-Calpena, A., Picazo, P., Sánchez-Penim, A., Sánchez-Blanco, E., Tulloch, S., Velázquez, M., Vílchez, J. M., Zamorano, J., Aguerri, A. L., Barrado y Naváscues, D., Bertone, E., Cava, A., Cenarro, J., Chávez, M., García, M., García-Rojas, J., Guichard, J., González-Delgado, R., Guzmán, R., Herrero, A., Huélamo, N., Hughes, D. H., Jiménez-Vicente, J., Kehrig, C., Marino, R. A., Márquez, I., Masegosa, J., Mayya, Y. D., Méndez-Abreu, J., Mollá, M., Muñoz-Tuñón, C., Peimbert, M., Pérez-González, P. G., Pérez Montero, E., Rodríguez, M., Rodríguez-Espinosa, J. M., Rodríguez-Merino, L., Rodríguez-Muñoz, L., Rosa-González, D., Sánchez-Almeida, J., Sánchez Contreras, C., Sánchez-Blázquez, P., Sánchez Moreno, F. M., Sánchez, S. F., Sarajedini, A., Silich, S., Simón-Díaz, S., Tenorio-Tagle, G., Terlevich, E., Terlevich, R., Torres-Peimbert, S., Trujillo, I., Tsamis, Y., and Vega, O.""22",
+
+"2016A&A...592A.105M""Miralles-Caballero, D., Díaz, A. I., López-Sánchez, Á. R., Rosales-Ortega, F. F., Monreal-Ibero, A., Pérez-Montero, E., Kehrig, C., García-Benito, R., Sánchez, S. F., Walcher, C. J., Galbany, L., Iglesias-Páramo, J., Vílchez, J. M., González Delgado, R. M., van de Ven, G., Barrera-Ballesteros, J., Lyubenova, M., Meidt, S., Falcon-Barroso, J., Mast, D., Mendoza, M. A., and CALIFA Collaboration""21",
+
+"2016yCat..35950062P""Perez-Montero, E., Garcia-Benito, R., Vilchez, J. M., Sanchez, S. F., Kehrig, C., Husemann, B., Duarte Puertas, S., Iglesias-Paramo, J., Galbany, L., Molla, M., Walcher, C. J., Ascasibar, Y., Gonzalez Delgado, R. M., Marino, R. A., Masegosa, J., Perez, E., Rosales-Ortega, F. F., Sanchez-Blazquez, P., Bland-Hawthorn, J., Bomans, D., Lopez-Sanchez, A. R., Ziegler, B., and Califa Collaboration""0",
+
+"2016A&A...592A..93T""Tissera, Patricia B., Machado, Rubens E. G., Sanchez-Blazquez, Patricia, Pedrosa, Susana E., Sánchez, Sebastián F., Snaith, Owain, and Vilchez, Jose""35",
+
+"2016ApJ...826...71I""Iglesias-Páramo, J., Vílchez, J. M., Rosales-Ortega, F. F., Sánchez, S. F., Duarte Puertas, S., Petropoulou, V., Gil de Paz, A., Galbany, L., Mollá, M., Catalán-Torrecilla, C., Castillo Morales, A., Mast, D., Husemann, B., García-Benito, R., Mendoza, M. A., Kehrig, C., Pérez-Montero, E., Papaderos, P., Gomes, J. M., Walcher, C. J., González Delgado, R. M., Marino, R. A., López-Sánchez, Á. R., Ziegler, B., Flores, H., and Alves, J.""29",
+
+"2016ilgp.confE...9P""Pérez-Montero, E., García-Benito, R., Vílchez, J. M., Sánchez, S. F., Kehrig, C., and CALIFA Collaboration""0",
+
+"2016ilgp.confE..63B""Barrera-Ballesteros, J. K., Sanchez, S. F., and Califa Collaboration""0",
+
+"2016ilgp.confE...1M""Morisset, C., Delgado-Inglada, G., and Sánchez, S. F.""0",
+
+"2016ilgp.confE....S""Sanchez, S. F., Morisset, C., and Delgado-Inglada, G.""0",
+
+"2016ilgp.confE..62L""López-Cobá, C., Sánchez, S. F., and Bitsakis, T.""0",
+
+"2016ilgp.confE..56S""Sánchez, S. F., Sánchez-Menguiano, L., and Califa Collaboration""0",
+
+"2016ilgp.confE..14M""Morales, A., Rosales-Ortega, F. F., Torres-Papaqui, J. P., Sánchez, S. F., Chow-Martínez, M., Ortega-Minakata, R. A., Romero-Cruz, F. J., Trejo-Alonso, J. J., Neri-Larios, D. M., and Robleto-Orús, A.""0",
+
+"2016ilgp.confE..60C""Cano-Díaz, M., Sánchez, S. F., Zibetti, S., Ascaribar, Y., Bland-Hawthorn, J., Ziegler, B., González-Delgado, R. M., Walcher, C. J., García-Benito, R., Mast, D., Mendoza-Pérez, M. A., Falcón-Barroso, J., Galbany, L., Husemann, B., Kehring, C., Marino, R. A., Sánchez-Blázquez, P., López-Cobá, C., López-Sánchez, A. R., and Vilchez, J. M.""0",
+
+"2016ilgp.confE..55S""Sánchez-Menguiano, L., Sánchez, S. F., and Pérez, I.""0",
+
+"2016ilgp.confE..57B""Bárcenas, J. and Sanchez, S. F.""0",
+
+"2016A&A...591A..48G""Galbany, L., Stanishev, V., Mourão, A. M., Rodrigues, M., Flores, H., Walcher, C. J., Sánchez, S. F., García-Benito, R., Mast, D., Badenes, C., González Delgado, R. M., Kehrig, C., Lyubenova, M., Marino, R. A., Mollá, M., Meidt, S., Pérez, E., van de Ven, G., and Vílchez, J. M.""84",
+
+"2016MNRAS.458..184L""López Fernández, R., Cid Fernandes, R., González Delgado, R. M., Vale Asari, N., Pérez, E., García-Benito, R., de Amorim, A. L., Lacerda, E. A. D., Cortijo-Ferrero, C., and Sánchez, S. F.""44",
+
+"2016yCat..35930114B""Bekeraite, S., Walcher, C. J., Falcon-Barroso, J., Garcia, Lorenzo B., Lyubenova, M., Sanchez, S. F., Spekkens, K., van de Ven, G., Wisotzki, L., Ziegler, B., Aguerri, J. A. L., Barrera-Ballesteros, J., Bland-Hawthorn, J., Catalan-Torrecilla, C., Garcia-Benito, R., and CALIFA Collaboration""0",
+
+"2016yCat..35870070S""Sanchez-Menguiano, L., Sanchez, S. F., Perez, I., Garcia-Benito, R., Husemann, B., Mast, D., Mendoza, A., Ruiz-Lara, T., Ascasibar, Y., Bland-Hawthorn, J., Cavichia, O., Diaz, A. I., Florido, E., Galbany, L., Gonzalez Delgado, R. M., Kehrig, C., Marino, R. A., Marquez, I., Masegosa, J., Mendez-Abreu, J., Molla, M., Del Olmo, A., Perez, E., Sanchez-Blazquez, P., Stanishev, V., Walcher, C. J., Lopez-Sanchez, A. R., and CALIFA Collaboration""0",
+
+"2016A&A...590A..44G""González Delgado, R. M., Cid Fernandes, R., Pérez, E., García-Benito, R., López Fernández, R., Lacerda, E. A. D., Cortijo-Ferrero, C., de Amorim, A. L., Vale Asari, N., Sánchez, S. F., Walcher, C. J., Wisotzki, L., Mast, D., Alves, J., Ascasibar, Y., Bland-Hawthorn, J., Galbany, L., Kennicutt, R. C., Márquez, I., Masegosa, J., Mollá, M., Sánchez-Blázquez, P., and Vílchez, J. M.""180",
+
+"2016A&A...588A..68G""Gomes, J. M., Papaderos, P., Kehrig, C., Vílchez, J. M., Lehnert, M. D., Sánchez, S. F., Ziegler, B., Breda, I., Dos Reis, S. N., Iglesias-Páramo, J., Bland-Hawthorn, J., Galbany, L., Bomans, D. J., Rosales-Ortega, F. F., Cid Fernandes, R., Walcher, C. J., Falcón-Barroso, J., García-Benito, R., Márquez, I., Del Olmo, A., Masegosa, J., Mollá, M., Marino, R. A., González Delgado, R. M., López-Sánchez, Á. R., and CALIFA Collaboration""101",
+
+"2016RMxAA..52...21S""Sánchez, S. F., Pérez, E., Sánchez-Blázquez, P., González, J. J., Rosáles-Ortega, F. F., Cano-Díaz, M., López-Cobá, C., Marino, R. A., Gil de Paz, A., Mollá, M., López-Sánchez, A. R., Ascasibar, Y., and Barrera-Ballesteros, J.""284",
+
+"2016RMxAA..52..171S""Sánchez, S. F., Pérez, E., Sánchez-Blázquez, P., García-Benito, R., Ibarra-Mede, H. J., González, J. J., Rosales-Ortega, F. F., Sánchez-Menguiano, L., Ascasibar, Y., Bitsakis, T., Law, D., Cano-Díaz, M., López-Cobá, C., Marino, R. A., Gil de Paz, A., López-Sánchez, A. R., Barrera-Ballesteros, J., Galbany, L., Mast, D., Abril-Melgarejo, V., and Roman-Lopes, A.""311",
+
+"2016ApJ...821L..26C""Cano-Díaz, M., Sánchez, S. F., Zibetti, S., Ascasibar, Y., Bland-Hawthorn, J., Ziegler, B., González Delgado, R. M., Walcher, C. J., García-Benito, R., Mast, D., Mendoza-Pérez, M. A., Falcón-Barroso, J., Galbany, L., Husemann, B., Kehrig, C., Marino, R. A., Sánchez-Blázquez, P., López-Cobá, C., López-Sánchez, Á. R., and Vilchez, J. M.""212",
+
+"2016ascl.soft03017S""Sanchez, S. F.""1",
+
+"2016yCat..35850047M""Marino, R. A., Gil de Paz, A., Sanchez, S. F., Sanchez-Blazquez, P., Cardiel, N., Castillo-Morales, A., Pascual, S., Vilchez, J., Kehrig, C., Molla, M., Mendez-Abreu, J., Catalan-Torrecilla, C., Florido, E., Perez, I., Ruiz-Lara, T., Ellis, S., Lopez-Sanchez, A. R., Gonzalez Delgado, R. M., de Lorenzo-Caceres, A., Garcia-Benito, R., Galbany, L., Zibetti, S., Cortijo, C., Kalinova, V., Mast, D., Iglesias-Paramo, J., Papaderos, P., Walcher, C. J., and Bland-Hawthorn, J.""0",
+
+"2016A&A...587A..70S""Sánchez-Menguiano, L., Sánchez, S. F., Pérez, I., García-Benito, R., Husemann, B., Mast, D., Mendoza, A., Ruiz-Lara, T., Ascasibar, Y., Bland-Hawthorn, J., Cavichia, O., Díaz, A. I., Florido, E., Galbany, L., Gónzalez Delgado, R. M., Kehrig, C., Marino, R. A., Márquez, I., Masegosa, J., Méndez-Abreu, J., Mollá, M., Del Olmo, A., Pérez, E., Sánchez-Blázquez, P., Stanishev, V., Walcher, C. J., López-Sánchez, Á. R., and CALIFA Collaboration""180",
+
+"2016MNRAS.456L..35R""Ruiz-Lara, T., Pérez, I., Florido, E., Sánchez-Blázquez, P., Méndez-Abreu, J., Lyubenova, M., Falcón-Barroso, J., Sánchez-Menguiano, L., Sánchez, S. F., Galbany, L., García-Benito, R., González Delgado, R. M., Husemann, B., Kehrig, C., López-Sánchez, Ángel R., Marino, R. A., Mast, D., Papaderos, P., van de Ven, G., Walcher, C. J., Zibetti, S., and CALIFA Team""39",
+
+"2016MNRAS.455.4087G""Galbany, L., Anderson, J. P., Rosales-Ortega, F. F., Kuncarayakti, H., Krühler, T., Sánchez, S. F., Falcón-Barroso, J., Pérez, E., Maureira, J. C., Hamuy, M., González-Gaitán, S., Förster, F., and Moral, V.""119",
+
+"2016A&A...586A..22G""Gomes, J. M., Papaderos, P., Vílchez, J. M., Kehrig, C., Iglesias-Páramo, J., Breda, I., Lehnert, M. D., Sánchez, S. F., Ziegler, B., Dos Reis, S. N., Bland-Hawthorn, J., Galbany, L., Bomans, D. J., Rosales-Ortega, F. F., Walcher, C. J., García-Benito, R., Márquez, I., Del Olmo, A., Mollá, M., Marino, R. A., Catalán-Torrecilla, C., González Delgado, R. M., López-Sánchez, Á. R., and CALIFA Collaboration""23",
+
+"2016AAS...22731211T""Tremonti, Christina A., Pace, Zachary, Andrews, Brett, Law, David R., Li, Cheng, Martinsson, Thomas, Masters, Karen, Stark, David, Sanchez, Sebastian, Storchi-Bergmann, Thaisa, and MaNGA Team""0",
+
+"2016yCat..35840087C""Catalan-Torrecilla, C., Gil de, Paz A., Castillo-Morales, A., Iglesias-Paramo, J., Sanchez, S. F., Kennicutt, R. C., Perez-Gonzalez, P. G., Marino, R. A., Walcher, C. J., Husemann, B., Garcia-Benito, R., Mast, D., Gonzalez Delgado, R. M., Munoz-Mateos, J. C., Bland-Hawthorn, J., Bomans, D. J., Del Olmo, A., Galbany, L., Gomes, J. M., Kehrig, C., Lopez-Sanchez, A. R., Mendoza, M. A., Monreal-Ibero, A., Perez-Torres, M., Sanchez-Blazquez, P., Vilchez, J. M., and CALIFA Collaboration""0",
+
+"2016IAUFM..29B.265S""Sánchez, S. F. and Aff001""0",
+
+"2016yCat..35820021B""Barrera-Ballesteros, J. K., Garcia-Lorenzo, B., Falcon-Barroso, J., van de Ven, G., Lyubenova, M., Wild, V., Mendez-Abreu, J., Sanchez, S. F., Marquez, I., Masegosa, J., Monreal-Ibero, A., Ziegler, B., Del Olmo, A., Verdes-Montenegro, L., Garcia-Benito, R., Husemann, B., Mast, D., Kehrig, C., Iglesias-Paramo, J., Marino, R. A., Aguerri, J. A. L., Walcher, C. J., Vilchez, J. M., Bomans, D. J., Cortijo-Ferrero, C., Gonzalez Delgado, R. M., Bland-Hawthorn, J., McIntosh, D. H., Bekeraite, S., and CALIFA Collaboration""0",
+
+"2016A&A...585A..92G""Gomes, J. M., Papaderos, P., Vílchez, J. M., Kehrig, C., Iglesias-Páramo, J., Breda, I., Lehnert, M. D., Sánchez, S. F., Ziegler, B., Dos Reis, S. N., Bland-Hawthorn, J., Galbany, L., Bomans, D. J., Rosales-Ortega, F. F., Walcher, C. J., García-Benito, R., Márquez, I., Del Olmo, A., Mollá, M., Marino, R. A., Catalán-Torrecilla, C., González Delgado, R. M., López-Sánchez, Á. R., and CALIFA Collaboration""50",
+
+"2016A&A...585A..47M""Marino, R. A., Gil de Paz, A., Sánchez, S. F., Sánchez-Blázquez, P., Cardiel, N., Castillo-Morales, A., Pascual, S., Vílchez, J., Kehrig, C., Mollá, M., Mendez-Abreu, J., Catalán-Torrecilla, C., Florido, E., Perez, I., Ruiz-Lara, T., Ellis, S., López-Sánchez, A. R., González Delgado, R. M., de Lorenzo-Cáceres, A., García-Benito, R., Galbany, L., Zibetti, S., Cortijo, C., Kalinova, V., Mast, D., Iglesias-Páramo, J., Papaderos, P., Walcher, C. J., and Bland-Hawthorn, J.""47",
+
+"2016AJ....151....8Y""Yan, Renbin, Tremonti, Christy, Bershady, Matthew A., Law, David R., Schlegel, David J., Bundy, Kevin, Drory, Niv, MacDonald, Nicholas, Bizyaev, Dmitry, Blanc, Guillermo A., Blanton, Michael R., Cherinka, Brian, Eigenbrot, Arthur, Gunn, James E., Harding, Paul, Hogg, David W., Sánchez-Gallego, José R., Sánchez, Sebastian F., Wake, David A., Weijmans, Anne-Marie, Xiao, Ting, and Zhang, Kai""283",
+
+"2015A&A...584A..87C""Catalán-Torrecilla, C., Gil de Paz, A., Castillo-Morales, A., Iglesias-Páramo, J., Sánchez, S. F., Kennicutt, R. C., Pérez-González, P. G., Marino, R. A., Walcher, C. J., Husemann, B., García-Benito, R., Mast, D., González Delgado, R. M., Muñoz-Mateos, J. C., Bland-Hawthorn, J., Bomans, D. J., Del Olmo, A., Galbany, L., Gomes, J. M., Kehrig, C., López-Sánchez, Á. R., Mendoza, M. A., Monreal-Ibero, A., Pérez-Torres, M., Sánchez-Blázquez, P., Vilchez, J. M., and CALIFA Collaboration""124",
+
+"2015MNRAS.453.2349R""Roche, Nathan, Humphrey, Andrew, Gomes, Jean Michel, Papaderos, Polychronis, Lagos, Patricio, and Sánchez, Sebastián F.""15",
+
+"2015yCat..35810103G""Gonzalez Delgado, R. M., Garcia-Benito, R., Perez, E., Cid Fernandes, R., de Amorim, A. L., Cortijo-Ferrero, C., Lacerda, E. A. D., Lopez Fernandez, R., Vale-Asari, N., Sanchez, S. F., Molla, M., Ruiz-Lara, T., Sanchez-Blazquez, P., Walcher, C. J., Alves, J., Aguerri, J. A. L., Bekeraite, S., Bland-Hawthorn, J., Galbany, L., Gallazzi, A., Husemann, B., Iglesias-Paramo, J., Kalinova, V., Lopez-Sanchez, A. R., Marino, R. A., Marquez, I., Masegosa, J., Mast, D., Mendez-Abreu, J., Mendoza, A., Del Olmo, A., Perez, I., Quirrenbach, A., Zibetti, S., and CALIFA Collaboration""0",
+
+"2015Galax...3..164S""Sánchez, Sebastian, Sánchez-Menguiano, Laura, Marino, Raffaella, Rosales-Ortega, F., Pérez, Isabel, Gil de Paz, Armando, Pérez, Enrique, Walcher, C., López-Cobá, Carlos, and CALIFA Collaboration""9",
+
+"2015A&A...582A..21B""Barrera-Ballesteros, J. K., García-Lorenzo, B., Falcón-Barroso, J., van de Ven, G., Lyubenova, M., Wild, V., Méndez-Abreu, J., Sánchez, S. F., Marquez, I., Masegosa, J., Monreal-Ibero, A., Ziegler, B., del Olmo, A., Verdes-Montenegro, L., García-Benito, R., Husemann, B., Mast, D., Kehrig, C., Iglesias-Paramo, J., Marino, R. A., Aguerri, J. A. L., Walcher, C. J., Vílchez, J. M., Bomans, D. J., Cortijo-Ferrero, C., González Delgado, R. M., Bland-Hawthorn, J., McIntosh, D. H., and Bekeraitė, S.""117",
+
+"2015A&A...581A.103G""González Delgado, R. M., García-Benito, R., Pérez, E., Cid Fernandes, R., de Amorim, A. L., Cortijo-Ferrero, C., Lacerda, E. A. D., López Fernández, R., Vale-Asari, N., Sánchez, S. F., Mollá, M., Ruiz-Lara, T., Sánchez-Blázquez, P., Walcher, C. J., Alves, J., Aguerri, J. A. L., Bekeraité, S., Bland-Hawthorn, J., Galbany, L., Gallazzi, A., Husemann, B., Iglesias-Páramo, J., Kalinova, V., López-Sánchez, A. R., Marino, R. A., Márquez, I., Masegosa, J., Mast, D., Méndez-Abreu, J., Mendoza, A., del Olmo, A., Pérez, I., Quirrenbach, A., and Zibetti, S.""302",
+
+"2015IAUGA..2252270C""Catalán-Torrecilla, Cristina, Gil de Paz, Armando, Castillo-Morales, Africa, Iglesias Páramo, Jorge, and Sanchez, Sebastian""0",
+
+"2015IAUGA..2245583B""Barrera-Ballesteros, Jorge K., Sanchez, Sebastian, Garcia-Lorenzo, Begoña, and Falcon-Barroso, Jesus""0",
+
+"2015IAUGA..2268135S""Sanchez, Sebastian""0",
+
+"2015MNRAS.451.4397H""Holmes, L., Spekkens, K., Sánchez, S. F., Walcher, C. J., García-Benito, R., Mast, D., Cortijo-Ferrero, C., Kalinova, V., Marino, R. A., Mendez-Abreu, J., and Barrera-Ballesteros, J. K.""39",
+
+"2015A&A...579A..45B""Barrera-Ballesteros, J. K., Sánchez, S. F., García-Lorenzo, B., Falcón-Barroso, J., Mast, D., García-Benito, R., Husemann, B., van de Ven, G., Iglesias-Páramo, J., Rosales-Ortega, F. F., Pérez-Torres, M. A., Márquez, I., Kehrig, C., Marino, R. A., Vilchez, J. M., Galbany, L., López-Sánchez, Á. R., Walcher, C. J., and CALIFA Collaboration""79",
+
+"2015AJ....150...19L""Law, David R., Yan, Renbin, Bershady, Matthew A., Bundy, Kevin, Cherinka, Brian, Drory, Niv, MacDonald, Nicholas, Sánchez-Gallego, José R., Wake, David A., Weijmans, Anne-Marie, Blanton, Michael R., Klaene, Mark A., Moran, Sean M., Sanchez, Sebastian F., and Zhang, Kai""356",
+
+"2015MNRAS.450.2670S""Sánchez-Menguiano, L., Pérez, I., Zurita, A., Martínez-Valpuesta, I., Aguerri, J. A. L., Sánchez, S. F., Comerón, S., and Díaz-García, S.""12",
+
+"2015MNRAS.451..433H""Haines, Tim, McIntosh, D. H., Sánchez, S. F., Tremonti, C., and Rudnick, G.""23",
+
+"2015yCat..35760135G""Garcia-Benito, R., Zibetti, S., Sanchez, S. F., Husemann, B., de Amorim, A. L., Castillo-Morales, A., Cid Fernandes, R., Ellis, S. C., Falcon-Barroso, J., Galbany, L., Gil de Paz, A., Gonzalez Delgado, R. M., Lacerda, E. A. D., Lopez-Fernandez, R., de Lorenzo-Caceres, A., Lyubenova, M., Marino, R. A., Mast, D., Mendoza, M. A., Perez, E., Vale Asari, N., Aguerri, J. A. L., Ascasibar, Y., Bekeraite, S., Bland-Hawthorn, J., Barrera-Ballesteros, J. K., Bomans, D. J., Cano-Diaz, M., Catalan-Torrecilla, C., Cortijo, C., Delgado-Inglada, G., Demleitner, M., Dettmar, R.-J., Diaz, A. I., Florido, E., Gallazzi, A., Garcia-Lorenzo, B., Gomes, J. M., Holmes, L., Iglesias-Paramo, J., Jahnke, K., Kalinova, V., Kehrig, C., Kennicutt, R. C. Jr, Lopez-Sanchez, A. R., Marquez, I., Masegosa, J., Meidt, S. E., Mendez-Abreu, J., Molla, M., Monreal-Ibero, A., Morisset, C., Del Olmo, A., Papaderos, P., Perez, I., Quirrenbach, A., Rosales-Ortega, F. F., Roth, M. M., Ruiz-Lara, T., Sanchez-Blazquez, P., Sanchez-Menguiano, L., Singh, R., Spekkens, K., Stanishev, V., Torres-Papaqui, J. P., van de Ven, G., Vilchez, J. M., Walcher, C. J., Wild, V., Wisotzki, L., Ziegler, B., Alves, J., Barrado, D., Quintana, J. M., and Aceituno, J.""0",
+
+"2015ApJ...806L..31M""Martín-Navarro, Ignacio, Vazdekis, Alexandre, La Barbera, Francesco, Falcón-Barroso, Jesús, Lyubenova, Mariya, van de Ven, Glenn, Ferreras, Ignacio, Sánchez, S. F., Trager, S. C., García-Benito, R., Mast, D., Mendoza, M. A., Sánchez-Blázquez, P., González Delgado, R., Walcher, C. J., and CALIFA Team""132",
+
+"2015hsa8.conf..363C""Catalán-Torrecilla, C., Gil de Paz, A., Castillo-Morales, A., Iglesias-Páramo, J., Sánchez, S. F., Madore, B. F., Sturch, L., and CALIFA Collaboration""0",
+
+"2015hsa8.conf..374M""Marino, R. A., Boselli, A., Gil de Paz, A., Sánchez, S. F., Castillo-Morales, A., and Muñoz-Mateos, J. C.""0",
+
+"2015hsa8.conf..257M""Marino, R. A., Rosales-Ortega, F. F., Sánchez, S. F., Gil de Paz, A., Vílchez, J., and CALIFA Team""0",
+
+"2015ApJ...804..125L""Li, Cheng, Wang, Enci, Lin, Lin, Bershady, Matthew A., Bundy, Kevin, Tremonti, Christy A., Xiao, Ting, Yan, Renbin, Bizyaev, Dmitry, Blanton, Michael, Cales, Sabrina, Cherinka, Brian, Cheung, Edmond, Drory, Niv, Emsellem, Eric, Fu, Hai, Gelfand, Joseph, Law, David R., Lin, Lihwai, MacDonald, Nick, Maraston, Claudia, Masters, Karen L., Merrifield, Michael R., Pan, Kaike, Sánchez, S. F., Schneider, Donald P., Thomas, Daniel, Wake, David, Wang, Lixin, Weijmans, Anne-Marie, Wilkinson, David, Yoachim, Peter, Zhang, Kai, and Zheng, Tiantian""83",
+
+"2015hsa8.conf..804G""Gil de Paz, A., Gallego, J., Carrasco, E., Iglesias-Páramo, J., Sánchez Moreno, F. M., Vílchez, J. M., García Vargas, M. L., Arrillaga, X., Carrera, M. A., Castillo-Morales, A., Castillo-Domínguez, E., Cedazo, R., Eliche-Moral, M. C., Ferrusca, D., González-Guardia, E., Lefort, B., Maldonado, M., Marino, R. A., Martínez-Delgado, I., Morales Durán, I., Mujica, E., Páez, G., Pascual, S., Pérez-Calpena, A., Sánchez-Penim, A., Sánchez-Blanco, E., Tulloch, S., Velázquez, M., Zamorano, J., Aguerri, A. L., Barrado y Naváscues, D., Bertone, E., Cardiel, N., Cava, A., Cenarro, J., Chávez, M., García, M., Guichard, J., Guzmán, R., Herrero, A., Huélamo, N., Jiménez-Vicente, J., Kehrig, C., Márquez, I., Masegosa, J., Mayya, Y. D., Méndez-Abreu, J., Mollá, M., Muñoz-Tuñón, C., Peimbert, M., Pérez-González, P. G., Pérez Montero, E., Rodríguez, M., Rodríguez-Espinosa, J. M., Rodríguez-Merino, L., Rosa-González, D., Sánchez-Almeida, J., Sánchez Contreras, C., Sánchez-Blázquez, P., Sánchez, S. F., Sarajedini, A., Silich, S., Simón-Díaz, S., Tenorio-Tagle, G., Terlevich, E., Terlevich, R., Torres-Peimbert, S., Trujillo, I., Tsamis, Y., Vega, O., and Villar, V.""0",
+
+"2015MNRAS.449..867B""Belfiore, F., Maiolino, R., Bundy, K., Thomas, D., Maraston, C., Wilkinson, D., Sánchez, S. F., Bershady, M., Blanc, G. A., Bothwell, M., Cales, S. L., Coccato, L., Drory, N., Emsellem, E., Fu, H., Gelfand, J., Law, D., Masters, K., Parejko, J., Tremonti, C., Wake, D., Weijmans, A., Yan, R., Xiao, T., Zhang, K., Zheng, T., Bizyaev, D., Kinemuchi, K., Oravetz, D., and Simmons, A.""98",
+
+"2015hsa8.conf...62S""Sánchez, S. F., Vilchez, J. M., Walcher, C. J., González Delgado, R., Gil de Paz, A., Sánchez Blazquez, P., Marino, R., and CALIFA Collaboration""1",
+
+"2015hsa8.conf..220G""González Delgado, R. M., García-Benito, R., Pérez, R., Cid Fernandes, R., Amorim, A. L., Cortijo-Ferrero, C., Lacerda, E. A. D., López Fernández, R., Sánchez, S. F., Vale Asari, N., and CALIFA Collaboration""5",
+
+"2015A&A...576A.102A""Aguerri, J. A. L., Méndez-Abreu, J., Falcón-Barroso, J., Amorin, A., Barrera-Ballesteros, J., Cid Fernandes, R., García-Benito, R., García-Lorenzo, B., González Delgado, R. M., Husemann, B., Kalinova, V., Lyubenova, M., Marino, R. A., Márquez, I., Mast, D., Pérez, E., Sánchez, S. F., van de Ven, G., Walcher, C. J., Backsmann, N., Cortijo-Ferrero, C., Bland-Hawthorn, J., del Olmo, A., Iglesias-Páramo, J., Pérez, I., Sánchez-Blázquez, P., Wisotzki, L., and Ziegler, B.""121",
+
+"2015A&A...576A.135G""García-Benito, R., Zibetti, S., Sánchez, S. F., Husemann, B., de Amorim, A. L., Castillo-Morales, A., Cid Fernandes, R., Ellis, S. C., Falcón-Barroso, J., Galbany, L., Gil de Paz, A., González Delgado, R. M., Lacerda, E. A. D., López-Fernandez, R., de Lorenzo-Cáceres, A., Lyubenova, M., Marino, R. A., Mast, D., Mendoza, M. A., Pérez, E., Vale Asari, N., Aguerri, J. A. L., Ascasibar, Y., Bekeraitė, S., Bland-Hawthorn, J., Barrera-Ballesteros, J. K., Bomans, D. J., Cano-Díaz, M., Catalán-Torrecilla, C., Cortijo, C., Delgado-Inglada, G., Demleitner, M., Dettmar, R.-J., Díaz, A. I., Florido, E., Gallazzi, A., García-Lorenzo, B., Gomes, J. M., Holmes, L., Iglesias-Páramo, J., Jahnke, K., Kalinova, V., Kehrig, C., Kennicutt, R. C., López-Sánchez, Á. R., Márquez, I., Masegosa, J., Meidt, S. E., Mendez-Abreu, J., Mollá, M., Monreal-Ibero, A., Morisset, C., del Olmo, A., Papaderos, P., Pérez, I., Quirrenbach, A., Rosales-Ortega, F. F., Roth, M. M., Ruiz-Lara, T., Sánchez-Blázquez, P., Sánchez-Menguiano, L., Singh, R., Spekkens, K., Stanishev, V., Torres-Papaqui, J. P., van de Ven, G., Vilchez, J. M., Walcher, C. J., Wild, V., Wisotzki, L., Ziegler, B., Alves, J., Barrado, D., Quintana, J. M., and Aceituno, J.""208",
+
+"2015HiA....16..338G""González Delgado, R. M., Pérez, E., Cid Fernandes, R., García-Benito, R., de Amorim, A., Sánchez, S. F., Husemann, B., López Fernández, R., Cortijo, C., Lacerda, E., and Mast, D.""0",
+
+"2015IAUS..309...93C""Cid Fernandes, R., Lacerda, E. A. D., González Delgado, R. M., Vale Asari, N., García-Benito, R., Pérez, E., de Amorim, A. L., Cortijo-Ferrero, C., López Fernández, R., and Sánchez, S. F.""5",
+
+"2015IAUS..309..305C""Catalán-Torrecilla, Cristina, Gil de Paz, Armando, Castillo-Morales, África, Iglesias-Páramo, Jorge, and Sánchez, Sebastián F.""1",
+
+"2015yCat..35730059G""Garcia-Lorenzo, B., Marquez, I., Barrera-Ballesteros, J. K., Masegosa, J., Husemann, B., Falcon-Barroso, J., Lyubenova, M., Sanchez, S. F., Walcher, J., Mast, D., Garcia-Benito, R., Mendez-Abreu, J., Van De Ven, G., Spekkens, K., Holmes, L., Monreal-Ibero, A., Del Olmo, A., Ziegler, B., Bland-Hawthorn, J., Sanchez-Blazquez, P., Iglesias-Paramo, J., Aguerri, J. A. L., Papaderos, P., Gomes, J. M., Marino, R. A., Gonzalez Delgado, R. M., Cortijo-Ferrero, C., Lopez-Sanchez, A. R., Bekeraite, S., Wisotzki, L., Bomans, D., and CALIFA Team""0",
+
+"2015IAUS..309...85S""Sánchez, Sebastián F.""7",
+
+"2015IAUS..309...99G""González Delgado, R. M., Fernandes, R. Cid, García-Benito, R., Pérez, E., de Amorim, A. L., Cortijo-Ferrero, C., Lacerda, E. A. D., López Fernández, R., Sánchez, S. F., and Vale Asari, N.""1",
+
+"2015A&A...573A..59G""García-Lorenzo, B., Márquez, I., Barrera-Ballesteros, J. K., Masegosa, J., Husemann, B., Falcón-Barroso, J., Lyubenova, M., Sánchez, S. F., Walcher, J., Mast, D., García-Benito, R., Méndez-Abreu, J., van de Ven, G., Spekkens, K., Holmes, L., Monreal-Ibero, A., del Olmo, A., Ziegler, B., Bland-Hawthorn, J., Sánchez-Blázquez, P., Iglesias-Páramo, J., Aguerri, J. A. L., Papaderos, P., Gomes, J. M., Marino, R. A., González Delgado, R. M., Cortijo-Ferrero, C., López-Sánchez, A. R., Bekeraitė, S., Wisotzki, L., and Bomans, D.""60",
+
+"2015yCat..74402265M""Miralles-Caballero, D., Diaz, A. I., Rosales-Ortega, F. F., Perez-Montero, E., and Sanchez, S. F.""0",
+
+"2015AAS...22511104M""McIntosh, Daniel H., Haines, Tim, Sanchez, Sebastian, Tremonti, Christina A., and Rudnick, Gregory""0",
+
+"2015ApJ...798....7B""Bundy, Kevin, Bershady, Matthew A., Law, David R., Yan, Renbin, Drory, Niv, MacDonald, Nicholas, Wake, David A., Cherinka, Brian, Sánchez-Gallego, José R., Weijmans, Anne-Marie, Thomas, Daniel, Tremonti, Christy, Masters, Karen, Coccato, Lodovico, Diamond-Stanic, Aleksandar M., Aragón-Salamanca, Alfonso, Avila-Reese, Vladimir, Badenes, Carles, Falcón-Barroso, Jésus, Belfiore, Francesco, Bizyaev, Dmitry, Blanc, Guillermo A., Bland-Hawthorn, Joss, Blanton, Michael R., Brownstein, Joel R., Byler, Nell, Cappellari, Michele, Conroy, Charlie, Dutton, Aaron A., Emsellem, Eric, Etherington, James, Frinchaboy, Peter M., Fu, Hai, Gunn, James E., Harding, Paul, Johnston, Evelyn J., Kauffmann, Guinevere, Kinemuchi, Karen, Klaene, Mark A., Knapen, Johan H., Leauthaud, Alexie, Li, Cheng, Lin, Lihwai, Maiolino, Roberto, Malanushenko, Viktor, Malanushenko, Elena, Mao, Shude, Maraston, Claudia, McDermid, Richard M., Merrifield, Michael R., Nichol, Robert C., Oravetz, Daniel, Pan, Kaike, Parejko, John K., Sanchez, Sebastian F., Schlegel, David, Simmons, Audrey, Steele, Oliver, Steinmetz, Matthias, Thanjavur, Karun, Thompson, Benjamin A., Tinker, Jeremy L., van den Bosch, Remco C. E., Westfall, Kyle B., Wilkinson, David, Wright, Shelley, Xiao, Ting, and Zhang, Kai""1706",
+
+"2015A&A...574A..47S""Sánchez, S. F., Pérez, E., Rosales-Ortega, F. F., Miralles-Caballero, D., López-Sánchez, A. R., Iglesias-Páramo, J., Marino, R. A., Sánchez-Menguiano, L., García-Benito, R., Mast, D., Mendoza, M. A., Papaderos, P., Ellis, S., Galbany, L., Kehrig, C., Monreal-Ibero, A., González Delgado, R., Mollá, M., Ziegler, B., de Lorenzo-Cáceres, A., Mendez-Abreu, J., Bland-Hawthorn, J., Bekeraitė, S., Roth, M. M., Pasquali, A., Díaz, A., Bomans, D., van de Ven, G., and Wisotzki, L.""100",
+
+"2015A&A...573A.105S""Sánchez, S. F., Galbany, L., Pérez, E., Sánchez-Blázquez, P., Falcón-Barroso, J., Rosales-Ortega, F. F., Sánchez-Menguiano, L., Marino, R., Kuncarayakti, H., Anderson, J. P., Kruehler, T., Cano-Díaz, M., Barrera-Ballesteros, J. K., and González-González, J. J.""47",
+
+"2015arXiv150106870S""Sanchez, S. F.""0",
+
+"2014MNRAS.445.3803M""Miralles-Caballero, D., Rosales-Ortega, F. F., Díaz, A. I., Otí-Floranes, H., Pérez-Montero, E., and Sánchez, S. F.""8",
+
+"2014A&A...572A..38G""Galbany, L., Stanishev, V., Mourão, A. M., Rodrigues, M., Flores, H., García-Benito, R., Mast, D., Mendoza, M. A., Sánchez, S. F., Badenes, C., Barrera-Ballesteros, J., Bland-Hawthorn, J., Falcón-Barroso, J., García-Lorenzo, B., Gomes, J. M., González Delgado, R. M., Kehrig, C., Lyubenova, M., López-Sánchez, A. R., de Lorenzo-Cáceres, A., Marino, R. A., Meidt, S., Mollá, M., Papaderos, P., Pérez-Torres, M. A., Rosales-Ortega, F. F., and van de Ven, G.""114",
+
+"2014RMxAC..44R.175D""de Amorim, A. L., Cid Fernandes, R., Pérez, E., García Benito, R., González Delgado, R. M., Sánchez, S. F., Husemann, B., Falcón Barroso, J., Sánchez Blázquez, P., Walcher, C. J., and Mast, D.""0",
+
+"2014RMxAC..44...79G""González Delgado, R. M., Cid Fernandes, R., García Benito, R., Pérez, E., de Amorim, A. L., Cortijo Ferrero, C., López Fernández, R., Lacerda, E., Vale Asari, N., and Sánchez, S. F.""0",
+
+"2014RMxAC..44...89R""Rosales-Ortega, F. F. and Sánchez, S. F.""0",
+
+"2014A&A...570A...6S""Sánchez-Blázquez, P., Rosales-Ortega, F. F., Méndez-Abreu, J., Pérez, I., Sánchez, S. F., Zibetti, S., Aguerri, J. A. L., Bland-Hawthorn, J., Catalán-Torrecilla, C., Cid Fernandes, R., de Amorim, A., de Lorenzo-Caceres, A., Falcón-Barroso, J., Galazzi, A., García Benito, R., Gil de Paz, A., González Delgado, R., Husemann, B., Iglesias-Páramo, Jorge, Jungwiert, B., Marino, R. A., Márquez, I., Mast, D., Mendoza, M. A., Mollá, M., Papaderos, P., Ruiz-Lara, T., van de Ven, G., Walcher, C. J., and Wisotzki, L.""199",
+
+"2014MNRAS.443..755H""Husemann, B., Jahnke, K., Sánchez, S. F., Wisotzki, L., Nugroho, D., Kupko, D., and Schramm, M.""95",
+
+"2014A&A...569A...1W""Walcher, C. J., Wisotzki, L., Bekeraité, S., Husemann, B., Iglesias-Páramo, J., Backsmann, N., Barrera Ballesteros, J., Catalán-Torrecilla, C., Cortijo, C., del Olmo, A., Garcia Lorenzo, B., Falcón-Barroso, J., Jilkova, L., Kalinova, V., Mast, D., Marino, R. A., Méndez-Abreu, J., Pasquali, A., Sánchez, S. F., Trager, S., Zibetti, S., Aguerri, J. A. L., Alves, J., Bland-Hawthorn, J., Boselli, A., Castillo Morales, A., Cid Fernandes, R., Flores, H., Galbany, L., Gallazzi, A., García-Benito, R., Gil de Paz, A., González-Delgado, R. M., Jahnke, K., Jungwiert, B., Kehrig, C., Lyubenova, M., Márquez Perez, I., Masegosa, J., Monreal Ibero, A., Pérez, E., Quirrenbach, A., Rosales-Ortega, F. F., Roth, M. M., Sanchez-Blazquez, P., Spekkens, K., Tundo, E., van de Ven, G., Verheijen, M. A. W., Vilchez, J. V., and Ziegler, B.""239",
+
+"2014mysc.conf...73R""Rosales-Ortega, F. F., Sánchez, S. F., and Califa Team""0",
+
+"2014mysc.conf..175P""Pérez, E., González Delgado, R. M., Cid Fernandes, R., García Benito, R., de Amorim, A. L., Sánchez, S. F., López Fernández, R., and Califa Collaboration""0",
+
+"2014A&A...568A..70B""Barrera-Ballesteros, J. K., Falcón-Barroso, J., García-Lorenzo, B., van de Ven, G., Aguerri, J. A. L., Mendez-Abreu, J., Spekkens, K., Lyubenova, M., Sánchez, S. F., Husemann, B., Mast, D., García-Benito, R., Iglesias-Paramo, J., Del Olmo, A., Márquez, I., Masegosa, J., Kehrig, C., Marino, R. A., Verdes-Montenegro, L., Ziegler, B., McIntosh, D. H., Bland-Hawthorn, J., Walcher, C. J., and CALIFA Collaboration""69",
+
+"2014ApJ...791L..16G""González Delgado, R. M., Cid Fernandes, R., García-Benito, R., Pérez, E., de Amorim, A. L., Cortijo-Ferrero, C., Lacerda, E. A. D., López Fernández, R., Sánchez, S. F., Vale Asari, N., Alves, J., Bland-Hawthorn, J., Galbany, L., Gallazzi, A., Husemann, B., Bekeraite, S., Jungwiert, B., López-Sánchez, A. R., de Lorenzo-Cáceres, A., Marino, R. A., Mast, D., Mollá, M., del Olmo, A., Sánchez-Blázquez, P., van de Ven, G., Vílchez, J. M., Walcher, C. J., Wisotzki, L., Ziegler, B., and CALIFA Collaboration""120",
+
+"2014A&A...568L...1L""Lillo-Box, J., Barrado, D., Henning, Th., Mancini, L., Ciceri, S., Figueira, P., Santos, N. C., Aceituno, J., and Sánchez, S. F.""39",
+
+"2014MNRAS.442..495R""Rodríguez-Baras, M., Rosales-Ortega, F. F., Díaz, A. I., Sánchez, S. F., and Pasquali, A.""20",
+
+"2014A&A...567A.132W""Wild, Vivienne, Rosales-Ortega, Fabian, Falcón-Barroso, Jesus, García-Benito, Rubén, Gallazzi, Anna, González Delgado, Rosa M., Bekeraité, Simona, Pasquali, Anna, Johansson, Peter H., García Lorenzo, Begoña, van de Ven, Glenn, Pawlik, Milena, Peréz, Enrique, Monreal-Ibero, Ana, Lyubenova, Mariya, Cid Fernandes, Roberto, Méndez-Abreu, Jairo, Barrera-Ballesteros, Jorge, Kehrig, Carolina, Iglesias-Páramo, Jorge, Bomans, Dominik J., Márquez, Isabel, Johnson, Benjamin D., Kennicutt, Robert C., Husemann, Bernd, Mast, Damian, Sánchez, Sebastian F., Walcher, C. Jakob, Alves, João, Aguerri, Alfonso L., Alonso Herrero, Almudena, Bland-Hawthorn, Joss, Catalán-Torrecilla, Cristina, Florido, Estrella, Gomes, Jean Michel, Jahnke, Knud, López-Sánchez, Á. R., de Lorenzo-Cáceres, Adriana, Marino, Raffaella A., Mármol-Queraltó, Esther, Olden, Patrick, del Olmo, Ascensión, Papaderos, Polychronis, Quirrenbach, Andreas, Vílchez, Jose M., and Ziegler, Bodo""51",
+
+"2014SPIE.9147E..0OG""Gil de Paz, A., Gallego, J., Carrasco, E., Iglesias-Páramo, J., Cedazo, R., Vílchez, J. M., García-Vargas, M. L., Arrillaga, X., Carrera, M. A., Castillo-Morales, A., Castillo-Domínguez, E., Eliche-Moral, M. C., Ferrusca, D., González-Guardia, E., Lefort, B., Maldonado, M., Marino, R. A., Martínez-Delgado, I., Morales Durán, I., Mujica, E., Páez, G., Pascual, S., Pérez-Calpena, A., Sánchez-Penim, A., Sánchez-Blanco, E., Tulloch, S., Velázquez, M., Zamorano, J., Aguerri, A. L., Barrado y Naváscues, D., Bertone, E., Cardiel, N., Cava, A., Cenarro, J., Chávez, M., García, M., Guichard, J., Gúzman, R., Herrero, A., Huélamo, N., Hughes, D., Jiménez-Vicente, J., Kehrig, C., Márquez, I., Masegosa, J., Mayya, Y. D., Méndez-Abreu, J., Mollá, M., Muñoz-Tuñón, C., Peimbert, M., Pérez-González, P. G., Pérez Montero, E., Rodríguez, M., Rodríguez-Espinosa, J. M., Rodríguez-Merino, L., Rosa-González, D., Sánchez-Almeida, J., Sánchez Contreras, C., Sánchez-Blázquez, P., Sánchez Moreno, F. M., Sánchez, S. F., Sarajedini, A., Serena, F., Silich, S., Simón-Díaz, S., Tenorio-Tagle, G., Terlevich, E., Terlevich, R., Torres-Peimbert, S., Trujillo, I., Tsamis, Y., Vega, O., and Villar, V.""9",
+
+"2014MNRAS.440.2265M""Miralles-Caballero, D., Díaz, A. I., Rosales-Ortega, F. F., Pérez-Montero, E., and Sánchez, S. F.""22",
+
+"2014A&A...563A..49S""Sánchez, S. F., Rosales-Ortega, F. F., Iglesias-Páramo, J., Mollá, M., Barrera-Ballesteros, J., Marino, R. A., Pérez, E., Sánchez-Blazquez, P., González Delgado, R., Cid Fernandes, R., de Lorenzo-Cáceres, A., Mendez-Abreu, J., Galbany, L., Falcon-Barroso, J., Miralles-Caballero, D., Husemann, B., García-Benito, R., Mast, D., Walcher, C. J., Gil de Paz, A., García-Lorenzo, B., Jungwiert, B., Vílchez, J. M., Jílková, Lucie, Lyubenova, M., Cortijo-Ferrero, C., Díaz, A. I., Wisotzki, L., Márquez, I., Bland-Hawthorn, J., Ellis, S., van de Ven, G., Jahnke, K., Papaderos, P., Gomes, J. M., Mendoza, M. A., and López-Sánchez, Á. R.""487",
+
+"2014A&A...562A..47G""González Delgado, R. M., Pérez, E., Cid Fernandes, R., García-Benito, R., de Amorim, A. L., Sánchez, S. F., Husemann, B., Cortijo-Ferrero, C., López Fernández, R., Sánchez-Blázquez, P., Bekeraite, S., Walcher, C. J., Falcón-Barroso, J., Gallazzi, A., van de Ven, G., Alves, J., Bland-Hawthorn, J., Kennicutt, R. C., Kupko, D., Lyubenova, M., Mast, D., Mollá, M., Marino, R. A., Quirrenbach, A., Vílchez, J. M., and Wisotzki, L.""196",
+
+"2014MNRAS.437.1534S""Sánchez-Blázquez, P., Rosales-Ortega, F., Diaz, A., and Sánchez, S. F.""34",
+
+"2014A&A...561A.129M""Mast, D., Rosales-Ortega, F. F., Sánchez, S. F., Vílchez, J. M., Iglesias-Paramo, J., Walcher, C. J., Husemann, B., Márquez, I., Marino, R. A., Kennicutt, R. C., Monreal-Ibero, A., Galbany, L., de Lorenzo-Cáceres, A., Mendez-Abreu, J., Kehrig, C., del Olmo, A., Relaño, M., Wisotzki, L., Mármol-Queraltó, E., Bekeraitè, S., Papaderos, P., Wild, V., Aguerri, J. A. L., Falcón-Barroso, J., Bomans, D. J., Ziegler, B., García-Lorenzo, B., Bland-Hawthorn, J., López-Sánchez, Á. R., and van de Ven, G.""83",
+
+"2014A&A...561A.130C""Cid Fernandes, R., González Delgado, R. M., García Benito, R., Pérez, E., de Amorim, A. L., Sánchez, S. F., Husemann, B., Falcón Barroso, J., López-Fernández, R., Sánchez-Blázquez, P., Vale Asari, N., Vazdekis, A., Walcher, C. J., and Mast, D.""128",
+
+"2013A&A...559A.114M""Marino, R. A., Rosales-Ortega, F. F., Sánchez, S. F., Gil de Paz, A., Vílchez, J., Miralles-Caballero, D., Kehrig, C., Pérez-Montero, E., Stanishev, V., Iglesias-Páramo, J., Díaz, A. I., Castillo-Morales, A., Kennicutt, R., López-Sánchez, A. R., Galbany, L., García-Benito, R., Mast, D., Mendez-Abreu, J., Monreal-Ibero, A., Husemann, B., Walcher, C. J., García-Lorenzo, B., Masegosa, J., Del Olmo Orozco, A., Mourão, A. M., Ziegler, B., Mollá, M., Papaderos, P., Sánchez-Blázquez, P., González Delgado, R. M., Falcón-Barroso, J., Roth, M. M., van de Ven, G., and CALIFA Team""565",
+
+"2013yCat..35590114M""Marino, R. A., Rosales-Ortega, F. F., Sanchez, S. F., Gil de Paz, A., Vilchez, J., Miralles-Caballero, D., Kehrig, C., Perez-Montero, E., Stanishev, V., Iglesias-Paramo, J., Diaz, A. I., Castillo-Morales, A., Kennicutt, R., Lopez-Sanchez, A. R., Galbany, L., Garcia-Benito, R., Mast, D., Mendez-Abreu, J., Monreal-Ibero, A., Husemann, B., Walcher, C. J., Garcia-Lorenzo, B., Masegosa, J., Del Olmo Orozco, A., Mourao, A. M., Ziegler, B., M. Molla, Papaderos, P., Sanchez-Blazquez, P., Gonzalez Delgado, R. M., Falcon-Barroso, J., Roth, M. M., van de Ven, G., and Califa Team""0",
+
+"2013A&A...558A..43S""Singh, R., van de Ven, G., Jahnke, K., Lyubenova, M., Falcón-Barroso, J., Alves, J., Cid Fernandes, R., Galbany, L., García-Benito, R., Husemann, B., Kennicutt, R. C., Marino, R. A., Márquez, I., Masegosa, J., Mast, D., Pasquali, A., Sánchez, S. F., Walcher, J., Wild, V., Wisotzki, L., and Ziegler, B.""300",
+
+"2013ASPC..477..301L""Lemoine-Busserolle, M., Sánchez, S. F., Kissler-Patig, M., Pelló, R., Bunker, A., and Kneib, J.-P.""0",
+
+"2013A&A...557A..86C""Cid Fernandes, R., Pérez, E., García Benito, R., González Delgado, R. M., de Amorim, A. L., Sánchez, S. F., Husemann, B., Falcón Barroso, J., Sánchez-Blázquez, P., Walcher, C. J., and Mast, D.""212",
+
+"2013AdSpR..52..989S""Sánchez, Sebastián, Prieto, Manuel, Polo, Óscar R., Parra, Pablo, da Silva, Antonio, Gutiérrez, Óscar, Castillo, Ronald, Fernández, Javier, and Rodríguez-Pacheco, Javier""4",
+
+"2013IAUS..295..300D""Delgado, Rosa González, Pérez, Enrique, Fernandes, Roberto Cid, García-Benito, Rubén, de Amorim, André, Sánchez, Sebastian F., Husemann, Bernd, Fernández, Rafael López, Cortijo, Clara, Lacerda, Eduardo, and Mast, Damian""1",
+
+"2013A&A...555L...1P""Papaderos, P., Gomes, J. M., Vílchez, J. M., Kehrig, C., Lehnert, M. D., Ziegler, B., Sánchez, S. F., Husemann, B., Monreal-Ibero, A., García-Benito, R., Bland-Hawthorn, J., Cortijo-Ferrero, C., de Lorenzo-Cáceres, A., del Olmo, A., Falcón-Barroso, J., Galbany, L., Iglesias-Páramo, J., López-Sánchez, Á. R., Marquez, I., Mollá, M., Mast, D., van de Ven, G., and Wisotzki, L.""106",
+
+"2013IAUS..295..269H""Husemann, B., Wisotzki, L., Jahnke, K., Sánchez, S. F., and Nugroho, D.""0",
+
+"2013A&A...554A.104F""Fernández-Martín, A., Vílchez, J. M., Pérez-Montero, E., Candian, A., Sánchez, S. F., Martín-Gordón, D., and Riera, A.""12",
+
+"2013A&A...554A..58S""Sánchez, S. F., Rosales-Ortega, F. F., Jungwiert, B., Iglesias-Páramo, J., Vílchez, J. M., Marino, R. A., Walcher, C. J., Husemann, B., Mast, D., Monreal-Ibero, A., Cid Fernandes, R., Pérez, E., González Delgado, R., García-Benito, R., Galbany, L., van de Ven, G., Jahnke, K., Flores, H., Bland-Hawthorn, J., López-Sánchez, A. R., Stanishev, V., Miralles-Caballero, D., Díaz, A. I., Sánchez-Blazquez, P., Mollá, M., Gallazzi, A., Papaderos, P., Gomes, J. M., Gruel, N., Pérez, I., Ruiz-Lara, T., Florido, E., de Lorenzo-Cáceres, A., Mendez-Abreu, J., Kehrig, C., Roth, M. M., Ziegler, B., Alves, J., Wisotzki, L., Kupko, D., Quirrenbach, A., Bomans, D., and CALIFA Collaboration""276",
+
+"2013A&A...553L...7I""Iglesias-Páramo, J., Vílchez, J. M., Galbany, L., Sánchez, S. F., Rosales-Ortega, F. F., Mast, D., García-Benito, R., Husemann, B., Aguerri, J. A. L., Alves, J., Bekeraité, S., Bland-Hawthorn, J., Catalán-Torrecilla, C., de Amorim, A. L., de Lorenzo-Cáceres, A., Ellis, S., Falcón-Barroso, J., Flores, H., Florido, E., Gallazzi, A., Gomes, J. M., González Delgado, R. M., Haines, T., Hernández-Fernández, J. D., Kehrig, C., López-Sánchez, A. R., Lyubenova, M., Marino, R. A., Mollá, M., Monreal-Ibero, A., Mourão, A., Papaderos, P., Rodrigues, M., Sánchez-Blázquez, P., Spekkens, K., Stanishev, V., van de Ven, G., Walcher, C. J., Wisotzki, L., Zibetti, S., and Ziegler, B.""44",
+
+"2013RMxAC..42..112M""Marino, R. A., Gil de Paz, A., Castillo-Morales, A., Muñoz-Mateos, J. C., Sánchez, S. F., Pérez-González, P. G., Zamorano, J., Gallego, J., Alonso-Herrero, A., Kannappan, S., Boissier, S., Eliche-Moral, M. C., García-Vargas, M. L., Carrasco, E., Vílchez, J. M., and Sánchez-Moreno, F. M.""0",
+
+"2013hsa7.conf..218G""García Benito, R., Pérez Jiménez, E., González Delgado, R. Cid Fernandes, Sánchez, S. F., Amorim, A. L., and Califa Collaboration""0",
+
+"2013hsa7.conf..447M""Marino, R. A., Gil de Paz, A., Castillo-Morales, A., Sánchez, S. F., Muñoz-Mateos, J. C., Rosales-Ortega, F. F., Zamorano, J., Sánchez-Moreno, F.,, Gallego, J., and CALIFA Team""0",
+
+"2013hsa7.conf..848B""Barrado, D., Aceituno, J., Galadí, D., Iglesias-Páramo, J., and Sánchez, S. F.""0",
+
+"2013hsa7.conf..262M""Marino, R. A., Gil de Paz, A., Castillo-Morales, A., Muñoz-Mateos, J. C., Sánchez, S. F., Pérez-González, P. G., Gallego, J., Zamorano, J., Alonso-Herrero, A., and Boissier, S.""0",
+
+"2013hsa7.conf..361R""Rosales-Ortega, F. F., Sanchez, S. F., and Diaz, A. I.""0",
+
+"2013A&A...552A..31A""Aceituno, J., Sánchez, S. F., Grupp, F., Lillo, J., Hernán-Obispo, M., Benitez, D., Montoya, L. M., Thiele, U., Pedraz, S., Barrado, D., Dreizler, S., and Bean, J.""60",
+
+"2013IAUS..292..373H""Husemann, B., Walcher, J., Wisotzki, L., Gerssen, J., Jahnke, K., Sánchez, S. F., and Wild, V.""0",
+
+"2013ApJ...764L...1P""Pérez, E., Cid Fernandes, R., González Delgado, R. M., García-Benito, R., Sánchez, S. F., Husemann, B., Mast, D., Rodón, J. R., Kupko, D., Backsmann, N., de Amorim, A. L., van de Ven, G., Walcher, J., Wisotzki, L., Cortijo-Ferrero, C., and CALIFA Collaboration""241",
+
+"2013A&A...549A..46B""Böhm, A., Wisotzki, L., Bell, E. F., Jahnke, K., Wolf, C., Bacon, D., Barden, M., Gray, M. E., Hoeppe, G., Jogee, S., McIntosh, D. H., Peng, C. Y., Robaina, A. R., Balogh, M., Barazza, F. D., Caldwell, J. A. R., Heymans, C., Häußler, B., van Kampen, E., Lane, K., Meisenheimer, K., Sánchez, S. F., Taylor, A. N., and Zheng, X.""50",
+
+"2013A&A...549A..43H""Husemann, B., Wisotzki, L., Sánchez, S. F., and Jahnke, K.""102",
+
+"2013AdAst2013E..25S""Sánchez, Sebastian F.""3",
+
+"2013A&A...549A..87H""Husemann, B., Jahnke, K., Sánchez, S. F., Barrado, D., Bekeraitė, S., Bomans, D. J., Castillo-Morales, A., Catalán-Torrecilla, C., Cid Fernandes, R., Falcón-Barroso, J., García-Benito, R., González Delgado, R. M., Iglesias-Páramo, J., Johnson, B. D., Kupko, D., López-Fernandez, R., Lyubenova, M., Marino, R. A., Mast, D., Miskolczi, A., Monreal-Ibero, A., Gil de Paz, A., Pérez, E., Pérez, I., Rosales-Ortega, F. F., Ruiz-Lara, T., Schilling, U., van de Ven, G., Walcher, J., Alves, J., de Amorim, A. L., Backsmann, N., Barrera-Ballesteros, J. K., Bland-Hawthorn, J., Cortijo, C., Dettmar, R.-J., Demleitner, M., Díaz, A. I., Enke, H., Florido, E., Flores, H., Galbany, L., Gallazzi, A., García-Lorenzo, B., Gomes, J. M., Gruel, N., Haines, T., Holmes, L., Jungwiert, B., Kalinova, V., Kehrig, C., Kennicutt, R. C., Klar, J., Lehnert, M. D., López-Sánchez, Á. R., de Lorenzo-Cáceres, A., Mármol-Queraltó, E., Márquez, I., Mendez-Abreu, J., Mollá, M., del Olmo, A., Meidt, S. E., Papaderos, P., Puschnig, J., Quirrenbach, A., Roth, M. M., Sánchez-Blázquez, P., Spekkens, K., Singh, R., Stanishev, V., Trager, S. C., Vilchez, J. M., Wild, V., Wisotzki, L., Zibetti, S., and Ziegler, B.""206",
+
+"2012ascl.soft10027H""Husemann, B., Kamann, S., Sandin, C., Sánchez, S. F., García-Benito, R., and Mast, D.""0",
+
+"2012A&A...546A...2S""Sánchez, S. F., Rosales-Ortega, F. F., Marino, R. A., Iglesias-Páramo, J., Vílchez, J. M., Kennicutt, R. C., Díaz, A. I., Mast, D., Monreal-Ibero, A., García-Benito, R., Bland-Hawthorn, J., Pérez, E., González Delgado, R., Husemann, B., López-Sánchez, Á. R., Cid Fernandes, R., Kehrig, C., Walcher, C. J., Gil de Paz, A., and Ellis, S.""174",
+
+"2012MNRAS.425L..46A""Alonso-Herrero, Almudena, Rosales-Ortega, F. Fabián., Sánchez, Sebastián. F., Kennicutt, Robert C., Pereira-Santaella, Miguel, and Díaz, Ángeles I.""18",
+
+"2012A&A...545A.137H""Husemann, B., Kamann, S., Sandin, C., Sánchez, S. F., García-Benito, R., and Mast, D.""43",
+
+"2012ApJ...756L..31R""Rosales-Ortega, F. F., Sánchez, S. F., Iglesias-Páramo, J., Díaz, A. I., Vílchez, J. M., Bland-Hawthorn, J., Husemann, B., and Mast, D.""132",
+
+"2012yCat..35460002S""Sanchez, S. F., Rosales-Ortega, F. F., Marino, R. A., Iglesias-Paramo, J., Vilchez, J. M., Kennicutt, R. C., Diaz, A. I., Mast, D., Monreal-Ibero, A., Garcia-Benito, R., Bland-Hawthorn, J., Perez, E., Gonzalez Delgado, R., Husemann, B., Lopez-Sanchez, A. R., Cid Fernandes, R., Kehrig, C., Walcher, C. J., Gil de Paz, A., and Ellis, S.""0",
+
+"2012ESASP.701E..34P""Polo, Oscar R., Parra, Pablo, Knobluch, Martin, Garcia, Ignacio, Fernandez, Javier, Sanchez, Sebastian, and Angulo, Manuel""0",
+
+"2012IAUS..283..448M""Monteiro, Hektor, Gonçalves, Denise, Leal-Ferreira, Marcelo, Corradi, Romano, and Sánchez, Sebastian""0",
+
+"2012cosp...39.2161W""Wimmer-Schweingruber, Robert, Mason, Glenn, Ho, George, Boettcher, Stephan, Valtonen, Eino, Laitinen, Timo, Blanco, Juan Jose, Rodriguez-Pacheco, Javier, Martin, Cesar, Burmeister, Soenke, Prieto Mateo, Manuel, Kulkarni, Shrinivasrao, De Manuel, Victor, and Sanchez, Sebastian""0",
+
+"2012ApJ...754...61M""Marino, R. A., Gil de Paz, A., Castillo-Morales, A., Muñoz-Mateos, J. C., Sánchez, S. F., Pérez-González, P. G., Gallego, J., Zamorano, J., Alonso-Herrero, A., and Boissier, S.""35",
+
+"2012yCat..51391242A""Aparicio-Villegas, T. A., Alfaro, E. J., Cabrera-Cano, J., Moles, M., Benitez, N., Perea, J., Del Olmo, A., Fernandez-Soto, A., Cristobal-Hornillos, D., Husillos, C., Aguerri, J. A. L., Broadhurst, T., Castander, F. J., Cepa, J., Cervino, M., Delgado, R. M. G., Infante, L., Marquez, I., Masegosa, J., Martinez, V. J., Prada, F., Quintana, J. M., and Sanchez, S. F.""0",
+
+"2012A&A...541A.119F""Fernández-Martín, A., Martín-Gordón, D., Vílchez, J. M., Pérez Montero, E., Riera, A., and Sánchez, S. F.""21",
+
+"2012A&A...540A..11K""Kehrig, C., Monreal-Ibero, A., Papaderos, P., Vílchez, J. M., Gomes, J. M., Masegosa, J., Sánchez, S. F., Lehnert, M. D., Cid Fernandes, R., Bland-Hawthorn, J., Bomans, D. J., Marquez, I., Mast, D., Aguerri, J. A. L., López-Sánchez, Á. R., Marino, R. A., Pasquali, A., Perez, I., Roth, M. M., Sánchez-Blázquez, P., and Ziegler, B.""99",
+
+"2012A&A...538A.144V""Viironen, K., Sánchez, S. F., Marmol-Queraltó, E., Iglesias-Páramo, J., Mast, D., Marino, R. A., Cristóbal-Hornillos, D., Gil de Paz, A., van de Ven, G., Vilchez, J., and Wisotzki, L.""11",
+
+"2012A&A...538A...8S""Sánchez, S. F., Kennicutt, R. C., Gil de Paz, A., van de Ven, G., Vílchez, J. M., Wisotzki, L., Walcher, C. J., Mast, D., Aguerri, J. A. L., Albiol-Pérez, S., Alonso-Herrero, A., Alves, J., Bakos, J., Bartáková, T., Bland-Hawthorn, J., Boselli, A., Bomans, D. J., Castillo-Morales, A., Cortijo-Ferrero, C., de Lorenzo-Cáceres, A., Del Olmo, A., Dettmar, R.-J., Díaz, A., Ellis, S., Falcón-Barroso, J., Flores, H., Gallazzi, A., García-Lorenzo, B., González Delgado, R., Gruel, N., Haines, T., Hao, C., Husemann, B., Iglésias-Páramo, J., Jahnke, K., Johnson, B., Jungwiert, B., Kalinova, V., Kehrig, C., Kupko, D., López-Sánchez, Á. R., Lyubenova, M., Marino, R. A., Mármol-Queraltó, E., Márquez, I., Masegosa, J., Meidt, S., Mendez-Abreu, J., Monreal-Ibero, A., Montijo, C., Mourão, A. M., Palacios-Navarro, G., Papaderos, P., Pasquali, A., Peletier, R., Pérez, E., Pérez, I., Quirrenbach, A., Relaño, M., Rosales-Ortega, F. F., Roth, M. M., Ruiz-Lara, T., Sánchez-Blázquez, P., Sengupta, C., Singh, R., Stanishev, V., Trager, S. C., Vazdekis, A., Viironen, K., Wild, V., Zibetti, S., and Ziegler, B.""1215",
+
+"2012MSAIS..19..290M""Marino, R. A., Gil de Paz, A., Sánchez, S. F., Castillo-Morales, A., and CALIFA Team""0",
+
+"2011JPhCS.328a2004A""Aparicio Villegas, T., Alfaro, E. J., Cabrera-Caño, J., Moles, M., Benítez, N., Perea, J., del Olmo, A., Fernández-Soto, A., Cristóbal-Hornillos, D., Aguerri, J. A. L., Broadhurst, T., Castander, F. J., Cepa, J., Cervio, M., González Delgado, R. M., Infante, L., Márquez, I., Masegosa, J., Martínez, V. J., Prada, F., Quintana, J. M., and Sánchez, S. F.""3",
+
+"2011hsa6.conf..339S""Sánchez, S. F., Kennicutt, R. C., Gil de Paz, A., van den Ven, G., Vilchez, J. M., Wisotzki, L., Marino, R. A., Mármol-Queraltó, E., Mast, D., and Viironen, K.""6",
+
+"2011hsa6.conf..238M""Marino, R. A., Gil de Paz, A., Castillo-Morales, A., Muñoz-Mateos, J. C., and Sánchez, S. F.""0",
+
+"2011hsa6.conf..388M""Marino, R. A., Gil de Paz, A., Sánchez, S. F., and Castillo-Morales, A.""0",
+
+"2011hsa6.conf..402V""Viironen, K., Sánchez, S. F., Mármol-Queraltó, E., Mast, D., Marino, R. A., and Cristóbal-Hornillos, D.""0",
+
+"2011hsa6.conf..783S""Sánchez, S. F., Aceituno, J., Thiele, U., Grupp, F., Dreizler, S., Bean, J., and Benitez, D.""0",
+
+"2011hsa6.conf..389M""Mármol-Queraltó, E., Sánchez, S. F., Viironen, K., Mast, D., and Marino, R. A.""0",
+
+"2011hsa6.conf..526B""Balaguer-Nuñez L., Galadi-Enriquez, D., Jordi, C., Sanchez, S. F., and Muiños, J. L.""0",
+
+"2011hsa6.conf..637B""Barrado, D., Thiele, U., Aceituno, J., Pedraz, S., Sánchez, S. F., Aguirre, A., Alises, M., Bergond, G., Galadí, D., Guijarro, A., Hoyo, F., Mast, D., Montoya, L., Sengupta, Ch., de Guindos, E., and Solano, E.""2",
+
+"2011A&A...535A..72H""Husemann, B., Wisotzki, L., Jahnke, K., and Sánchez, S. F.""20",
+
+"2011A&A...534A...8M""Mármol-Queraltó, E., Sánchez, S. F., Marino, R. A., Mast, D., Viironen, K., Gil de Paz, A., Iglesias-Páramo, J., Rosales-Ortega, F. F., and Vilchez, J. M.""38",
+
+"2011PASP..123.1076A""Aceituno, J., Sánchez, S. F., Aceituno, F. J., Galadí-Enríquez, D., Negro, J. J., Soriguer, R. C., and Sanchez Gomez, G.""36",
+
+"2011MNRAS.415.2439R""Rosales-Ortega, F. F., Díaz, A. I., Kennicutt, R. C., and Sánchez, S. F.""110",
+
+"2011gafo.confP..88S""Sánchez, S. F., Kennicutt, R. C., Gil de Paz, A., van de Ven, G., Vílchez, J. M., and Walcher, C. J.""0",
+
+"2011ascl.soft06005S""Sánchez, Sebastián F.""0",
+
+"2011ascl.soft06004S""Sánchez, Sebastián F.""0",
+
+"2011MNRAS.413.1875N""Neumayer, Nadine, Walcher, Carl Jakob, Andersen, David, Sánchez, Sebastian F., Böker, Torsten, and Rix, Hans-Walter""65",
+
+"2011MNRAS.411.1819C""Castillo-Morales, A., Gallego, J., Pérez-Gallego, J., Guzmán, R., Muñoz-Mateos, J. C., Zamorano, J., and Sánchez, S. F.""5",
+
+"2011MSAIS..18...61M""Marinova, I., Jogee, S., Heiderman, A., Barazza, F. D., Gray, M. E., Barden, M., Wolf, C., Peng, C. Y., Bacon, D., Balogh, M., Bell, E. F., Böhm, A., Caldwell, J. A. R., Häußler, B., Heymans, C., Jahnke, K., van Kampen, E., Lane, K., McIntosh, D. H., Meisenheimer, K., Sánchez, S. F., Somerville, R., Taylor, A., Wisotzki, L., and Zheng, X.""2",
+
+"2011MNRAS.410..313S""Sánchez, S. F., Rosales-Ortega, F. F., Kennicutt, R. C., Johnson, B. D., Diaz, A. I., Pasquali, A., and Hao, C. N.""81",
+
+"2010MNRAS.408L...1H""Humphrey, A., Villar-Martín, M., Sánchez, S. F., Martínez-Sansigre, A., Delgado, R. González, Pérez, E., Tadhunter, C., and Pérez-Torres, M. A.""32",
+
+"2010ASPC..421..292S""Stoklasová, I., Ferruit, P., Emsellem, E., Jungwiert, B., Pécontal, E., and Sánchez, S. F.""0",
+
+"2010A&A...519L...4B""Bongiovanni, A., Oteo, I., Cepa, J., Pérez García, A. M., Sánchez-Portal, M., Ederoclite, A., Aguerri, J. A. L., Alfaro, E. J., Altieri, B., Andreani, P., Aparicio-Villegas, M. T., Aussel, H., Benítez, N., Berta, S., Broadhurst, T., Cabrera-Caño, J., Castander, F. J., Cava, A., Cerviño, M., Chulani, H., Cimatti, A., Cristóbal-Hornillos, D., Daddi, E., Dominguez, H., Elbaz, D., Fernández-Soto, A., Förster Schreiber, N., Genzel, R., Gómez, M. F., González Delgado, R. M., Grazian, A., Gruppioni, C., Herreros, J. M., Iglesias Groth, S., Infante, L., Lutz, D., Magnelli, B., Magdis, G., Maiolino, R., Márquez, I., Martínez, V. J., Masegosa, J., Moles, M., Molino, A., Nordon, R., Del Olmo, A., Perea, J., Poglitsch, A., Popesso, P., Pozzi, F., Prada, F., Quintana, J. M., Riguccini, L., Rodighiero, G., Saintonge, A., Sánchez, S. F., Santini, P., Shao, L., Sturm, E., Tacconi, L., and Valtchanov, I.""19",
+
