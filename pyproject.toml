@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ia-unam-bibliometrics"
+version = "0.1.0"
+description = "Reproducible bibliometric analysis of IA-UNAM from NASA ADS data"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.optional-dependencies]
+analysis = ["numpy", "pandas", "matplotlib"]
+dev = ["pytest"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
